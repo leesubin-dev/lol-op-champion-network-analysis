@@ -1,0 +1,11 @@
+﻿criterion,professor_view,evidence,development_added
+Topic alignment,Strong,"Outputs directly answer OP-excluded comps, OP-included comps, and opponent comps that beat OP teams.",Added OP status effect summary and denominator-aware opponent-combo table.
+Data freshness and patch logic,Strong with caveat,"Analysis window starts at Patch 26.9, reflecting the last major meta-change assumption.",OP.GG champion tier is matched per patch inside the 26.9+ window.
+Data quality control,Improved,Analysis uses 2017 complete-pick matches; excluded 190 incomplete-pick rows.,Created analysis_match_history.csv and excluded_incomplete_matches.csv for auditability.
+OP definition validity,Defensible,"Main OP definition is OP.GG OP tier for the matched patch, not a post-hoc pro win-rate score.",Added OP.GG tier sensitivity table as a robustness check without changing the main definition.
+Statistical interpretation,Improved,"OP-team win rate 53.1% (n=143, 95% CI 45.5%-60.8%)",Added bootstrap confidence intervals and exact binomial p-values for OP-team win rate.
+Exception-case interpretation,Improved,OP-loss games are now linked to player-level runes and final item inventories.,Added same-patch champion-role baseline comparison for low-frequency rune/item flags.
+Lecture-material alignment,Improved,"Notebook explicitly maps crawling, visualization, node centrality, and 2-mode network lecture concepts to the LoL project.",Added team-champion bipartite outputs and a 2-mode network visualization as a lecture-inspired supplement.
+Weak-node filtering transparency,Improved,"Weak links are filtered by minimum repeated games, positive smoothed weight, and top-weight visualization cuts.",Added network_filtering_criteria.csv so node/edge removal rules are auditable.
+Prediction model role,Use as supporting evidence,Best baseline accuracy 0.557; best network accuracy 0.520,Conclusion should not overclaim prediction if network features do not improve accuracy.
+Remaining limitation,Transparent,OP.GG solo-queue tier is not identical to pro-play OP status; CargoExport lacks true side and draft-order fields.,The notebook now frames these as limitations and keeps OP.GG tier as an external definition.

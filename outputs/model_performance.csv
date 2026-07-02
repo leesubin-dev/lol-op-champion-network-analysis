@@ -1,0 +1,37 @@
+﻿model_name,feature_set,accuracy,f1_score,roc_auc,log_loss,brier_score,confusion_matrix,classification_report,baseline_accuracy_same_model,accuracy_delta_vs_same_model
+LogisticRegression,baseline,0.556930693069307,0.6564299424184261,0.5889365760610397,0.6826806858620719,0.2439207935299597,"[[54, 117], [62, 171]]","              precision    recall  f1-score   support
+
+           0       0.47      0.32      0.38       171
+           1       0.59      0.73      0.66       233
+
+    accuracy                           0.56       404
+   macro avg       0.53      0.52      0.52       404
+weighted avg       0.54      0.56      0.54       404
+",0.556930693069307,
+LogisticRegression,network,0.5173267326732673,0.5859872611464968,0.47729839620510506,1.4146177455672806,0.38089801262880835,"[[71, 100], [95, 138]]","              precision    recall  f1-score   support
+
+           0       0.43      0.42      0.42       171
+           1       0.58      0.59      0.59       233
+
+    accuracy                           0.52       404
+   macro avg       0.50      0.50      0.50       404
+weighted avg       0.52      0.52      0.52       404
+",0.556930693069307,-0.03960396039603964
+RandomForest,baseline,0.5445544554455446,0.6134453781512605,0.5517154832718419,0.7173641692952042,0.25892200343948907,"[[74, 97], [87, 146]]","              precision    recall  f1-score   support
+
+           0       0.46      0.43      0.45       171
+           1       0.60      0.63      0.61       233
+
+    accuracy                           0.54       404
+   macro avg       0.53      0.53      0.53       404
+weighted avg       0.54      0.54      0.54       404
+",0.5445544554455446,
+RandomForest,network,0.5198019801980198,0.5726872246696035,0.5377105137665337,0.8989505263649413,0.3087156748861711,"[[80, 91], [103, 130]]","              precision    recall  f1-score   support
+
+           0       0.44      0.47      0.45       171
+           1       0.59      0.56      0.57       233
+
+    accuracy                           0.52       404
+   macro avg       0.51      0.51      0.51       404
+weighted avg       0.52      0.52      0.52       404
+",0.5445544554455446,-0.024752475247524774

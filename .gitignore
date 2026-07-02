@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local runtime outputs
+data/cache/
+data/champion_icons/
+*.log
+
+# Large or presentation-only local artifacts
+*.pptx
+*.ppt
+*.docx
+*.zip
+

@@ -1,0 +1,4 @@
+﻿scope,group,games_or_rows,wins,win_rate,smoothed_win_rate,ci_lower,ci_upper,p_value_vs_50,note
+team_rows,has_op,143,76,0.5314685314685315,0.5304054054054054,0.45454545454545453,0.6083916083916084,0.5036394897297796,Descriptive team-row rate; rows from the same match are not independent.
+team_rows,no_op,3891,1941,0.49884348496530456,0.49884496919917864,0.483159856078129,0.514520688768954,0.8979506655915459,Descriptive team-row rate; rows from the same match are not independent.
+match_exactly_one_team_has_op,op_team,143,76,0.5314685314685315,0.5304054054054054,0.45454545454545453,0.6083916083916084,0.5036394897297796,Primary OP-effect check: only matches where exactly one team picked an OP champion.

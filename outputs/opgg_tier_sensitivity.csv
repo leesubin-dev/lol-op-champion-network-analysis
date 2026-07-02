@@ -1,0 +1,4 @@
+﻿opgg_tier_cutoff_raw,tier_group,champion_count,champions_preview,exactly_one_side_games,wins_by_tier_group_team,win_rate,ci_lower,ci_upper,p_value_vs_50
+0,OP only,2,"Nocturne, Senna",143,76,0.5314685314685315,0.45454545454545453,0.6083916083916084,0.5036394897297796
+1,OP through Tier 1,39,"Ahri, Ashe, Brand, Briar, Caitlyn, Diana, Fizz, Garen, Graves, Hwei, Jhin, Jinx, Katarina, Kayn, Lee Sin, Leona, Lux, Malphite, Malzahar, Master Yi",917,466,0.5081788440567067,0.4765539803707743,0.5398037077426391,0.6438750691488532
+2,OP through Tier 2,86,"Aatrox, Ahri, Akali, Annie, Ashe, Bard, Blitzcrank, Brand, Braum, Briar, Caitlyn, Darius, Diana, Dr. Mundo, Ekko, Fizz, Gangplank, Garen, Graves, Hwei",106,47,0.44339622641509435,0.3490566037735849,0.5377358490566038,0.2852844218656582

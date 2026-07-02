@@ -1,0 +1,14 @@
+﻿check,value,note
+raw_match_rows,2207,rows collected before complete-pick filtering
+excluded_incomplete_pick_matches,190,excluded because at least one team had fewer than five picks
+match_rows,2017,분석에 사용한 경기 수
+date_range,2026-04-30 18:09:00 ~ 2026-06-15 16:40:00,chronological split 기준
+patches,"26.09, 26.10, 26.11",패치 범위
+duplicate_match_id,0,0이어야 함
+invalid_pick_lengths,0,픽 5개가 아닌 팀-row 수
+invalid_ban_lengths,0,밴이 5개를 초과한 팀-row 수
+unique_match_champions,168,픽/밴에 등장한 고유 챔피언 수
+global_stats_champions,172,GOL.GG 통계 챔피언 수
+missing_in_global_stats,6,"Bel'Veth, Cho'Gath, Kha'Zix, Kog'Maw, Nunu &amp; Willump, Vel'Koz"
+side_limitation,Team1/Team2 proxy,CargoExport에 실제 blue/red side 필드가 없어 진영 효과 feature는 제외
+model_stats_source,train_blended_with_golgg_prior,모델용 단독 지표 산출 방식

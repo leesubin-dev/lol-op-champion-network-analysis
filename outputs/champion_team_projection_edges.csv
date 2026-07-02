@@ -1,0 +1,7753 @@
+﻿source,target,teams_using_both,teams_using_pair_with_op_context
+Ezreal,Xin Zhao,188,0
+Ezreal,Jarvan IV,180,0
+Jarvan IV,Xin Zhao,176,0
+Ezreal,Sion,170,0
+Sion,Xin Zhao,169,0
+Bard,Xin Zhao,168,0
+Ashe,Seraphine,167,0
+Ezreal,Seraphine,166,0
+Seraphine,Xin Zhao,164,0
+Ezreal,Karma,164,0
+Jarvan IV,Sion,163,0
+Ezreal,Wukong,163,0
+Ezreal,Ryze,163,0
+Lucian,Milio,163,0
+Bard,Ezreal,163,0
+Jarvan IV,Seraphine,162,0
+Karma,Xin Zhao,160,0
+Ashe,Xin Zhao,159,0
+Nautilus,Xin Zhao,158,0
+Wukong,Xin Zhao,158,0
+Ezreal,K'Sante,157,0
+Ezreal,Nautilus,157,0
+Ezreal,Rumble,156,0
+Rumble,Xin Zhao,155,0
+Seraphine,Sion,155,0
+Jarvan IV,Nautilus,154,0
+Jarvan IV,Karma,153,0
+K'Sante,Xin Zhao,153,0
+Ashe,Ezreal,153,0
+Ryze,Xin Zhao,153,0
+Jarvan IV,Ryze,153,0
+Bard,Jarvan IV,151,0
+Ezreal,Lucian,151,0
+Nautilus,Sion,150,0
+Ashe,Jarvan IV,150,0
+Aurora,Xin Zhao,149,0
+Jarvan IV,K'Sante,149,0
+Ezreal,Milio,149,0
+Ashe,Sion,149,0
+Ezreal,Pantheon,149,0
+Bard,Sion,148,0
+Jarvan IV,Wukong,148,0
+Ryze,Sion,148,0
+Aurora,Ezreal,147,0
+Lucian,Xin Zhao,147,0
+Milio,Xin Zhao,147,0
+Ahri,Xin Zhao,146,0
+Aurora,Jarvan IV,144,0
+Gnar,Xin Zhao,144,0
+Lucian,Sion,144,0
+Jarvan IV,Rumble,144,0
+Ahri,Ezreal,143,0
+Ezreal,Vi,143,0
+K'Sante,Sion,143,0
+Vi,Xin Zhao,143,0
+Ryze,Seraphine,143,0
+Pantheon,Xin Zhao,143,0
+Rumble,Sion,143,0
+Bard,Karma,142,0
+Viktor,Xin Zhao,141,0
+Xin Zhao,Yunara,141,0
+Bard,Ryze,141,0
+Jarvan IV,Milio,141,0
+Milio,Sion,141,0
+Karma,Sion,140,0
+Sion,Wukong,140,0
+Ezreal,Orianna,140,0
+K'Sante,Ryze,140,0
+Lucian,Ryze,140,0
+Jarvan IV,Pantheon,140,0
+Pantheon,Sion,140,0
+Ezreal,Gnar,140,0
+Orianna,Xin Zhao,139,0
+Ahri,Jarvan IV,139,0
+Ahri,Sion,139,0
+Caitlyn,Ezreal,139,0
+Nautilus,Seraphine,139,0
+Jarvan IV,Lucian,139,0
+Ezreal,Nocturne,138,38
+Karma,Wukong,138,0
+Seraphine,Wukong,138,0
+Cassiopeia,Ezreal,138,0
+Milio,Ryze,138,0
+Rumble,Seraphine,138,0
+Jarvan IV,Viktor,137,0
+Ashe,Karma,137,0
+Karma,Seraphine,137,0
+Lulu,Xin Zhao,137,0
+Caitlyn,Jarvan IV,136,0
+Ashe,Ryze,136,0
+Nautilus,Ryze,136,0
+Rumble,Ryze,136,0
+Caitlyn,Xin Zhao,135,0
+Jarvan IV,Vi,135,0
+K'Sante,Karma,135,0
+Bard,Pantheon,135,0
+Jarvan IV,Nocturne,134,38
+Nautilus,Wukong,134,0
+Karma,Ryze,134,0
+Ezreal,Viktor,134,0
+Jarvan IV,Orianna,133,0
+K'Sante,Seraphine,133,0
+Lucian,Seraphine,133,0
+Bard,Rumble,133,0
+Aurora,Sion,132,0
+Cassiopeia,Xin Zhao,132,0
+Jarvan IV,Yunara,132,0
+Sion,Viktor,132,0
+Aurora,K'Sante,132,0
+Lucian,Rumble,132,0
+Milio,Seraphine,132,0
+K'Sante,Pantheon,132,0
+Pantheon,Ryze,132,0
+Bard,Seraphine,132,0
+Ezreal,Yunara,131,0
+Sion,Vi,131,0
+Bard,K'Sante,131,0
+Bard,Lucian,131,0
+Bard,Milio,131,0
+Pantheon,Seraphine,131,0
+Seraphine,Vi,131,0
+Seraphine,Viktor,131,0
+Ambessa,Xin Zhao,130,0
+Bard,Wukong,130,0
+Gnar,Jarvan IV,130,0
+Karma,Nautilus,130,0
+Ezreal,Lulu,130,0
+Karma,Rumble,130,0
+Milio,Rumble,130,0
+Ryze,Wukong,130,0
+Ashe,Bard,130,0
+Varus,Xin Zhao,130,0
+Bard,Nautilus,129,0
+Cassiopeia,Sion,129,0
+Ezreal,Nami,129,0
+Jarvan IV,Lulu,129,0
+Lulu,Yunara,129,0
+Ashe,Nautilus,129,0
+Nautilus,Rumble,129,0
+Ashe,Viktor,129,0
+Ryze,Vi,129,0
+Nocturne,Xin Zhao,128,35
+Cassiopeia,Jarvan IV,128,0
+Ashe,Wukong,128,0
+Ambessa,Ezreal,128,0
+Ahri,Bard,128,0
+Karma,Pantheon,128,0
+Ezreal,Renekton,128,0
+Bard,Caitlyn,127,0
+Gnar,Sion,127,0
+Lulu,Sion,127,0
+Ashe,Rumble,127,0
+Aurora,Ryze,127,0
+K'Sante,Rumble,127,0
+Karma,Lucian,127,0
+Milio,Wukong,127,0
+Ashe,Pantheon,127,0
+Ezreal,Jhin,127,0
+Jarvan IV,Varus,127,0
+Pantheon,Rumble,127,0
+Rumble,Vi,127,0
+Jayce,Xin Zhao,127,0
+Aurora,Bard,126,0
+Bard,Gnar,126,0
+Ahri,Seraphine,126,0
+Ashe,K'Sante,126,0
+Lucian,Nautilus,126,0
+Lucian,Wukong,126,0
+Milio,Nautilus,126,0
+Rumble,Wukong,126,0
+Bard,Jhin,126,0
+Jhin,Sion,126,0
+Ezreal,Varus,126,0
+Ezreal,Jayce,126,0
+Jhin,Xin Zhao,126,0
+Caitlyn,Karma,125,0
+Caitlyn,Sion,125,0
+Jarvan IV,Nami,125,0
+Ahri,Karma,125,0
+Ahri,Nautilus,125,0
+Ashe,Milio,125,0
+Jarvan IV,Jhin,125,0
+Milio,Pantheon,125,0
+Gnar,Rumble,125,0
+Ambessa,Jarvan IV,124,0
+Nami,Xin Zhao,124,0
+Nautilus,Viktor,124,0
+Neeko,Xin Zhao,124,0
+Caitlyn,Seraphine,124,0
+Renekton,Xin Zhao,124,0
+K'Sante,Nautilus,124,0
+K'Sante,Wukong,124,0
+Ahri,Ryze,124,0
+Aurora,Rumble,124,0
+K'Sante,Lucian,124,0
+Lucian,Pantheon,124,0
+Orianna,Sion,124,0
+Gnar,Seraphine,124,0
+Nocturne,Sion,123,37
+Bard,Viktor,123,0
+Gnar,Nautilus,123,0
+Jarvan IV,Neeko,123,0
+Sion,Yunara,123,0
+Orianna,Seraphine,123,0
+Ahri,Wukong,123,0
+Aurora,Seraphine,123,0
+Caitlyn,Ryze,123,0
+K'Sante,Milio,123,0
+Ashe,Vi,123,0
+Ezreal,Neeko,123,0
+Ryze,Viktor,123,0
+Nocturne,Ryze,122,36
+Nocturne,Seraphine,122,32
+Caitlyn,Wukong,122,0
+Karma,Viktor,122,0
+Ahri,Ashe,122,0
+Ashe,Lucian,122,0
+Cassiopeia,Ryze,122,0
+Karma,Milio,122,0
+Ezreal,Naafiri,122,0
+Bard,Nocturne,121,33
+Aurora,Karma,121,0
+Aurora,Nautilus,121,0
+Neeko,Sion,121,0
+Jarvan IV,Renekton,121,0
+Karma,Orianna,121,0
+Nautilus,Vi,121,0
+Aurora,Pantheon,121,0
+Lucian,Vi,121,0
+Gnar,Ryze,121,0
+Nautilus,Nocturne,120,36
+Viktor,Wukong,120,0
+Ashe,Orianna,120,0
+K'Sante,Vi,120,0
+Ahri,Lucian,120,0
+Lulu,Seraphine,120,0
+Orianna,Pantheon,120,0
+Rumble,Viktor,120,0
+Karma,Nocturne,119,36
+Aurora,Wukong,119,0
+Gnar,Karma,119,0
+Gnar,Wukong,119,0
+Ahri,Milio,119,0
+Aurora,Lucian,119,0
+Aurora,Milio,119,0
+Caitlyn,Rumble,119,0
+Milio,Viktor,119,0
+Pantheon,Wukong,119,0
+Nautilus,Pantheon,119,0
+Naafiri,Sion,119,0
+Naafiri,Xin Zhao,119,0
+Ashe,Gnar,119,0
+Lucian,Nocturne,118,37
+Milio,Nocturne,118,36
+Bard,Cassiopeia,118,0
+Cassiopeia,Karma,118,0
+Ahri,K'Sante,118,0
+Rumble,Yunara,118,0
+Bard,Vi,118,0
+Jhin,Karma,118,0
+Jhin,Ryze,118,0
+Gnar,Lucian,118,0
+Ashe,Nocturne,117,33
+Ambessa,Sion,117,0
+K'Sante,Lulu,117,0
+Ashe,Aurora,117,0
+Cassiopeia,Seraphine,117,0
+Nautilus,Orianna,117,0
+Seraphine,Yunara,117,0
+Bard,Lulu,117,0
+Lucian,Viktor,117,0
+Pantheon,Vi,117,0
+Pantheon,Viktor,117,0
+Nautilus,Varus,117,0
+Renekton,Sion,117,0
+Nocturne,Wukong,116,35
+Caitlyn,Nautilus,116,0
+Wukong,Yunara,116,0
+Ashe,Caitlyn,116,0
+Ahri,Vi,116,0
+Karma,Lulu,116,0
+Karma,Vi,116,0
+Ashe,Cassiopeia,116,0
+Caitlyn,K'Sante,116,0
+Caitlyn,Milio,116,0
+K'Sante,Orianna,116,0
+Ryze,Yunara,116,0
+Milio,Vi,116,0
+Gnar,Milio,116,0
+Jhin,Rumble,116,0
+Nocturne,Rumble,115,38
+Ambessa,Karma,115,0
+Aurora,Gnar,115,0
+Cassiopeia,Nautilus,115,0
+Orianna,Wukong,115,0
+Aurora,Vi,115,0
+Ashe,Lulu,115,0
+Caitlyn,Lucian,115,0
+Cassiopeia,Lucian,115,0
+Cassiopeia,Rumble,115,0
+Lucian,Lulu,115,0
+Lulu,Ryze,115,0
+Orianna,Ryze,115,0
+Ahri,Pantheon,115,0
+Bard,Orianna,115,0
+Jarvan IV,Naafiri,115,0
+Gnar,Pantheon,115,0
+Jarvan IV,Jayce,115,0
+K'Sante,Nocturne,114,41
+Bard,Neeko,114,0
+Bard,Yunara,114,0
+Karma,Yunara,114,0
+Nami,Sion,114,0
+Annie,Ezreal,114,0
+Annie,Xin Zhao,114,0
+Ahri,Rumble,114,0
+Ambessa,Seraphine,114,0
+Cassiopeia,Milio,114,0
+Jhin,Lucian,114,0
+Jhin,Milio,114,0
+Naafiri,Seraphine,114,0
+Akali,Jarvan IV,113,0
+Cassiopeia,Wukong,113,0
+Renekton,Seraphine,113,0
+Aurora,Lulu,113,0
+Lulu,Wukong,113,0
+Lulu,Rumble,113,0
+Orianna,Vi,113,0
+Ahri,Gnar,113,0
+Jayce,Seraphine,113,0
+Ambessa,Aurora,112,0
+Ambessa,Wukong,112,0
+Anivia,Xin Zhao,112,0
+Cassiopeia,Gnar,112,0
+Gnar,Yunara,112,0
+Renekton,Wukong,112,0
+Lulu,Nautilus,112,0
+Ambessa,Ashe,112,0
+Cassiopeia,K'Sante,112,0
+Lucian,Orianna,112,0
+Neeko,Ryze,112,0
+Naafiri,Nautilus,112,0
+Bard,Varus,112,0
+Gnar,K'Sante,112,0
+Jhin,Seraphine,112,0
+Caitlyn,Nocturne,111,32
+Ambessa,Bard,111,0
+Gnar,Viktor,111,0
+K'Sante,Yunara,111,0
+Ambessa,Ryze,111,0
+Anivia,Ezreal,111,0
+Ashe,Yunara,111,0
+Lulu,Milio,111,0
+Ashe,Jhin,111,0
+Caitlyn,Pantheon,111,0
+K'Sante,Viktor,111,0
+Lulu,Pantheon,111,0
+Seraphine,Varus,111,0
+Sion,Varus,111,0
+Karma,Varus,111,0
+Jayce,Sion,111,0
+Ahri,Nocturne,110,38
+Ambessa,Nautilus,110,0
+Aurora,Caitlyn,110,0
+Caitlyn,Gnar,110,0
+Caitlyn,Viktor,110,0
+Sivir,Xin Zhao,110,0
+Vi,Wukong,110,0
+Ahri,Orianna,110,0
+Ambessa,Lucian,110,0
+Lucian,Yunara,110,0
+Ryze,Varus,110,0
+Varus,Wukong,110,0
+Akali,Ezreal,110,0
+Renekton,Ryze,110,0
+Gnar,Nocturne,109,32
+Akali,Xin Zhao,109,0
+Anivia,Sion,109,0
+Aurora,Viktor,109,0
+Aurora,Yunara,109,0
+Nami,Seraphine,109,0
+Annie,Sion,109,0
+Ezreal,Sivir,109,0
+Vi,Yunara,109,0
+Ezreal,Skarner,109,0
+Milio,Orianna,109,0
+Jhin,Pantheon,109,0
+Ashe,Varus,109,0
+Neeko,Rumble,109,0
+Jayce,Milio,109,0
+Jhin,Nautilus,109,0
+Nocturne,Viktor,108,37
+Anivia,Jarvan IV,108,0
+Jarvan IV,Skarner,108,0
+Karma,Neeko,108,0
+Lee Sin,Sion,108,0
+Nautilus,Yunara,108,0
+Skarner,Xin Zhao,108,0
+Ambessa,K'Sante,108,0
+Lulu,Vi,108,0
+Ambessa,Milio,108,0
+Ahri,Viktor,108,0
+Caitlyn,Vi,108,0
+Jhin,K'Sante,108,0
+K'Sante,Neeko,108,0
+Lucian,Neeko,108,0
+Bard,Naafiri,108,0
+Nami,Ryze,108,0
+Pantheon,Yunara,108,0
+Ezreal,Lee Sin,108,0
+Bard,Jayce,108,0
+Gnar,Lulu,108,0
+Jayce,Rumble,108,0
+Bard,Renekton,108,0
+Nautilus,Renekton,108,0
+Caitlyn,Cassiopeia,107,0
+Nami,Wukong,107,0
+Viktor,Yunara,107,0
+Karma,Renekton,107,0
+Ahri,Aurora,107,0
+Annie,Jarvan IV,107,0
+Orianna,Rumble,107,0
+Gnar,Vi,107,0
+Jayce,Ryze,107,0
+Naafiri,Rumble,107,0
+Aurora,Nocturne,106,33
+Bard,Nami,106,0
+Jarvan IV,Sivir,106,0
+Nautilus,Neeko,106,0
+K'Sante,Nami,106,0
+Ambessa,Rumble,106,0
+Anivia,Seraphine,106,0
+Aurora,Orianna,106,0
+Milio,Yunara,106,0
+Ashe,Neeko,106,0
+Cassiopeia,Pantheon,106,0
+Jhin,Wukong,106,0
+Lulu,Viktor,106,0
+Neeko,Pantheon,106,0
+Vi,Viktor,106,0
+Ambessa,Pantheon,106,0
+Nami,Pantheon,106,0
+Neeko,Seraphine,106,0
+Ashe,Jayce,106,0
+Gnar,Jayce,106,0
+Jayce,Lucian,106,0
+Lucian,Renekton,106,0
+Renekton,Rumble,106,0
+Nocturne,Pantheon,105,30
+Ahri,Lulu,105,0
+Ahri,Yunara,105,0
+Ahri,Caitlyn,105,0
+Orianna,Yunara,105,0
+Jhin,Viktor,105,0
+Neeko,Vi,105,0
+Ashe,Naafiri,105,0
+Aurora,Naafiri,105,0
+Naafiri,Ryze,105,0
+Aurora,Renekton,105,0
+Nocturne,Vi,104,30
+Cassiopeia,Viktor,104,0
+Karma,Sivir,104,0
+Lee Sin,Xin Zhao,104,0
+Nami,Nautilus,104,0
+Neeko,Wukong,104,0
+Sion,Skarner,104,0
+Lulu,Orianna,104,0
+Milio,Neeko,104,0
+Lee Sin,Lucian,104,0
+Lee Sin,Milio,104,0
+Varus,Viktor,104,0
+Gnar,Jhin,104,0
+Jayce,Nautilus,104,0
+K'Sante,Renekton,104,0
+Akali,Sion,103,0
+Ambessa,Gnar,103,0
+Bard,Lee Sin,103,0
+Ashe,Nami,103,0
+Ashe,Renekton,103,0
+Ahri,Cassiopeia,103,0
+Annie,Rumble,103,0
+Ahri,Jhin,103,0
+Aurora,Jhin,103,0
+K'Sante,Naafiri,103,0
+Nami,Rumble,103,0
+Jayce,Wukong,103,0
+Anivia,Bard,102,0
+Caitlyn,Neeko,102,0
+Jarvan IV,Lee Sin,102,0
+Karma,Nami,102,0
+Lee Sin,Nautilus,102,0
+Sion,Sivir,102,0
+Akali,Seraphine,102,0
+Anivia,Ryze,102,0
+Annie,Lucian,102,0
+Lucian,Nami,102,0
+Lee Sin,Ryze,102,0
+Gnar,Orianna,102,0
+Jayce,Pantheon,102,0
+Pantheon,Renekton,102,0
+Cassiopeia,Nocturne,101,35
+Jhin,Nocturne,101,33
+Nocturne,Orianna,101,27
+Ambessa,Viktor,101,0
+Aurora,Nami,101,0
+Aurora,Neeko,101,0
+Caitlyn,Yunara,101,0
+Nami,Viktor,101,0
+Sivir,Wukong,101,0
+Caitlyn,Orianna,101,0
+Caitlyn,Renekton,101,0
+Orianna,Renekton,101,0
+Ambessa,Vi,101,0
+Ambessa,Orianna,101,0
+Ryze,Skarner,101,0
+Cassiopeia,Vi,101,0
+Jhin,Orianna,101,0
+Jhin,Vi,101,0
+Lee Sin,Seraphine,101,0
+Milio,Naafiri,101,0
+Akali,Ryze,101,0
+K'Sante,Varus,101,0
+Rumble,Varus,101,0
+Milio,Renekton,101,0
+Ambessa,Nocturne,100,32
+Nocturne,Yunara,100,26
+Aurora,Cassiopeia,100,0
+Ambessa,Lulu,100,0
+Annie,Wukong,100,0
+Annie,Milio,100,0
+Annie,Ryze,100,0
+Orianna,Viktor,100,0
+Ahri,Varus,100,0
+Naafiri,Viktor,100,0
+Jayce,K'Sante,100,0
+Jayce,Karma,100,0
+Annie,Bard,100,0
+Renekton,Viktor,100,0
+Lulu,Nocturne,99,28
+Bard,Skarner,99,0
+Gnar,Neeko,99,0
+Neeko,Viktor,99,0
+Ahri,Ambessa,99,0
+Annie,Aurora,99,0
+Corki,Ezreal,99,0
+Annie,Ashe,99,0
+Caitlyn,Lulu,99,0
+Milio,Skarner,99,0
+Seraphine,Skarner,99,0
+Ahri,Neeko,99,0
+Cassiopeia,Jhin,99,0
+Karma,Naafiri,99,0
+Naafiri,Pantheon,99,0
+Lucian,Varus,99,0
+Ambessa,Jhin,99,0
+Gnar,Renekton,99,0
+Ambessa,Yunara,98,0
+Cassiopeia,Yunara,98,0
+Corki,Jarvan IV,98,0
+Corki,Nami,98,0
+Jarvan IV,Rakan,98,0
+Anivia,K'Sante,98,0
+Anivia,Lucian,98,0
+Annie,Seraphine,98,0
+Cassiopeia,Lulu,98,0
+Lucian,Skarner,98,0
+Lucian,Naafiri,98,0
+Milio,Nami,98,0
+Caitlyn,Jayce,98,0
+Neeko,Nocturne,97,30
+Ambessa,Cassiopeia,97,0
+Anivia,Nautilus,97,0
+Aurora,Lee Sin,97,0
+Bard,Sivir,97,0
+Caitlyn,Nami,97,0
+Gnar,Nami,97,0
+Nautilus,Skarner,97,0
+Annie,K'Sante,97,0
+Anivia,Ashe,97,0
+Anivia,Milio,97,0
+Neeko,Orianna,97,0
+Ryze,Sivir,97,0
+Caitlyn,Naafiri,97,0
+Jarvan IV,Rell,97,0
+Aurora,Varus,97,0
+Milio,Varus,97,0
+Gnar,Varus,97,0
+Cassiopeia,Jayce,97,0
+K'Sante,Lee Sin,97,0
+Lee Sin,Rumble,97,0
+Ahri,Renekton,97,0
+Renekton,Vi,97,0
+Akali,Bard,96,0
+Akali,Karma,96,0
+Corki,Xin Zhao,96,0
+Karma,Skarner,96,0
+Ashe,Skarner,96,0
+Cassiopeia,Orianna,96,0
+K'Sante,Skarner,96,0
+Ezreal,Rell,96,0
+Ashe,Lee Sin,96,0
+Orianna,Varus,96,0
+Varus,Vi,96,0
+Seraphine,Sivir,96,0
+Nami,Nocturne,95,24
+Cassiopeia,Neeko,95,0
+Gnar,Lee Sin,95,0
+Karma,Lee Sin,95,0
+Nautilus,Sivir,95,0
+Skarner,Wukong,95,0
+Akali,Ashe,95,0
+Rakan,Xin Zhao,95,0
+Annie,Nautilus,95,0
+K'Sante,Sivir,95,0
+Anivia,Rumble,95,0
+Rumble,Skarner,95,0
+Caitlyn,Jhin,95,0
+Lucian,Sivir,95,0
+Milio,Sivir,95,0
+Ahri,Naafiri,95,0
+Naafiri,Vi,95,0
+Ezreal,Rakan,95,0
+Akali,K'Sante,95,0
+Akali,Rumble,95,0
+Caitlyn,Varus,95,0
+Pantheon,Varus,95,0
+Jayce,Orianna,95,0
+Annie,Gnar,95,0
+Jhin,Renekton,95,0
+Jayce,Nocturne,94,32
+Nocturne,Renekton,94,30
+Anivia,Karma,94,0
+Lee Sin,Wukong,94,0
+Ahri,Sivir,94,0
+Naafiri,Orianna,94,0
+Cassiopeia,Varus,94,0
+Gnar,Naafiri,94,0
+Akali,Nautilus,93,0
+Anivia,Caitlyn,93,0
+Anivia,Cassiopeia,93,0
+Caitlyn,Skarner,93,0
+Cassiopeia,Sivir,93,0
+Corki,Sion,93,0
+Neeko,Yunara,93,0
+Nami,Orianna,93,0
+Annie,Karma,93,0
+Lulu,Nami,93,0
+Lulu,Sivir,93,0
+Jhin,Neeko,93,0
+Ahri,Jayce,93,0
+Akali,Lucian,93,0
+Akali,Milio,93,0
+Aurora,Jayce,93,0
+Jayce,Neeko,93,0
+Rumble,Sivir,93,0
+Lulu,Renekton,93,0
+Renekton,Varus,93,0
+Anivia,Wukong,92,0
+Cassiopeia,Nami,92,0
+Nami,Yunara,92,0
+Ahri,Nami,92,0
+Nami,Vi,92,0
+Alistar,Ezreal,92,0
+Jhin,Lulu,92,0
+Pantheon,Sivir,92,0
+Naafiri,Wukong,92,0
+Rell,Xin Zhao,92,0
+Anivia,Pantheon,92,0
+Jayce,Vi,92,0
+Annie,Pantheon,92,0
+Renekton,Yunara,92,0
+Jayce,Lulu,92,0
+Anivia,Viktor,91,0
+Caitlyn,Lee Sin,91,0
+Corki,Nautilus,91,0
+Ezreal,Taliyah,91,0
+Taliyah,Xin Zhao,91,0
+Lulu,Neeko,91,0
+Nautilus,Rell,91,0
+Annie,Lee Sin,91,0
+Jhin,Lee Sin,91,0
+Jayce,Viktor,91,0
+Jayce,Yunara,91,0
+Akali,Cassiopeia,90,0
+Anivia,Aurora,90,0
+Bard,Corki,90,0
+Cassiopeia,Skarner,90,0
+Gnar,Sivir,90,0
+Ambessa,Annie,90,0
+Annie,Yunara,90,0
+Jarvan IV,Taliyah,90,0
+Seraphine,Trundle,90,0
+Corki,Ryze,90,0
+Corki,Seraphine,90,0
+Lulu,Naafiri,90,0
+Alistar,Xin Zhao,90,0
+Jayce,Jhin,90,0
+Lee Sin,Pantheon,90,0
+Sion,Trundle,90,0
+Ambessa,Renekton,90,0
+Jhin,Yunara,90,0
+Neeko,Renekton,90,0
+Nocturne,Skarner,89,28
+Nocturne,Varus,89,28
+Aurora,Sivir,89,0
+Cassiopeia,Lee Sin,89,0
+Sivir,Viktor,89,0
+Annie,Vi,89,0
+Corki,K'Sante,89,0
+Annie,Cassiopeia,89,0
+Annie,Orianna,89,0
+Naafiri,Yunara,89,0
+Anivia,Vi,89,0
+Lee Sin,Vi,89,0
+Akali,Pantheon,89,0
+Annie,Jhin,89,0
+Ambessa,Jayce,89,0
+Cassiopeia,Renekton,89,0
+Jayce,Nami,89,0
+Akali,Aurora,88,0
+Akali,Wukong,88,0
+Aurora,Skarner,88,0
+Sivir,Yunara,88,0
+Sivir,Vi,88,0
+Anivia,Lulu,88,0
+Annie,Caitlyn,88,0
+Ezreal,Trundle,88,0
+Trundle,Xin Zhao,88,0
+Pantheon,Skarner,88,0
+Corki,Pantheon,88,0
+Nautilus,Rakan,88,0
+Neeko,Varus,88,0
+Cassiopeia,Naafiri,88,0
+Jhin,Naafiri,88,0
+Lee Sin,Lulu,88,0
+Anivia,Nocturne,87,25
+Annie,Nocturne,87,25
+Ambessa,Neeko,87,0
+Lee Sin,Viktor,87,0
+Skarner,Viktor,87,0
+Rakan,Seraphine,87,0
+Annie,Lulu,87,0
+Sion,Taliyah,87,0
+Alistar,Jarvan IV,87,0
+Alistar,Sion,87,0
+Ahri,Akali,87,0
+Jarvan IV,Trundle,87,0
+Lulu,Varus,87,0
+Naafiri,Nocturne,86,26
+Akali,Neeko,86,0
+Anivia,Gnar,86,0
+Anivia,Neeko,86,0
+Corki,Karma,86,0
+Gnar,Skarner,86,0
+Skarner,Yunara,86,0
+Nami,Renekton,86,0
+Rakan,Wukong,86,0
+Ahri,Annie,86,0
+Ahri,Skarner,86,0
+Lulu,Skarner,86,0
+Alistar,K'Sante,86,0
+Ashe,Sivir,86,0
+Orianna,Sivir,86,0
+Skarner,Vi,86,0
+Rell,Ryze,86,0
+Nami,Varus,86,0
+Seraphine,Taliyah,86,0
+Akali,Vi,86,0
+Akali,Jhin,86,0
+Annie,Neeko,86,0
+Ambessa,Caitlyn,85,0
+Neeko,Skarner,85,0
+Milio,Trundle,85,0
+Ahri,Lee Sin,85,0
+Ambessa,Varus,85,0
+Lee Sin,Naafiri,85,0
+Naafiri,Neeko,85,0
+Jayce,Renekton,85,0
+Varus,Yunara,85,0
+Ambessa,Lee Sin,84,0
+Ambessa,Nami,84,0
+Ambessa,Sivir,84,0
+Caitlyn,Sivir,84,0
+Alistar,Pantheon,84,0
+Ambessa,Naafiri,84,0
+Corki,Lucian,84,0
+Rakan,Sion,84,0
+Jayce,Varus,84,0
+Jhin,Varus,84,0
+Corki,Rumble,84,0
+Akali,Nocturne,83,27
+Corki,Viktor,83,0
+Corki,Wukong,83,0
+Lee Sin,Neeko,83,0
+Nami,Neeko,83,0
+Lucian,Trundle,83,0
+Orianna,Skarner,83,0
+Ashe,Corki,83,0
+Corki,Milio,83,0
+Lee Sin,Orianna,83,0
+Rakan,Ryze,83,0
+Anivia,Jhin,83,0
+Jayce,Naafiri,83,0
+Annie,Viktor,83,0
+Anivia,Renekton,83,0
+Lee Sin,Nocturne,82,24
+Akali,Viktor,82,0
+Kai'Sa,Xin Zhao,82,0
+Ashe,Rakan,82,0
+Annie,Nami,82,0
+Ahri,Anivia,82,0
+Ashe,Trundle,82,0
+Ahri,Rakan,82,0
+Alistar,Seraphine,82,0
+Lee Sin,Varus,82,0
+Anivia,Jayce,82,0
+Annie,Naafiri,82,0
+Annie,Jayce,82,0
+Akali,Caitlyn,81,0
+Ambessa,Skarner,81,0
+Anivia,Yunara,81,0
+Aurora,Corki,81,0
+Lee Sin,Yunara,81,0
+Naafiri,Skarner,81,0
+Mel,Xin Zhao,81,0
+Bard,Rakan,81,0
+Gnar,Rell,81,0
+K'Sante,Rakan,81,0
+Rell,Sion,81,0
+Miss Fortune,Nautilus,81,0
+Naafiri,Renekton,81,0
+Nocturne,Sivir,80,30
+Akali,Ambessa,80,0
+Akali,Gnar,80,0
+Neeko,Sivir,80,0
+Ornn,Xin Zhao,80,0
+Karma,Rakan,80,0
+Nautilus,Taliyah,80,0
+Cassiopeia,Trundle,80,0
+Ezreal,Zaahen,80,0
+Rumble,Trundle,80,0
+Ryze,Trundle,80,0
+Alistar,Ashe,80,0
+Aurora,Rell,80,0
+Rell,Seraphine,80,0
+Anivia,Varus,80,0
+Ashe,Taliyah,80,0
+Naafiri,Varus,80,0
+Rakan,Vi,80,0
+Ryze,Taliyah,80,0
+Rakan,Rumble,80,0
+Rell,Wukong,80,0
+Jayce,Skarner,80,0
+Pantheon,Taliyah,80,0
+Lee Sin,Renekton,80,0
+Anivia,Skarner,79,0
+Galio,Xin Zhao,79,0
+Kai'Sa,Nautilus,79,0
+Corki,Vi,79,0
+Anivia,Orianna,79,0
+Ezreal,Kai'Sa,79,0
+Nautilus,Trundle,79,0
+Trundle,Wukong,79,0
+Alistar,Wukong,79,0
+Jarvan IV,Xayah,79,0
+Jhin,Skarner,79,0
+Rell,Vi,79,0
+Ezreal,Mel,79,0
+K'Sante,Rell,79,0
+Rell,Rumble,79,0
+Rumble,Taliyah,79,0
+Annie,Renekton,79,0
+Jarvan IV,Kai'Sa,78,0
+Akali,Renekton,78,0
+Aatrox,Ezreal,78,0
+K'Sante,Trundle,78,0
+Karma,Trundle,78,0
+Alistar,Aurora,78,0
+Alistar,Bard,78,0
+Alistar,Karma,78,0
+Alistar,Ryze,78,0
+Anivia,Naafiri,78,0
+Bard,Taliyah,78,0
+Twisted Fate,Xin Zhao,78,0
+Annie,Varus,78,0
+Bard,Trundle,78,0
+Alistar,Rumble,78,0
+Ezreal,Miss Fortune,78,0
+Galio,Sion,77,0
+Lee Sin,Nami,77,0
+Ezreal,Galio,77,0
+Ahri,Trundle,77,0
+Aurora,Trundle,77,0
+Alistar,Orianna,77,0
+Ezreal,Ornn,77,0
+Jhin,Sivir,77,0
+Ahri,Rell,77,0
+Karma,Rell,77,0
+Naafiri,Nami,77,0
+Lucian,Rakan,77,0
+Milio,Rakan,77,0
+Rakan,Varus,77,0
+Ezreal,Twisted Fate,77,0
+Ryze,Twisted Fate,77,0
+Jhin,Nami,77,0
+Nocturne,Rakan,76,29
+Ambessa,Anivia,76,0
+Caitlyn,Corki,76,0
+Corki,Yunara,76,0
+Galio,Jarvan IV,76,0
+Nami,Skarner,76,0
+Sivir,Skarner,76,0
+Ahri,Corki,76,0
+Corki,Lulu,76,0
+K'Sante,Taliyah,76,0
+Ezreal,Yorick,76,0
+Rumble,Yorick,76,0
+Alistar,Viktor,76,0
+Ezreal,Xayah,76,0
+Jarvan IV,Mel,76,0
+Akali,Varus,76,0
+Pantheon,Rakan,76,0
+Sivir,Varus,76,0
+Pantheon,Trundle,76,0
+Trundle,Vi,76,0
+Jayce,Lee Sin,76,0
+Miss Fortune,Sion,76,0
+Renekton,Sivir,76,0
+Nocturne,Taliyah,75,22
+Akali,Nami,75,0
+Ambessa,Corki,75,0
+Cassiopeia,Corki,75,0
+Kai'Sa,Sion,75,0
+Nami,Sivir,75,0
+Akali,Orianna,75,0
+Annie,Skarner,75,0
+Xin Zhao,Yorick,75,0
+Alistar,Vi,75,0
+Jarvan IV,Yorick,75,0
+Caitlyn,Rell,75,0
+Pantheon,Rell,75,0
+Lucian,Taliyah,75,0
+Milio,Taliyah,75,0
+Jayce,Sivir,75,0
+Sion,Twisted Fate,75,0
+Miss Fortune,Xin Zhao,75,0
+Renekton,Skarner,75,0
+Corki,Nocturne,74,22
+Corki,Gnar,74,0
+Galio,Wukong,74,0
+Jarvan IV,Ornn,74,0
+Jarvan IV,Zaahen,74,0
+Lee Sin,Sivir,74,0
+Ornn,Sion,74,0
+Ahri,Taliyah,74,0
+Aurora,Taliyah,74,0
+Karma,Taliyah,74,0
+Taliyah,Wukong,74,0
+Caitlyn,Trundle,74,0
+Sion,Yorick,74,0
+Ashe,Rell,74,0
+Alistar,Nautilus,74,0
+Rell,Varus,74,0
+Naafiri,Sivir,74,0
+Akali,Lulu,74,0
+Trundle,Viktor,74,0
+Miss Fortune,Rumble,74,0
+Rell,Renekton,74,0
+Corki,Neeko,73,0
+Xin Zhao,Zaahen,73,0
+Aatrox,Xin Zhao,73,0
+Caitlyn,Rakan,73,0
+Orianna,Rakan,73,0
+Ezreal,Vayne,73,0
+Orianna,Trundle,73,0
+Sion,Xayah,73,0
+Bard,Rell,73,0
+Alistar,Gnar,73,0
+Jarvan IV,Twisted Fate,73,0
+Lucian,Twisted Fate,73,0
+Skarner,Varus,73,0
+Jhin,Trundle,73,0
+Corki,Jayce,73,0
+Nocturne,Rell,72,23
+Nautilus,Ornn,72,0
+Aatrox,Jarvan IV,72,0
+Taliyah,Vi,72,0
+Vayne,Xin Zhao,72,0
+Milio,Yorick,72,0
+Alistar,Jhin,72,0
+Alistar,Milio,72,0
+Aurora,Rakan,72,0
+Akali,Jayce,72,0
+Cassiopeia,Twisted Fate,72,0
+Gnar,Taliyah,72,0
+Gnar,Twisted Fate,72,0
+Seraphine,Twisted Fate,72,0
+Gnar,Trundle,72,0
+Nocturne,Trundle,71,25
+Akali,Yunara,71,0
+Anivia,Lee Sin,71,0
+Anivia,Nami,71,0
+Galio,Nautilus,71,0
+Ornn,Viktor,71,0
+Aatrox,Karma,71,0
+Annie,Sivir,71,0
+Lucian,Yorick,71,0
+Ryze,Yorick,71,0
+Ahri,Xayah,71,0
+Alistar,Caitlyn,71,0
+Alistar,Lucian,71,0
+Lucian,Rell,71,0
+Alistar,Varus,71,0
+Lucian,Mel,71,0
+Orianna,Taliyah,71,0
+Rakan,Viktor,71,0
+Taliyah,Viktor,71,0
+Xayah,Xin Zhao,71,0
+Gnar,Rakan,71,0
+Bard,Twisted Fate,71,0
+Milio,Twisted Fate,71,0
+Bard,Mel,71,0
+Rell,Viktor,71,0
+Cassiopeia,Rakan,71,0
+Akali,Lee Sin,70,0
+Anivia,Sivir,70,0
+Bard,Kai'Sa,70,0
+Lee Sin,Skarner,70,0
+Nautilus,Zaahen,70,0
+Sion,Zaahen,70,0
+Aatrox,Wukong,70,0
+Jarvan IV,Vayne,70,0
+Anivia,Annie,70,0
+Annie,Trundle,70,0
+Ashe,Yorick,70,0
+Ryze,Xayah,70,0
+Corki,Naafiri,70,0
+Ezreal,Gwen,70,0
+Alistar,Naafiri,70,0
+Leona,Xin Zhao,70,0
+Mel,Sion,70,0
+Nautilus,Twisted Fate,70,0
+Rumble,Twisted Fate,70,0
+Jarvan IV,Miss Fortune,70,0
+Alistar,Yunara,70,0
+Kai'Sa,Karma,69,0
+Karma,Ornn,69,0
+Rakan,Renekton,69,0
+Taliyah,Yunara,69,0
+Ambessa,Trundle,69,0
+K'Sante,Kai'Sa,69,0
+Lulu,Trundle,69,0
+Nautilus,Yorick,69,0
+Seraphine,Yorick,69,0
+Seraphine,Zaahen,69,0
+Ahri,Alistar,69,0
+Bard,Xayah,69,0
+Bard,Yorick,69,0
+Ambessa,Rell,69,0
+Bard,Gwen,69,0
+Corki,Orianna,69,0
+Caitlyn,Taliyah,69,0
+Gwen,Xin Zhao,69,0
+K'Sante,Mel,69,0
+Alistar,Renekton,69,0
+Miss Fortune,Renekton,69,0
+Miss Fortune,Seraphine,69,0
+Renekton,Trundle,69,0
+Jhin,Rakan,69,0
+Lulu,Rakan,69,0
+Ambessa,Taliyah,68,0
+Lulu,Taliyah,68,0
+Sion,Vayne,68,0
+Ashe,Zaahen,68,0
+Galio,Seraphine,68,0
+Aatrox,Bard,68,0
+Alistar,Cassiopeia,68,0
+Alistar,Lulu,68,0
+K'Sante,Xayah,68,0
+Ezreal,Sylas,68,0
+Kai'Sa,Pantheon,68,0
+Naafiri,Rell,68,0
+Orianna,Rell,68,0
+Alistar,Ambessa,68,0
+Aurora,Mel,68,0
+Nautilus,Xayah,68,0
+Akali,Naafiri,68,0
+Milio,Rell,68,0
+Azir,Ezreal,68,0
+Azir,Xin Zhao,68,0
+Renekton,Taliyah,68,0
+Corki,Renekton,68,0
+Jayce,Trundle,68,0
+Nocturne,Yorick,67,16
+Akali,Sivir,67,0
+Bard,Ornn,67,0
+Karma,Zaahen,67,0
+Wukong,Zaahen,67,0
+Nautilus,Vayne,67,0
+Cassiopeia,Yorick,67,0
+Kai'Sa,Orianna,67,0
+Kai'Sa,Seraphine,67,0
+Karma,Yorick,67,0
+Trundle,Yunara,67,0
+Karma,Xayah,67,0
+Ornn,Ryze,67,0
+Jarvan IV,Sylas,67,0
+Kai'Sa,Vi,67,0
+Rell,Yunara,67,0
+Mel,Milio,67,0
+Naafiri,Taliyah,67,0
+Sylas,Xin Zhao,67,0
+Neeko,Rakan,67,0
+Ashe,Twisted Fate,67,0
+Cassiopeia,Rell,67,0
+Cassiopeia,Taliyah,67,0
+Pantheon,Twisted Fate,67,0
+Azir,Jarvan IV,67,0
+Neeko,Trundle,67,0
+Trundle,Varus,67,0
+Bard,Miss Fortune,67,0
+Miss Fortune,Ryze,67,0
+Rakan,Yunara,67,0
+Alistar,Nocturne,66,24
+Akali,Anivia,66,0
+Akali,Skarner,66,0
+Galio,Karma,66,0
+Kai'Sa,Wukong,66,0
+Aatrox,Seraphine,66,0
+Annie,Corki,66,0
+Ahri,Kai'Sa,66,0
+Anivia,Trundle,66,0
+Aurora,Yorick,66,0
+Milio,Zaahen,66,0
+Aatrox,Lucian,66,0
+Jhin,Yorick,66,0
+Anivia,Taliyah,66,0
+Ezreal,Leona,66,0
+Leona,Nautilus,66,0
+Mel,Ryze,66,0
+Rakan,Xayah,66,0
+Caitlyn,Twisted Fate,66,0
+Jayce,Taliyah,66,0
+Jayce,Twisted Fate,66,0
+Twisted Fate,Vi,66,0
+Lee Sin,Trundle,66,0
+Naafiri,Trundle,66,0
+Sivir,Trundle,66,0
+Cassiopeia,Miss Fortune,66,0
+Gnar,Miss Fortune,66,0
+Mel,Renekton,66,0
+Annie,Rakan,66,0
+Nautilus,Senna,65,48
+Kai'Sa,Nocturne,65,19
+Anivia,Corki,65,0
+Bard,Galio,65,0
+Viktor,Zaahen,65,0
+Aatrox,Sion,65,0
+Galio,Rumble,65,0
+K'Sante,Yorick,65,0
+Kai'Sa,Ryze,65,0
+Milio,Xayah,65,0
+Vi,Yorick,65,0
+Leona,Sion,65,0
+Mel,Orianna,65,0
+Mel,Seraphine,65,0
+Mel,Vi,65,0
+Naafiri,Rakan,65,0
+Neeko,Rell,65,0
+Jayce,Rell,65,0
+Karma,Twisted Fate,65,0
+Neeko,Taliyah,65,0
+Corki,Jhin,65,0
+Gnar,Yorick,65,0
+Karma,Mel,65,0
+Twisted Fate,Wukong,65,0
+Milio,Miss Fortune,65,0
+Miss Fortune,Wukong,65,0
+Ornn,Seraphine,65,0
+Aurora,Kai'Sa,64,0
+Corki,Lee Sin,64,0
+Corki,Skarner,64,0
+Syndra,Xin Zhao,64,0
+Aatrox,Caitlyn,64,0
+Aatrox,Ahri,64,0
+Vayne,Wukong,64,0
+Ashe,Galio,64,0
+K'Sante,Zaahen,64,0
+Kai'Sa,Rumble,64,0
+Aatrox,Ryze,64,0
+Aatrox,Viktor,64,0
+Ornn,Pantheon,64,0
+Gwen,Jarvan IV,64,0
+Seraphine,Xayah,64,0
+Anivia,Rell,64,0
+Azir,Sion,64,0
+Mel,Pantheon,64,0
+Lucian,Miss Fortune,64,0
+Rumble,Xayah,64,0
+Caitlyn,Kai'Sa,63,0
+Gnar,Kai'Sa,63,0
+Kai'Sa,Yunara,63,0
+Ornn,Wukong,63,0
+Yunara,Zaahen,63,0
+Caitlyn,Yorick,63,0
+Lucian,Vayne,63,0
+Lulu,Zaahen,63,0
+Milio,Vayne,63,0
+Ryze,Vayne,63,0
+Seraphine,Vayne,63,0
+Ahri,Ornn,63,0
+Alistar,Neeko,63,0
+Ashe,Xayah,63,0
+Pantheon,Xayah,63,0
+Pantheon,Yorick,63,0
+Karma,Sylas,63,0
+Lulu,Rell,63,0
+Alistar,Lee Sin,63,0
+Corki,Varus,63,0
+Jarvan IV,Leona,63,0
+Alistar,Jayce,63,0
+Akali,Trundle,63,0
+Azir,Karma,63,0
+Azir,Seraphine,63,0
+Mel,Rumble,63,0
+Aurora,Miss Fortune,63,0
+K'Sante,Miss Fortune,63,0
+Karma,Miss Fortune,63,0
+Jayce,Rakan,63,0
+Akali,Corki,62,0
+Aurora,Zaahen,62,0
+Bard,Zaahen,62,0
+Cassiopeia,Zaahen,62,0
+Corki,Sivir,62,0
+Kai'Sa,Viktor,62,0
+Aatrox,K'Sante,62,0
+Aatrox,Nautilus,62,0
+Galio,Milio,62,0
+Kai'Sa,Lulu,62,0
+Lucian,Zaahen,62,0
+Ryze,Zaahen,62,0
+Skarner,Trundle,62,0
+Wukong,Yorick,62,0
+Vi,Xayah,62,0
+Ahri,Gwen,62,0
+Alistar,Nami,62,0
+Anivia,Rakan,62,0
+Leona,Seraphine,62,0
+Leona,Wukong,62,0
+Mel,Nautilus,62,0
+Mel,Viktor,62,0
+Mel,Wukong,62,0
+Jhin,Rell,62,0
+Jhin,Taliyah,62,0
+K'Sante,Twisted Fate,62,0
+Orianna,Twisted Fate,62,0
+Akali,Annie,62,0
+Azir,Rumble,62,0
+Jayce,Yorick,62,0
+Miss Fortune,Nocturne,61,15
+Mel,Nocturne,61,14
+Caitlyn,Ornn,61,0
+Aatrox,Ashe,61,0
+Nami,Rakan,61,0
+Galio,K'Sante,61,0
+Karma,Vayne,61,0
+Ashe,Vayne,61,0
+Galio,Lucian,61,0
+Galio,Ryze,61,0
+Orianna,Yorick,61,0
+Lucian,Xayah,61,0
+Orianna,Ornn,61,0
+Orianna,Xayah,61,0
+Gwen,Nautilus,61,0
+Alistar,Anivia,61,0
+Ambessa,Rakan,61,0
+Mel,Varus,61,0
+Neeko,Twisted Fate,61,0
+Azir,Bard,61,0
+Lulu,Twisted Fate,61,0
+Naafiri,Yorick,61,0
+Twisted Fate,Viktor,61,0
+Rakan,Trundle,61,0
+Alistar,Annie,61,0
+K'Sante,Leona,61,0
+Miss Fortune,Vi,61,0
+Twisted Fate,Yunara,61,0
+Aatrox,Varus,61,0
+Senna,Xin Zhao,60,44
+Nocturne,Twisted Fate,60,19
+Nocturne,Zaahen,60,18
+Smolder,Xin Zhao,60,0
+Aatrox,Renekton,60,0
+Nami,Taliyah,60,0
+Lulu,Yorick,60,0
+Rumble,Zaahen,60,0
+Cassiopeia,Xayah,60,0
+Viktor,Yorick,60,0
+Gwen,Seraphine,60,0
+Nautilus,Sylas,60,0
+Rell,Skarner,60,0
+Kai'Sa,Varus,60,0
+LeBlanc,Xin Zhao,60,0
+Lee Sin,Rakan,60,0
+Sion,Sylas,60,0
+Galio,Pantheon,60,0
+Aurora,Twisted Fate,60,0
+Gwen,Sion,60,0
+Jhin,Twisted Fate,60,0
+Azir,Gnar,60,0
+Nami,Trundle,60,0
+Ahri,Miss Fortune,60,0
+Caitlyn,Miss Fortune,60,0
+Miss Fortune,Naafiri,60,0
+Pantheon,Zaahen,60,0
+Aatrox,Rumble,60,0
+Senna,Sion,59,44
+Gnar,Zaahen,59,0
+Kai'Sa,Neeko,59,0
+Aatrox,Aurora,59,0
+Aurora,Vayne,59,0
+Ahri,Zaahen,59,0
+Ambessa,Yorick,59,0
+Ashe,Kai'Sa,59,0
+Aatrox,Milio,59,0
+Aatrox,Pantheon,59,0
+Alistar,Sivir,59,0
+K'Sante,Ornn,59,0
+Lulu,Ornn,59,0
+Neeko,Xayah,59,0
+Neeko,Yorick,59,0
+Wukong,Xayah,59,0
+Bard,Sylas,59,0
+Seraphine,Sylas,59,0
+Ezreal,LeBlanc,59,0
+Galio,Varus,59,0
+Ahri,Twisted Fate,59,0
+Anivia,Twisted Fate,59,0
+Gnar,Xayah,59,0
+Twisted Fate,Varus,59,0
+Annie,Twisted Fate,59,0
+Gnar,Mel,59,0
+Lee Sin,Twisted Fate,59,0
+Mel,Neeko,59,0
+Lee Sin,Rell,59,0
+Miss Fortune,Pantheon,59,0
+Ornn,Varus,59,0
+Azir,Wukong,59,0
+Rakan,Skarner,59,0
+Jarvan IV,Senna,58,43
+Ezreal,Senna,58,42
+Galio,Nocturne,58,18
+Ambessa,Galio,58,0
+Ambessa,Zaahen,58,0
+Caitlyn,Zaahen,58,0
+Cassiopeia,Galio,58,0
+Ornn,Yunara,58,0
+Aatrox,Vi,58,0
+Ahri,Galio,58,0
+Ahri,Vayne,58,0
+Annie,Yorick,58,0
+Cassiopeia,Vayne,58,0
+Kai'Sa,Milio,58,0
+Caitlyn,Xayah,58,0
+Lucian,Ornn,58,0
+Ornn,Vi,58,0
+Pantheon,Vayne,58,0
+Gwen,Lucian,58,0
+Taliyah,Varus,58,0
+Varus,Vayne,58,0
+Gnar,Vayne,58,0
+Gwen,Milio,58,0
+Ashe,Azir,58,0
+Azir,Nautilus,58,0
+Azir,Ryze,58,0
+Jhin,Mel,58,0
+Ambessa,Miss Fortune,58,0
+Lee Sin,Miss Fortune,58,0
+Ornn,Rumble,58,0
+Gwen,Wukong,58,0
+Vi,Zaahen,58,0
+Aatrox,Nocturne,57,21
+Aurora,Galio,57,0
+Caitlyn,Galio,57,0
+Akali,Rakan,57,0
+Ambessa,Vayne,57,0
+K'Sante,Vayne,57,0
+Kai'Sa,Lucian,57,0
+Ashe,Ornn,57,0
+Aurora,Xayah,57,0
+Bard,Vayne,57,0
+Lulu,Xayah,57,0
+Vayne,Viktor,57,0
+Ahri,Sylas,57,0
+Ashe,Gwen,57,0
+Gwen,Karma,57,0
+Gwen,Pantheon,57,0
+Nami,Rell,57,0
+Orianna,Sylas,57,0
+Pantheon,Sylas,57,0
+Ahri,Leona,57,0
+Ambessa,Mel,57,0
+Aurora,Leona,57,0
+Leona,Orianna,57,0
+Sylas,Wukong,57,0
+Akali,Alistar,57,0
+Rell,Sivir,57,0
+Azir,Caitlyn,57,0
+Azir,Cassiopeia,57,0
+Azir,K'Sante,57,0
+Azir,Milio,57,0
+Azir,Pantheon,57,0
+Caitlyn,Mel,57,0
+Ashe,Miss Fortune,57,0
+Bard,Leona,57,0
+Jhin,Miss Fortune,57,0
+Miss Fortune,Viktor,57,0
+Naafiri,Ornn,57,0
+Ambessa,Twisted Fate,57,0
+Renekton,Twisted Fate,57,0
+Aatrox,Gnar,57,0
+Ambessa,Kai'Sa,56,0
+Galio,Viktor,56,0
+Karma,Syndra,56,0
+Annie,Taliyah,56,0
+Sivir,Taliyah,56,0
+Ahri,Yorick,56,0
+Rumble,Vayne,56,0
+Yorick,Yunara,56,0
+Ezreal,Hwei,56,0
+Viktor,Xayah,56,0
+Ashe,Sylas,56,0
+Ashe,Mel,56,0
+Leona,Ryze,56,0
+Rell,Taliyah,56,0
+Azir,Lucian,56,0
+Lee Sin,Yorick,56,0
+Annie,Rell,56,0
+Leona,Pantheon,56,0
+Bard,Senna,55,41
+Leona,Nocturne,55,20
+Anivia,Zaahen,55,0
+Aurora,Ornn,55,0
+Syndra,Wukong,55,0
+Aatrox,Lulu,55,0
+Aatrox,Sivir,55,0
+Aatrox,Yunara,55,0
+Anivia,Yorick,55,0
+Annie,Zaahen,55,0
+Ezreal,Syndra,55,0
+Jax,Ryze,55,0
+Jax,Xin Zhao,55,0
+Skarner,Vayne,55,0
+Aatrox,Neeko,55,0
+Jhin,Xayah,55,0
+Milio,Ornn,55,0
+Jarvan IV,LeBlanc,55,0
+Lee Sin,Mel,55,0
+Mel,Naafiri,55,0
+Alistar,Rell,55,0
+Jayce,Kai'Sa,55,0
+Cassiopeia,Mel,55,0
+Corki,Trundle,55,0
+Lulu,Mel,55,0
+Nami,Twisted Fate,55,0
+Rakan,Sivir,55,0
+Nocturne,Xayah,54,19
+Nocturne,Ornn,54,16
+Azir,Nocturne,54,12
+Bard,Syndra,54,0
+Galio,Neeko,54,0
+Jarvan IV,Syndra,54,0
+Skarner,Zaahen,54,0
+Aatrox,Orianna,54,0
+Galio,Lulu,54,0
+Vayne,Vi,54,0
+Ezreal,Jax,54,0
+Gwen,Orianna,54,0
+Gwen,Ryze,54,0
+Gwen,Vi,54,0
+Ahri,Mel,54,0
+Jax,Sion,54,0
+LeBlanc,Sion,54,0
+Akali,Rell,54,0
+Naafiri,Twisted Fate,54,0
+Azir,Skarner,54,0
+Trundle,Twisted Fate,54,0
+Bard,LeBlanc,54,0
+Jayce,Mel,54,0
+Leona,Rumble,54,0
+Miss Fortune,Orianna,54,0
+Miss Fortune,Varus,54,0
+Alistar,Trundle,54,0
+Renekton,Xayah,54,0
+Jhin,Zaahen,54,0
+Senna,Seraphine,53,40
+Senna,Wukong,53,38
+Anivia,Galio,53,0
+Braum,Xin Zhao,53,0
+Aatrox,Nami,53,0
+Lulu,Vayne,53,0
+Vayne,Yunara,53,0
+Jax,Milio,53,0
+Skarner,Yorick,53,0
+Trundle,Yorick,53,0
+Aatrox,Cassiopeia,53,0
+Braum,Ezreal,53,0
+Kai'Sa,Rell,53,0
+Ryze,Sylas,53,0
+Ahri,LeBlanc,53,0
+Anivia,Mel,53,0
+Ashe,Leona,53,0
+LeBlanc,Seraphine,53,0
+Mel,Nami,53,0
+Milio,Sylas,53,0
+Varus,Xayah,53,0
+Xin Zhao,Yone,53,0
+Akali,Taliyah,53,0
+Azir,Jhin,53,0
+Jayce,Miss Fortune,53,0
+Gwen,Rumble,53,0
+Lulu,Miss Fortune,53,0
+Miss Fortune,Yunara,53,0
+Gnar,Leona,53,0
+Karma,Leona,53,0
+Ryze,Senna,52,35
+Galio,Gnar,52,0
+Gnar,Ornn,52,0
+Jarvan IV,Smolder,52,0
+Kai'Sa,Nami,52,0
+Nami,Ornn,52,0
+Neeko,Zaahen,52,0
+Ornn,Sivir,52,0
+Aatrox,Ambessa,52,0
+Annie,Galio,52,0
+Ahri,Syndra,52,0
+Orianna,Vayne,52,0
+Aatrox,Jhin,52,0
+Skarner,Xayah,52,0
+Aurora,Sylas,52,0
+Caitlyn,Sylas,52,0
+Kai'Sa,Naafiri,52,0
+Ambessa,Xayah,52,0
+Corki,Rakan,52,0
+Ezreal,Yone,52,0
+Galio,Naafiri,52,0
+Jarvan IV,Jax,52,0
+Leona,Milio,52,0
+Leona,Varus,52,0
+Leona,Viktor,52,0
+Naafiri,Xayah,52,0
+Sylas,Viktor,52,0
+Rakan,Rell,52,0
+Akali,Xayah,52,0
+Gwen,Neeko,52,0
+Jarvan IV,Shen,52,0
+Annie,Mel,52,0
+Aurora,Azir,52,0
+Azir,Lulu,52,0
+Azir,Vi,52,0
+K'Sante,LeBlanc,52,0
+Miss Fortune,Skarner,52,0
+Azir,Yunara,52,0
+Cassiopeia,Sylas,52,0
+Mel,Yunara,52,0
+Renekton,Yorick,52,0
+Rumble,Sylas,52,0
+Naafiri,Zaahen,52,0
+Ornn,Renekton,52,0
+Nocturne,Sylas,51,19
+Cassiopeia,Ornn,51,0
+Kai'Sa,Sivir,51,0
+Kai'Sa,Skarner,51,0
+Neeko,Ornn,51,0
+Seraphine,Syndra,51,0
+Galio,Vi,51,0
+Nami,Vayne,51,0
+Alistar,Skarner,51,0
+Aurora,Gwen,51,0
+Sylas,Yunara,51,0
+Alistar,Corki,51,0
+Alistar,Rakan,51,0
+LeBlanc,Ryze,51,0
+Lee Sin,Xayah,51,0
+Leona,Lucian,51,0
+Galio,Jhin,51,0
+Shen,Xin Zhao,51,0
+Sivir,Twisted Fate,51,0
+Skarner,Taliyah,51,0
+Skarner,Twisted Fate,51,0
+Azir,Viktor,51,0
+Varus,Yorick,51,0
+Bard,Jax,51,0
+LeBlanc,Rumble,51,0
+Akali,Miss Fortune,51,0
+Annie,Miss Fortune,51,0
+Jayce,Leona,51,0
+Miss Fortune,Neeko,51,0
+Anivia,Miss Fortune,51,0
+Galio,Renekton,51,0
+Gnar,Sylas,51,0
+Miss Fortune,Nami,51,0
+Renekton,Zaahen,51,0
+Xayah,Yunara,51,0
+Kai'Sa,Renekton,51,0
+Gnar,Senna,50,35
+Nocturne,Vayne,50,17
+Anivia,Kai'Sa,50,0
+Braum,Wukong,50,0
+Cassiopeia,Kai'Sa,50,0
+Galio,Yunara,50,0
+Kai'Sa,Lee Sin,50,0
+Nautilus,Syndra,50,0
+Sivir,Zaahen,50,0
+Aatrox,Rakan,50,0
+Anivia,Vayne,50,0
+Aurora,Jax,50,0
+Caitlyn,Vayne,50,0
+Galio,Orianna,50,0
+Jax,Lucian,50,0
+Jax,Orianna,50,0
+Orianna,Zaahen,50,0
+Aatrox,Naafiri,50,0
+Ambessa,Sylas,50,0
+Gwen,Yunara,50,0
+Anivia,Xayah,50,0
+LeBlanc,Lucian,50,0
+LeBlanc,Vi,50,0
+LeBlanc,Wukong,50,0
+Lee Sin,Taliyah,50,0
+Leona,Vi,50,0
+Nautilus,Shen,50,0
+Akali,Yorick,50,0
+Nami,Yorick,50,0
+Karma,LeBlanc,50,0
+Miss Fortune,Rell,50,0
+Miss Fortune,Sivir,50,0
+Nocturne,Senna,49,46
+Milio,Senna,49,35
+Ashe,Senna,49,34
+Rumble,Senna,49,34
+Ahri,Senna,49,34
+Gwen,Nocturne,49,15
+LeBlanc,Nocturne,49,14
+Sion,Syndra,49,0
+Syndra,Viktor,49,0
+Corki,Taliyah,49,0
+Sivir,Vayne,49,0
+Jhin,Ornn,49,0
+Neeko,Vayne,49,0
+Sivir,Yorick,49,0
+Corki,Rell,49,0
+Gwen,Lulu,49,0
+Lucian,Sylas,49,0
+Sylas,Vi,49,0
+Ambessa,Leona,49,0
+Ashe,LeBlanc,49,0
+Kai'Sa,Rakan,49,0
+LeBlanc,Milio,49,0
+Sylas,Varus,49,0
+Gnar,Gwen,49,0
+Gwen,Jhin,49,0
+Gwen,K'Sante,49,0
+Jayce,Vayne,49,0
+Jhin,Kai'Sa,49,0
+Azir,Nami,49,0
+Nautilus,Olaf,49,0
+Gnar,LeBlanc,49,0
+Caitlyn,Leona,49,0
+Ahri,Azir,49,0
+Jayce,Zaahen,49,0
+Varus,Zaahen,49,0
+Azir,Jayce,49,0
+Senna,Varus,48,37
+Akali,Kai'Sa,48,0
+Bard,Smolder,48,0
+Braum,Jarvan IV,48,0
+Braum,Nautilus,48,0
+Corki,Ornn,48,0
+Galio,Lee Sin,48,0
+Galio,Nami,48,0
+Galio,Sivir,48,0
+Lee Sin,Zaahen,48,0
+Ashe,Syndra,48,0
+Ashe,Jax,48,0
+Jax,Nautilus,48,0
+Jax,Seraphine,48,0
+Lucian,Syndra,48,0
+Lulu,Syndra,48,0
+Lulu,Sylas,48,0
+Alistar,Taliyah,48,0
+Ezreal,Smolder,48,0
+Jarvan IV,Yone,48,0
+Karma,Yone,48,0
+Ezreal,Shen,48,0
+Galio,Jayce,48,0
+Gwen,Sivir,48,0
+Jayce,Xayah,48,0
+Shen,Sion,48,0
+Mel,Skarner,48,0
+LeBlanc,Pantheon,48,0
+Gwen,Viktor,48,0
+K'Sante,Sylas,48,0
+Renekton,Sylas,48,0
+Ornn,Rakan,48,0
+Annie,Xayah,48,0
+Aurora,Senna,47,37
+Orianna,Senna,47,35
+Karma,Senna,47,35
+Senna,Vi,47,35
+Lucian,Senna,47,33
+Jhin,Senna,47,32
+Ambessa,Ornn,47,0
+Hwei,Karma,47,0
+Hwei,Nautilus,47,0
+Karma,Smolder,47,0
+Lee Sin,Ornn,47,0
+Nami,Syndra,47,0
+Smolder,Wukong,47,0
+Aatrox,Corki,47,0
+Annie,Kai'Sa,47,0
+Galio,Trundle,47,0
+Jax,Karma,47,0
+Jax,Rumble,47,0
+Jax,Wukong,47,0
+Caitlyn,Gwen,47,0
+Gwen,Naafiri,47,0
+Leona,Nami,47,0
+Ahri,Shen,47,0
+Akali,Twisted Fate,47,0
+Cassiopeia,Gwen,47,0
+Gwen,Varus,47,0
+Corki,Yorick,47,0
+Leona,Neeko,47,0
+Rakan,Zaahen,47,0
+K'Sante,Senna,46,32
+Jayce,Senna,46,32
+Caitlyn,Senna,46,31
+Aurora,Smolder,46,0
+Galio,Skarner,46,0
+Hwei,Xin Zhao,46,0
+Orianna,Syndra,46,0
+Aatrox,Skarner,46,0
+Jhin,Vayne,46,0
+Gwen,Skarner,46,0
+Naafiri,Sylas,46,0
+Ashe,Yone,46,0
+Aurora,LeBlanc,46,0
+Jax,Vi,46,0
+LeBlanc,Orianna,46,0
+LeBlanc,Viktor,46,0
+Leona,Naafiri,46,0
+Nautilus,Yone,46,0
+Rumble,Yone,46,0
+Caitlyn,Shen,46,0
+Seraphine,Shen,46,0
+Shen,Vi,46,0
+Azir,Naafiri,46,0
+Corki,Twisted Fate,46,0
+Olaf,Xin Zhao,46,0
+Jax,Pantheon,46,0
+Akali,Sylas,46,0
+Ambessa,Azir,46,0
+Azir,Renekton,46,0
+Taliyah,Trundle,46,0
+Pantheon,Syndra,46,0
+Aatrox,Jayce,46,0
+Leona,Yunara,46,0
+Rakan,Twisted Fate,46,0
+Pantheon,Senna,45,34
+Cassiopeia,Senna,45,32
+Akali,Galio,45,0
+Akali,Ornn,45,0
+Akali,Zaahen,45,0
+Corki,Galio,45,0
+Hwei,Jarvan IV,45,0
+Nami,Zaahen,45,0
+Nautilus,Smolder,45,0
+Syndra,Yunara,45,0
+Aatrox,Akali,45,0
+Aatrox,Annie,45,0
+Sivir,Xayah,45,0
+Jax,Varus,45,0
+Lee Sin,Leona,45,0
+Naafiri,Vayne,45,0
+Azir,Sivir,45,0
+Ezreal,Olaf,45,0
+Jarvan IV,Olaf,45,0
+Olaf,Seraphine,45,0
+Twisted Fate,Yorick,45,0
+Alistar,Miss Fortune,45,0
+K'Sante,Smolder,45,0
+Jhin,Sylas,45,0
+Corki,Miss Fortune,45,0
+Renekton,Vayne,45,0
+Aatrox,Lee Sin,45,0
+Hwei,Rumble,45,0
+Leona,Renekton,45,0
+Gnar,Jax,45,0
+Trundle,Xayah,45,0
+Jayce,Sylas,45,0
+Senna,Viktor,44,33
+Senna,Skarner,44,31
+Ambessa,Senna,44,30
+Aurora,Braum,44,0
+Braum,Sion,44,0
+Braum,Viktor,44,0
+Corki,Zaahen,44,0
+Gnar,Syndra,44,0
+Jarvan IV,Malphite,44,0
+Annie,Vayne,44,0
+Jax,K'Sante,44,0
+K'Sante,Syndra,44,0
+Trundle,Zaahen,44,0
+Aatrox,Alistar,44,0
+Alistar,Xayah,44,0
+Ambessa,Gwen,44,0
+Kai'Sa,Leona,44,0
+Lee Sin,Vayne,44,0
+Rakan,Taliyah,44,0
+Sion,Yone,44,0
+Gwen,Jayce,44,0
+Lucian,Shen,44,0
+Ryze,Shen,44,0
+Akali,Mel,44,0
+Bard,Olaf,44,0
+Lucian,Olaf,44,0
+Olaf,Sion,44,0
+Rumble,Shen,44,0
+Shen,Viktor,44,0
+Cassiopeia,LeBlanc,44,0
+Olaf,Wukong,44,0
+Ezreal,Maokai,44,0
+Leona,Skarner,44,0
+Maokai,Xin Zhao,44,0
+Mel,Rell,44,0
+Miss Fortune,Trundle,44,0
+Neeko,Sylas,44,0
+Shen,Wukong,44,0
+Rell,Zaahen,44,0
+Aatrox,Anivia,44,0
+Xin Zhao,Ziggs,44,0
+Aurora,Syndra,43,0
+Braum,Karma,43,0
+Malphite,Nautilus,43,0
+Sion,Smolder,43,0
+Ahri,Jax,43,0
+Ashe,Hwei,43,0
+Braum,K'Sante,43,0
+Braum,Ryze,43,0
+Skarner,Sylas,43,0
+LeBlanc,Nautilus,43,0
+Ryze,Smolder,43,0
+Seraphine,Yone,43,0
+Bard,Yone,43,0
+Ashe,Shen,43,0
+Karma,Shen,43,0
+Milio,Shen,43,0
+Orianna,Shen,43,0
+Azir,Neeko,43,0
+Azir,Varus,43,0
+Mel,Trundle,43,0
+Olaf,Ryze,43,0
+Jhin,Leona,43,0
+Maokai,Nautilus,43,0
+Maokai,Sion,43,0
+Pantheon,Smolder,43,0
+Azir,Orianna,43,0
+Gwen,Renekton,43,0
+Maokai,Seraphine,43,0
+Ezreal,Sejuani,43,0
+Jax,Jhin,43,0
+Leona,Lulu,43,0
+Senna,Yunara,42,33
+Renekton,Senna,42,30
+Neeko,Senna,42,29
+Aurora,Hwei,42,0
+Corki,Kai'Sa,42,0
+Ornn,Skarner,42,0
+Smolder,Viktor,42,0
+Corki,Vayne,42,0
+Kai'Sa,Trundle,42,0
+Milio,Syndra,42,0
+Trundle,Vayne,42,0
+Alistar,Yorick,42,0
+Braum,Orianna,42,0
+Aatrox,Kai'Sa,42,0
+Aatrox,Rell,42,0
+Corki,Sylas,42,0
+Gwen,Nami,42,0
+Nami,Sylas,42,0
+Ahri,Smolder,42,0
+Alistar,Kai'Sa,42,0
+Alistar,Mel,42,0
+Braum,Seraphine,42,0
+Ezreal,Pyke,42,0
+Galio,Rakan,42,0
+Jax,Viktor,42,0
+LeBlanc,Naafiri,42,0
+LeBlanc,Nami,42,0
+Lucian,Yone,42,0
+Milio,Yone,42,0
+Vi,Yone,42,0
+Wukong,Yone,42,0
+K'Sante,Yone,42,0
+Akali,Vayne,42,0
+Alistar,Twisted Fate,42,0
+Bard,Shen,42,0
+Cassiopeia,Shen,42,0
+Akali,Azir,42,0
+Annie,Azir,42,0
+Ashe,Olaf,42,0
+Milio,Olaf,42,0
+Olaf,Pantheon,42,0
+Rakan,Yorick,42,0
+Caitlyn,LeBlanc,42,0
+Cassiopeia,Leona,42,0
+Leona,Sivir,42,0
+Annie,Gwen,42,0
+LeBlanc,Skarner,42,0
+LeBlanc,Yunara,42,0
+Hwei,Seraphine,42,0
+Nami,Senna,41,35
+Lulu,Senna,41,30
+Senna,Sivir,41,28
+Nocturne,Syndra,41,14
+Anivia,Ornn,41,0
+Bard,Braum,41,0
+Hwei,Sion,41,0
+Kai'Sa,Ornn,41,0
+Nami,Smolder,41,0
+Smolder,Yunara,41,0
+Camille,Xin Zhao,41,0
+Galio,Taliyah,41,0
+Ambessa,Jax,41,0
+Cassiopeia,Jax,41,0
+Ashe,Braum,41,0
+Ezreal,Malphite,41,0
+Ahri,Yone,41,0
+Alistar,Leona,41,0
+LeBlanc,Varus,41,0
+Mel,Taliyah,41,0
+Nami,Xayah,41,0
+Pyke,Sion,41,0
+Rakan,Sylas,41,0
+Ryze,Yone,41,0
+Galio,Rell,41,0
+Neeko,Yone,41,0
+Anivia,Gwen,41,0
+Gnar,Olaf,41,0
+Mel,Sivir,41,0
+Olaf,Rumble,41,0
+Olaf,Viktor,41,0
+LeBlanc,Lulu,41,0
+Annie,Leona,41,0
+Leona,Rell,41,0
+Miss Fortune,Taliyah,41,0
+Olaf,Renekton,41,0
+Sion,Zeri,41,0
+Poppy,Sion,41,0
+Rell,Trundle,41,0
+Naafiri,Senna,40,29
+Nocturne,Yone,40,11
+Jax,Nocturne,40,10
+Bard,Hwei,40,0
+Gnar,Hwei,40,0
+Gnar,Smolder,40,0
+Hwei,Wukong,40,0
+Orianna,Smolder,40,0
+Renekton,Syndra,40,0
+Seraphine,Smolder,40,0
+Annie,Jax,40,0
+Jax,Yunara,40,0
+Ryze,Syndra,40,0
+Alistar,Galio,40,0
+Corki,LeBlanc,40,0
+Jarvan IV,Pyke,40,0
+Kai'Sa,Taliyah,40,0
+Mel,Rakan,40,0
+Pyke,Xin Zhao,40,0
+Taliyah,Xayah,40,0
+Pantheon,Shen,40,0
+Anivia,Azir,40,0
+Azir,Trundle,40,0
+Caitlyn,Olaf,40,0
+K'Sante,Olaf,40,0
+Lulu,Shen,40,0
+Mel,Twisted Fate,40,0
+Olaf,Vi,40,0
+Ashe,Maokai,40,0
+Jarvan IV,Zeri,40,0
+Sivir,Sylas,40,0
+Jarvan IV,Poppy,40,0
+Jax,Renekton,40,0
+Ornn,Trundle,40,0
+Lee Sin,Senna,39,26
+Nocturne,Shen,39,12
+Braum,Ornn,39,0
+Caitlyn,Smolder,39,0
+Caitlyn,Syndra,39,0
+Hwei,Viktor,39,0
+Sejuani,Xin Zhao,39,0
+Caitlyn,Jax,39,0
+Galio,Yorick,39,0
+Rumble,Syndra,39,0
+Alistar,Ornn,39,0
+Anivia,LeBlanc,39,0
+Jax,Naafiri,39,0
+Leona,Rakan,39,0
+Orianna,Yone,39,0
+Caitlyn,Yone,39,0
+Akali,Gwen,39,0
+Aurora,Shen,39,0
+K'Sante,Shen,39,0
+Naafiri,Shen,39,0
+Shen,Varus,39,0
+Twisted Fate,Vayne,39,0
+Cassiopeia,Olaf,39,0
+Annie,Ornn,39,0
+Maokai,Milio,39,0
+Ornn,Rell,39,0
+Gwen,Lee Sin,39,0
+Pantheon,Zeri,39,0
+Sylas,Trundle,39,0
+Xin Zhao,Zeri,39,0
+LeBlanc,Renekton,39,0
+Syndra,Vi,39,0
+Lulu,Smolder,39,0
+Jhin,LeBlanc,39,0
+Rell,Yorick,39,0
+Jarvan IV,Ziggs,39,0
+Seraphine,Ziggs,39,0
+Syndra,Varus,39,0
+Anivia,Senna,38,30
+Nocturne,Olaf,38,17
+Ambessa,Sejuani,38,0
+Karma,Sejuani,38,0
+Malphite,Xin Zhao,38,0
+Sejuani,Sion,38,0
+Sejuani,Wukong,38,0
+Camille,Jarvan IV,38,0
+Braum,Pantheon,38,0
+Hwei,K'Sante,38,0
+Hwei,Orianna,38,0
+Ahri,Pyke,38,0
+Anivia,Leona,38,0
+Anivia,Sylas,38,0
+Corki,Leona,38,0
+Corki,Mel,38,0
+Galio,Mel,38,0
+Pyke,Ryze,38,0
+Rakan,Vayne,38,0
+Sylas,Taliyah,38,0
+Varus,Yone,38,0
+Pantheon,Yone,38,0
+Gnar,Shen,38,0
+Neeko,Shen,38,0
+Rell,Xayah,38,0
+Taliyah,Twisted Fate,38,0
+Azir,Corki,38,0
+Azir,Lee Sin,38,0
+Jhin,Olaf,38,0
+Olaf,Varus,38,0
+Akali,Leona,38,0
+Bard,Maokai,38,0
+Jarvan IV,Maokai,38,0
+Ahri,Olaf,38,0
+Lulu,Zeri,38,0
+Miss Fortune,Twisted Fate,38,0
+Renekton,Shen,38,0
+Seraphine,Zeri,38,0
+Taliyah,Yorick,38,0
+Akali,LeBlanc,38,0
+Jayce,LeBlanc,38,0
+LeBlanc,Neeko,38,0
+Karma,Pyke,38,0
+Ezreal,Poppy,38,0
+Miss Fortune,Rakan,38,0
+Hwei,Renekton,38,0
+Ezreal,Ziggs,38,0
+Sion,Ziggs,38,0
+Dr. Mundo,Karma,38,0
+Akali,Senna,37,26
+Braum,Nocturne,37,14
+Ambessa,Smolder,37,0
+Galio,Ornn,37,0
+Hwei,Yunara,37,0
+Jarvan IV,Tristana,37,0
+Jinx,Xin Zhao,37,0
+Malphite,Wukong,37,0
+Nautilus,Sejuani,37,0
+Nautilus,Tristana,37,0
+Sivir,Smolder,37,0
+Tristana,Xin Zhao,37,0
+Ashe,Smolder,37,0
+Aatrox,Taliyah,37,0
+Camille,Ezreal,37,0
+Jax,Lulu,37,0
+Alistar,Vayne,37,0
+Hwei,Lucian,37,0
+Alistar,Sylas,37,0
+Ambessa,LeBlanc,37,0
+Aurora,Yone,37,0
+Corki,Xayah,37,0
+Lucian,Pyke,37,0
+Gnar,Yone,37,0
+Galio,Twisted Fate,37,0
+Rell,Vayne,37,0
+Shen,Sivir,37,0
+Mel,Yorick,37,0
+Ahri,Maokai,37,0
+Maokai,Wukong,37,0
+Mel,Miss Fortune,37,0
+Rumble,Smolder,37,0
+Ashe,Zeri,37,0
+Aurora,Zeri,37,0
+Ryze,Zeri,37,0
+Shen,Yunara,37,0
+K'Sante,Pyke,37,0
+Poppy,Ryze,37,0
+Poppy,Xin Zhao,37,0
+Aatrox,Trundle,37,0
+Ashe,Ziggs,37,0
+Jax,Jayce,37,0
+K'Sante,Ziggs,37,0
+Nautilus,Ziggs,37,0
+Ambessa,Hwei,36,0
+Braum,Caitlyn,36,0
+Caitlyn,Hwei,36,0
+Jarvan IV,Sejuani,36,0
+Kai'Sa,Zaahen,36,0
+Malphite,Viktor,36,0
+Neeko,Smolder,36,0
+Ornn,Zaahen,36,0
+Tristana,Viktor,36,0
+Aatrox,Syndra,36,0
+Malphite,Seraphine,36,0
+Taliyah,Vayne,36,0
+Jax,Skarner,36,0
+Aatrox,Ornn,36,0
+Braum,Lucian,36,0
+Braum,Milio,36,0
+Hwei,Ryze,36,0
+Braum,Varus,36,0
+Jax,Lee Sin,36,0
+Lucian,Smolder,36,0
+Milio,Pyke,36,0
+Pyke,Seraphine,36,0
+Rakan,Yone,36,0
+Smolder,Varus,36,0
+Akali,Shen,36,0
+Karma,Olaf,36,0
+Lee Sin,Olaf,36,0
+Lee Sin,Shen,36,0
+Shen,Trundle,36,0
+Ambessa,Maokai,36,0
+Maokai,Pantheon,36,0
+Maokai,Rumble,36,0
+Maokai,Viktor,36,0
+Alistar,Azir,36,0
+Bard,Zeri,36,0
+Ezreal,Zeri,36,0
+Gwen,Trundle,36,0
+Karma,Zeri,36,0
+Miss Fortune,Yorick,36,0
+Ezreal,Jinx,36,0
+Maokai,Vi,36,0
+Miss Fortune,Zaahen,36,0
+Taliyah,Zaahen,36,0
+Azir,Rakan,36,0
+Pantheon,Pyke,36,0
+Bard,Pyke,36,0
+Jax,Neeko,36,0
+Ryze,Sejuani,36,0
+Hwei,Varus,36,0
+Alistar,Zaahen,36,0
+Jhin,Yone,36,0
+Milio,Ziggs,36,0
+Skarner,Yone,36,0
+Dr. Mundo,Ezreal,36,0
+Dr. Mundo,Xin Zhao,36,0
+Gwen,Rakan,36,0
+Annie,Senna,35,25
+Nocturne,Pyke,35,11
+Nocturne,Ziggs,35,10
+Ambessa,Braum,35,0
+Braum,Gnar,35,0
+Hwei,Nami,35,0
+Jarvan IV,Jinx,35,0
+Jinx,Karma,35,0
+Karma,Malphite,35,0
+Tristana,Wukong,35,0
+Camille,Seraphine,35,0
+Camille,Nautilus,35,0
+Vayne,Zaahen,35,0
+Ahri,Braum,35,0
+Hwei,Pantheon,35,0
+Hwei,Vi,35,0
+Rell,Sylas,35,0
+Aurora,Pyke,35,0
+Kai'Sa,Xayah,35,0
+LeBlanc,Rakan,35,0
+Lee Sin,Sylas,35,0
+Naafiri,Pyke,35,0
+Sylas,Xayah,35,0
+Viktor,Yone,35,0
+Anivia,Shen,35,0
+Shen,Skarner,35,0
+Twisted Fate,Xayah,35,0
+Annie,Shen,35,0
+Aurora,Olaf,35,0
+Nami,Olaf,35,0
+Nami,Shen,35,0
+Galio,Miss Fortune,35,0
+Annie,Sylas,35,0
+K'Sante,Zeri,35,0
+Olaf,Yunara,35,0
+Rumble,Zeri,35,0
+Lucian,Maokai,35,0
+Karma,Poppy,35,0
+Poppy,Seraphine,35,0
+Poppy,Wukong,35,0
+Lucian,Sejuani,35,0
+Ahri,Ziggs,35,0
+Bard,Ziggs,35,0
+Gnar,Ziggs,35,0
+Karma,Ziggs,35,0
+Lucian,Ziggs,35,0
+Nautilus,Poppy,35,0
+Vi,Ziggs,35,0
+Azir,Rell,35,0
+Dr. Mundo,Wukong,35,0
+Braum,Renekton,35,0
+Corki,Senna,34,26
+Rell,Senna,34,25
+Leona,Senna,34,24
+Alistar,Senna,34,22
+Anivia,Smolder,34,0
+Aphelios,Sion,34,0
+Braum,Cassiopeia,34,0
+Braum,Nami,34,0
+Caitlyn,Malphite,34,0
+Jinx,Sion,34,0
+Neeko,Syndra,34,0
+Ashe,Malphite,34,0
+Malphite,Orianna,34,0
+Renekton,Smolder,34,0
+Ahri,Camille,34,0
+Camille,Milio,34,0
+Camille,Ryze,34,0
+Jax,Trundle,34,0
+Yorick,Zaahen,34,0
+Ornn,Xayah,34,0
+Aatrox,Sylas,34,0
+Gwen,Rell,34,0
+Braum,Naafiri,34,0
+Kai'Sa,Mel,34,0
+Leona,Taliyah,34,0
+Malphite,Varus,34,0
+Mel,Vayne,34,0
+Smolder,Vi,34,0
+Galio,Gwen,34,0
+Gwen,Taliyah,34,0
+Jayce,Shen,34,0
+Jhin,Shen,34,0
+Rell,Twisted Fate,34,0
+Cassiopeia,Yone,34,0
+Lulu,Yone,34,0
+Olaf,Orianna,34,0
+Jayce,Maokai,34,0
+Jayce,Ornn,34,0
+Leona,Ornn,34,0
+Maokai,Ryze,34,0
+Ambessa,Zeri,34,0
+Azir,Sylas,34,0
+Lucian,Zeri,34,0
+Wukong,Zeri,34,0
+Jayce,Syndra,34,0
+Maokai,Renekton,34,0
+Jhin,Syndra,34,0
+Karma,Maokai,34,0
+Ornn,Sylas,34,0
+Ashe,Poppy,34,0
+Caitlyn,Poppy,34,0
+Pyke,Rumble,34,0
+Milio,Sejuani,34,0
+Annie,Hwei,34,0
+Yone,Yunara,34,0
+Camille,Viktor,34,0
+Poppy,Viktor,34,0
+Rakan,Shen,34,0
+Renekton,Ziggs,34,0
+Ezreal,Tristana,34,0
+Renekton,Tristana,34,0
+Dr. Mundo,Jarvan IV,34,0
+Dr. Mundo,Seraphine,34,0
+Senna,Taliyah,33,27
+Senna,Trundle,33,25
+Rakan,Senna,33,23
+Ambessa,Syndra,33,0
+Aphelios,Jarvan IV,33,0
+Aurora,Sejuani,33,0
+Braum,Sivir,33,0
+Cassiopeia,Smolder,33,0
+Cassiopeia,Syndra,33,0
+Corki,Syndra,33,0
+Galio,Zaahen,33,0
+Jinx,Nautilus,33,0
+Camille,Karma,33,0
+Camille,Wukong,33,0
+Aatrox,Galio,33,0
+Aatrox,Vayne,33,0
+Anivia,Jax,33,0
+Camille,Lucian,33,0
+Ezreal,Lux,33,0
+Ahri,Hwei,33,0
+Ahri,Malphite,33,0
+Hwei,Jhin,33,0
+Malphite,Ryze,33,0
+Xayah,Yorick,33,0
+Aatrox,Gwen,33,0
+Corki,Gwen,33,0
+Ambessa,Yone,33,0
+Galio,Sylas,33,0
+Jax,Rakan,33,0
+Lee Sin,Pyke,33,0
+Milio,Smolder,33,0
+Nautilus,Pyke,33,0
+Pyke,Wukong,33,0
+Alistar,Gwen,33,0
+Shen,Twisted Fate,33,0
+Akali,Olaf,33,0
+Annie,Olaf,33,0
+Lulu,Olaf,33,0
+Neeko,Olaf,33,0
+Caitlyn,Maokai,33,0
+Cassiopeia,Maokai,33,0
+Jhin,Maokai,33,0
+Maokai,Naafiri,33,0
+Maokai,Orianna,33,0
+Mel,Ornn,33,0
+Ornn,Taliyah,33,0
+Azir,Taliyah,33,0
+Vi,Zeri,33,0
+Yunara,Zeri,33,0
+Gwen,Zaahen,33,0
+LeBlanc,Sivir,33,0
+Miss Fortune,Vayne,33,0
+Gnar,Pyke,33,0
+Bard,Poppy,33,0
+Lulu,Poppy,33,0
+Milio,Poppy,33,0
+Twisted Fate,Zaahen,33,0
+K'Sante,Sejuani,33,0
+Aatrox,Leona,33,0
+Nautilus,Zeri,33,0
+Sylas,Zaahen,33,0
+Ambessa,Ziggs,33,0
+Gnar,Poppy,33,0
+Jayce,Ziggs,33,0
+Mel,Zaahen,33,0
+Renekton,Yone,33,0
+Ryze,Ziggs,33,0
+Wukong,Ziggs,33,0
+Orianna,Tristana,33,0
+Seraphine,Tristana,33,0
+Leona,Trundle,33,0
+Dr. Mundo,Viktor,33,0
+Bard,Dr. Mundo,33,0
+Nocturne,Smolder,32,11
+Camille,Nocturne,32,10
+Ambessa,Jinx,32,0
+Anivia,Braum,32,0
+Aurora,Jinx,32,0
+Braum,Neeko,32,0
+Braum,Yunara,32,0
+Cassiopeia,Sejuani,32,0
+Galio,Kai'Sa,32,0
+Gragas,Xin Zhao,32,0
+Jinx,Wukong,32,0
+Lee Sin,Syndra,32,0
+Ornn,Syndra,32,0
+Sion,Tristana,32,0
+Skarner,Smolder,32,0
+Ashe,Camille,32,0
+Camille,K'Sante,32,0
+Jax,Yorick,32,0
+Kai'Sa,Yorick,32,0
+Braum,Jhin,32,0
+Braum,Vi,32,0
+Hwei,Lulu,32,0
+Hwei,Milio,32,0
+Malphite,Pantheon,32,0
+Malphite,Vi,32,0
+Vayne,Xayah,32,0
+Ambessa,Pyke,32,0
+Ezreal,Gragas,32,0
+LeBlanc,Lee Sin,32,0
+Sylas,Vayne,32,0
+Braum,Rumble,32,0
+K'Sante,Maokai,32,0
+Rell,Smolder,32,0
+Azir,Miss Fortune,32,0
+Caitlyn,Zeri,32,0
+Gnar,Zeri,32,0
+Milio,Zeri,32,0
+Orianna,Zeri,32,0
+Viktor,Zeri,32,0
+LeBlanc,Rell,32,0
+Rell,Syndra,32,0
+Aatrox,LeBlanc,32,0
+Cassiopeia,Pyke,32,0
+Lee Sin,Poppy,32,0
+Lucian,Poppy,32,0
+Poppy,Vi,32,0
+Jax,Sivir,32,0
+Pantheon,Sejuani,32,0
+Sejuani,Seraphine,32,0
+Sejuani,Vi,32,0
+Aatrox,Mel,32,0
+Varus,Zeri,32,0
+Aatrox,Azir,32,0
+Xayah,Zaahen,32,0
+Akali,Jax,32,0
+Aurora,Ziggs,32,0
+Camille,Jhin,32,0
+Camille,Sion,32,0
+Jayce,Yone,32,0
+Naafiri,Ziggs,32,0
+Poppy,Renekton,32,0
+Viktor,Ziggs,32,0
+Ahri,Tristana,32,0
+Gwen,Leona,32,0
+Lucian,Tristana,32,0
+Lulu,Tristana,32,0
+Ashe,Dr. Mundo,32,0
+Hwei,Nocturne,31,13
+Akali,Braum,31,0
+Akali,Syndra,31,0
+Anivia,Syndra,31,0
+Aurora,Malphite,31,0
+Braum,Kai'Sa,31,0
+Braum,Lee Sin,31,0
+Braum,Zaahen,31,0
+Cassiopeia,Hwei,31,0
+Gragas,Jarvan IV,31,0
+Hwei,Neeko,31,0
+Malphite,Sion,31,0
+Ornn,Smolder,31,0
+Sivir,Syndra,31,0
+Tristana,Yunara,31,0
+Camille,Orianna,31,0
+Camille,Renekton,31,0
+Rakan,Syndra,31,0
+Camille,Cassiopeia,31,0
+Camille,Yunara,31,0
+Aatrox,Xayah,31,0
+Braum,Lulu,31,0
+Gwen,Kai'Sa,31,0
+Gwen,Sylas,31,0
+Kai'Sa,Sylas,31,0
+Alistar,LeBlanc,31,0
+Anivia,Yone,31,0
+Ashe,Pyke,31,0
+Galio,Xayah,31,0
+Jax,Nami,31,0
+Kalista,Sion,31,0
+LeBlanc,Vayne,31,0
+Lee Sin,Yone,31,0
+Naafiri,Smolder,31,0
+Naafiri,Yone,31,0
+Nami,Yone,31,0
+Orianna,Pyke,31,0
+Pyke,Varus,31,0
+Pyke,Vi,31,0
+Pyke,Viktor,31,0
+Gwen,Vayne,31,0
+Kai'Sa,Twisted Fate,31,0
+Anivia,Olaf,31,0
+Azir,Vayne,31,0
+Azir,Yorick,31,0
+Naafiri,Olaf,31,0
+Olaf,Sivir,31,0
+Olaf,Trundle,31,0
+Jayce,Smolder,31,0
+Leona,Miss Fortune,31,0
+Maokai,Neeko,31,0
+Maokai,Skarner,31,0
+Ahri,Zeri,31,0
+Ambessa,Shen,31,0
+Cassiopeia,Zeri,31,0
+Gwen,Mel,31,0
+Neeko,Zeri,31,0
+Jinx,K'Sante,31,0
+Naafiri,Syndra,31,0
+Gnar,Maokai,31,0
+Jhin,Pyke,31,0
+Cassiopeia,Poppy,31,0
+Jhin,Poppy,31,0
+K'Sante,Poppy,31,0
+LeBlanc,Yorick,31,0
+Neeko,Poppy,31,0
+Aatrox,Twisted Fate,31,0
+Ashe,Sejuani,31,0
+Orianna,Sejuani,31,0
+Hwei,Naafiri,31,0
+Jayce,Poppy,31,0
+Neeko,Ziggs,31,0
+Orianna,Ziggs,31,0
+Rumble,Ziggs,31,0
+Sivir,Yone,31,0
+Ashe,Tristana,31,0
+Pantheon,Tristana,31,0
+Ryze,Tristana,31,0
+Jayce,Pyke,31,0
+Dr. Mundo,Gnar,31,0
+Senna,Yorick,30,21
+Nocturne,Zeri,30,7
+Akali,Smolder,30,0
+Aphelios,Nautilus,30,0
+Aphelios,Xin Zhao,30,0
+Bard,Gragas,30,0
+Bard,Jinx,30,0
+Bard,Tristana,30,0
+Caitlyn,Tristana,30,0
+Cassiopeia,Malphite,30,0
+Gnar,Tristana,30,0
+Gragas,Viktor,30,0
+Hwei,Lee Sin,30,0
+Kai'Sa,Syndra,30,0
+Malphite,Sivir,30,0
+Neeko,Sejuani,30,0
+Sejuani,Viktor,30,0
+Sivir,Tristana,30,0
+Aphelios,Ryze,30,0
+Aurora,Camille,30,0
+Caitlyn,Lux,30,0
+Lux,Seraphine,30,0
+Vayne,Yorick,30,0
+Alistar,Braum,30,0
+Lulu,Malphite,30,0
+Alistar,Smolder,30,0
+Kalista,Viktor,30,0
+Kalista,Xin Zhao,30,0
+LeBlanc,Taliyah,30,0
+LeBlanc,Xayah,30,0
+Mel,Xayah,30,0
+Rell,Shen,30,0
+Olaf,Skarner,30,0
+Jhin,Smolder,30,0
+Gwen,Miss Fortune,30,0
+Gwen,Yorick,30,0
+Renekton,Zeri,30,0
+Jinx,Ryze,30,0
+Azir,Xayah,30,0
+Ahri,Poppy,30,0
+Anivia,Poppy,30,0
+Caitlyn,Pyke,30,0
+Olaf,Rakan,30,0
+Poppy,Rumble,30,0
+Pyke,Yunara,30,0
+Annie,Ziggs,30,0
+Aurora,Poppy,30,0
+Camille,Pantheon,30,0
+Cassiopeia,Ziggs,30,0
+Jhin,Ziggs,30,0
+LeBlanc,Trundle,30,0
+Lee Sin,Ziggs,30,0
+Miss Fortune,Xayah,30,0
+Orianna,Poppy,30,0
+Pantheon,Ziggs,30,0
+Rumble,Sejuani,30,0
+Varus,Ziggs,30,0
+Jax,Rell,30,0
+Leona,Syndra,30,0
+Milio,Tristana,30,0
+Olaf,Rell,30,0
+Tristana,Vi,30,0
+Dr. Mundo,Nami,30,0
+Dr. Mundo,Rumble,30,0
+Dr. Mundo,Ryze,30,0
+Ahri,Dr. Mundo,30,0
+Galio,Senna,29,22
+Nocturne,Tristana,29,7
+Nocturne,Poppy,29,7
+Maokai,Nocturne,29,5
+Cassiopeia,Tristana,29,0
+Gnar,Jinx,29,0
+Gnar,Sejuani,29,0
+Karma,Tristana,29,0
+Malphite,Neeko,29,0
+Malphite,Yunara,29,0
+Ambessa,Camille,29,0
+Aphelios,Ezreal,29,0
+Camille,Rumble,29,0
+Kai'Sa,Vayne,29,0
+Lucian,Lux,29,0
+Ornn,Yorick,29,0
+Malphite,Naafiri,29,0
+Anivia,Pyke,29,0
+Galio,Leona,29,0
+Jarvan IV,Kalista,29,0
+Leona,Mel,29,0
+Leona,Vayne,29,0
+Xayah,Yone,29,0
+Akali,Yone,29,0
+Gwen,Twisted Fate,29,0
+Gwen,Xayah,29,0
+Corki,Shen,29,0
+Aurora,Maokai,29,0
+Maokai,Miss Fortune,29,0
+Maokai,Sivir,29,0
+Ambessa,Olaf,29,0
+Annie,Zeri,29,0
+Miss Fortune,Shen,29,0
+Miss Fortune,Sylas,29,0
+Sylas,Twisted Fate,29,0
+Jinx,Orianna,29,0
+Jinx,Seraphine,29,0
+Pantheon,Poppy,29,0
+Poppy,Sivir,29,0
+Aatrox,Zaahen,29,0
+Renekton,Sejuani,29,0
+Jayce,Zeri,29,0
+Caitlyn,Ziggs,29,0
+Camille,Gnar,29,0
+Camille,Vi,29,0
+Trundle,Yone,29,0
+Jayce,Olaf,29,0
+Caitlyn,Dr. Mundo,29,0
+Pyke,Renekton,29,0
+Kai'Sa,Senna,28,23
+Senna,Twisted Fate,28,19
+Malphite,Nocturne,28,8
+Aphelios,Wukong,28,0
+Aurora,Tristana,28,0
+Bard,Malphite,28,0
+Bard,Sejuani,28,0
+Braum,Corki,28,0
+Jarvan IV,Rek'Sai,28,0
+Neeko,Tristana,28,0
+Rek'Sai,Xin Zhao,28,0
+Skarner,Syndra,28,0
+Malphite,Rakan,28,0
+Aphelios,K'Sante,28,0
+Aphelios,Milio,28,0
+Jax,Kai'Sa,28,0
+Lux,Milio,28,0
+Lux,Rumble,28,0
+Lux,Wukong,28,0
+Alistar,Hwei,28,0
+K'Sante,Malphite,28,0
+Malphite,Rell,28,0
+Braum,Rakan,28,0
+Gragas,Milio,28,0
+Jax,Mel,28,0
+Kalista,Nautilus,28,0
+LeBlanc,Sylas,28,0
+Sylas,Yone,28,0
+Rell,Yone,28,0
+Azir,Twisted Fate,28,0
+Jarvan IV,Lux,28,0
+Olaf,Twisted Fate,28,0
+Annie,Braum,28,0
+Kai'Sa,Miss Fortune,28,0
+Maokai,Varus,28,0
+Miss Fortune,Ornn,28,0
+Anivia,Zeri,28,0
+Jarvan IV,Yuumi,28,0
+Jhin,Zeri,28,0
+Lucian,Yuumi,28,0
+Naafiri,Zeri,28,0
+Pantheon,Yuumi,28,0
+Ryze,Yuumi,28,0
+Sylas,Yorick,28,0
+Gwen,Syndra,28,0
+Maokai,Yunara,28,0
+Lulu,Pyke,28,0
+LeBlanc,Ornn,28,0
+Neeko,Pyke,28,0
+Maokai,Trundle,28,0
+Sejuani,Varus,28,0
+Hwei,Jayce,28,0
+Bard,Camille,28,0
+Jayce,Sejuani,28,0
+Lulu,Sejuani,28,0
+Lulu,Ziggs,28,0
+Yunara,Ziggs,28,0
+Leona,Yorick,28,0
+Naafiri,Tristana,28,0
+Tristana,Varus,28,0
+Aatrox,Miss Fortune,28,0
+K'Sante,Tristana,28,0
+Jinx,Varus,28,0
+Dr. Mundo,Orianna,28,0
+Dr. Mundo,Pantheon,28,0
+Dr. Mundo,Sion,28,0
+Dr. Mundo,Yunara,28,0
+Mel,Senna,27,21
+Senna,Xayah,27,20
+Ornn,Senna,27,19
+Dr. Mundo,Nocturne,27,10
+Ambessa,Aphelios,27,0
+Ambessa,Tristana,27,0
+Anivia,Sejuani,27,0
+Bard,Rek'Sai,27,0
+Caitlyn,Rek'Sai,27,0
+Corki,Hwei,27,0
+Gragas,Karma,27,0
+Gragas,Nautilus,27,0
+Gragas,Neeko,27,0
+Gragas,Sion,27,0
+Hwei,Sivir,27,0
+Hwei,Skarner,27,0
+Jinx,Sivir,27,0
+Jinx,Viktor,27,0
+Malphite,Nami,27,0
+Malphite,Ornn,27,0
+Nami,Sejuani,27,0
+Nami,Tristana,27,0
+Sejuani,Skarner,27,0
+Sejuani,Yunara,27,0
+Smolder,Syndra,27,0
+Caitlyn,Camille,27,0
+Galio,Vayne,27,0
+Camille,Trundle,27,0
+Lux,Nautilus,27,0
+Jhin,Malphite,27,0
+Lucian,Malphite,27,0
+Ahri,Kalista,27,0
+Alistar,Pyke,27,0
+Corki,Yone,27,0
+Ezreal,Kalista,27,0
+Leona,Xayah,27,0
+Mel,Sylas,27,0
+Pyke,Rakan,27,0
+Taliyah,Yone,27,0
+Ashe,Rek'Sai,27,0
+Rek'Sai,Seraphine,27,0
+Azir,Kai'Sa,27,0
+Azir,Mel,27,0
+Galio,Olaf,27,0
+Jhin,Lux,27,0
+Lux,Sion,27,0
+Malphite,Rumble,27,0
+Akali,Zeri,27,0
+Ashe,Yuumi,27,0
+Lee Sin,Zeri,27,0
+Sion,Yuumi,27,0
+Sivir,Zeri,27,0
+Wukong,Yuumi,27,0
+Ahri,Jinx,27,0
+Anivia,Maokai,27,0
+Ashe,Jinx,27,0
+Jinx,Pantheon,27,0
+Jinx,Rumble,27,0
+Jinx,Vi,27,0
+LeBlanc,Miss Fortune,27,0
+Lulu,Maokai,27,0
+Akali,Poppy,27,0
+Annie,Pyke,27,0
+Poppy,Yunara,27,0
+Azir,Zaahen,27,0
+Ahri,Sejuani,27,0
+Camille,Lee Sin,27,0
+Jax,Twisted Fate,27,0
+Rumble,Tristana,27,0
+Alistar,Syndra,27,0
+Tristana,Trundle,27,0
+Dr. Mundo,Jayce,27,0
+Dr. Mundo,K'Sante,27,0
+Dr. Mundo,Jhin,27,0
+Braum,Trundle,27,0
+Miss Fortune,Senna,26,18
+Nocturne,Sejuani,26,8
+Aphelios,Nocturne,26,7
+Gragas,Nocturne,26,7
+Jinx,Nocturne,26,7
+Ambessa,Malphite,26,0
+Aphelios,Bard,26,0
+Aphelios,Cassiopeia,26,0
+Braum,Skarner,26,0
+Caitlyn,Sejuani,26,0
+Cassiopeia,Jinx,26,0
+Corki,Smolder,26,0
+Hwei,Ornn,26,0
+Jinx,Yunara,26,0
+Karma,Rek'Sai,26,0
+Rek'Sai,Viktor,26,0
+Syndra,Zaahen,26,0
+Aatrox,Smolder,26,0
+Camille,Nami,26,0
+Malphite,Renekton,26,0
+Ahri,Aphelios,26,0
+Ahri,Lux,26,0
+Annie,Syndra,26,0
+Camille,Lulu,26,0
+Cassiopeia,Lux,26,0
+Lux,Xin Zhao,26,0
+Malphite,Milio,26,0
+Corki,Jax,26,0
+Corki,Pyke,26,0
+Gragas,Ryze,26,0
+Gragas,Vi,26,0
+Jax,Xayah,26,0
+Kai'Sa,LeBlanc,26,0
+Kalista,Lucian,26,0
+LeBlanc,Leona,26,0
+Leona,Smolder,26,0
+Renata Glasc,Sion,26,0
+Smolder,Taliyah,26,0
+Ezreal,Rek'Sai,26,0
+Rek'Sai,Vi,26,0
+Alistar,Shen,26,0
+Shen,Vayne,26,0
+Corki,Olaf,26,0
+Lee Sin,Lux,26,0
+Lux,Vi,26,0
+Mel,Shen,26,0
+Ezreal,Irelia,26,0
+Braum,Jayce,26,0
+Azir,Gwen,26,0
+Ezreal,Yuumi,26,0
+Seraphine,Yuumi,26,0
+Skarner,Zeri,26,0
+Annie,LeBlanc,26,0
+Gwen,LeBlanc,26,0
+Jinx,Lulu,26,0
+Jinx,Renekton,26,0
+Pyke,Skarner,26,0
+Akali,Pyke,26,0
+Annie,Poppy,26,0
+Naafiri,Poppy,26,0
+Rakan,Zeri,26,0
+Annie,Yone,26,0
+Ambessa,Poppy,26,0
+Anivia,Ziggs,26,0
+Camille,Jayce,26,0
+Camille,Neeko,26,0
+Camille,Sivir,26,0
+Poppy,Zaahen,26,0
+Skarner,Ziggs,26,0
+Twisted Fate,Ziggs,26,0
+Jayce,Tristana,26,0
+Gragas,Pantheon,26,0
+Dr. Mundo,Naafiri,26,0
+Pyke,Trundle,26,0
+Dr. Mundo,Renekton,26,0
+Senna,Vayne,25,17
+Gwen,Senna,25,17
+Nocturne,Rek'Sai,25,10
+Akali,Sejuani,25,0
+Aphelios,Gnar,25,0
+Aphelios,Karma,25,0
+Aphelios,Viktor,25,0
+Aphelios,Yunara,25,0
+Aurora,Gragas,25,0
+Gnar,Malphite,25,0
+Gnar,Rek'Sai,25,0
+Hwei,Zaahen,25,0
+Jinx,Nami,25,0
+Kai'Sa,Smolder,25,0
+Lee Sin,Smolder,25,0
+Sejuani,Sivir,25,0
+Rakan,Smolder,25,0
+Annie,Camille,25,0
+Aphelios,Ashe,25,0
+Aphelios,Lulu,25,0
+Aphelios,Seraphine,25,0
+Lux,Orianna,25,0
+Lux,Ryze,25,0
+Alistar,Malphite,25,0
+Ahri,Gragas,25,0
+Ahri,Renata Glasc,25,0
+Ashe,Kalista,25,0
+Gragas,Lucian,25,0
+Gragas,Orianna,25,0
+Kalista,Milio,25,0
+Kalista,Seraphine,25,0
+Kalista,Vi,25,0
+LeBlanc,Mel,25,0
+Pyke,Xayah,25,0
+Renata Glasc,Xin Zhao,25,0
+Pantheon,Rek'Sai,25,0
+Shen,Taliyah,25,0
+Mel,Olaf,25,0
+Irelia,Wukong,25,0
+LeBlanc,Twisted Fate,25,0
+Twisted Fate,Yone,25,0
+Braum,Rell,25,0
+Maokai,Taliyah,25,0
+Aurora,Yuumi,25,0
+Bard,Yuumi,25,0
+Lux,Renekton,25,0
+Nami,Zeri,25,0
+Olaf,Taliyah,25,0
+Xin Zhao,Yuumi,25,0
+Jinx,Lucian,25,0
+Jinx,Milio,25,0
+Shen,Zaahen,25,0
+Hwei,Rakan,25,0
+Kalista,Karma,25,0
+Rakan,Sejuani,25,0
+Yone,Zaahen,25,0
+Camille,Naafiri,25,0
+Maokai,Twisted Fate,25,0
+Nami,Poppy,25,0
+Rakan,Ziggs,25,0
+Trundle,Ziggs,25,0
+Gwen,Ornn,25,0
+Orianna,Rek'Sai,25,0
+Ornn,Shen,25,0
+Rell,Ziggs,25,0
+Azir,LeBlanc,25,0
+Gragas,K'Sante,25,0
+Rell,Zeri,25,0
+Dr. Mundo,Neeko,25,0
+Dr. Mundo,Milio,25,0
+Senna,Sylas,24,19
+Anivia,Hwei,24,0
+Anivia,Tristana,24,0
+Aurora,Rek'Sai,24,0
+Cassiopeia,Rek'Sai,24,0
+Corki,Tristana,24,0
+Gragas,Nami,24,0
+Gragas,Wukong,24,0
+Hwei,Kai'Sa,24,0
+Jinx,Neeko,24,0
+Lee Sin,Tristana,24,0
+Aatrox,Malphite,24,0
+Akali,Camille,24,0
+Annie,Lux,24,0
+K'Sante,Lux,24,0
+Syndra,Trundle,24,0
+Alistar,Jax,24,0
+Ashe,Gragas,24,0
+Braum,Mel,24,0
+Gragas,Seraphine,24,0
+Lucian,Renata Glasc,24,0
+Mel,Yone,24,0
+Pyke,Taliyah,24,0
+Rek'Sai,Ryze,24,0
+Kai'Sa,Olaf,24,0
+Bard,Irelia,24,0
+Maokai,Mel,24,0
+Ahri,Yuumi,24,0
+Alistar,Olaf,24,0
+Ambessa,Yuumi,24,0
+Milio,Yuumi,24,0
+Miss Fortune,Olaf,24,0
+Trundle,Zeri,24,0
+Ahri,Kog'Maw,24,0
+Maokai,Vayne,24,0
+Azir,Ornn,24,0
+Gnar,Kalista,24,0
+Jhin,Kalista,24,0
+Karma,Renata Glasc,24,0
+Poppy,Varus,24,0
+Poppy,Yorick,24,0
+Jhin,Sejuani,24,0
+Naafiri,Sejuani,24,0
+Jayce,Lux,24,0
+Alistar,Ziggs,24,0
+Camille,Corki,24,0
+Corki,Ziggs,24,0
+Nami,Ziggs,24,0
+Poppy,Skarner,24,0
+Sivir,Ziggs,24,0
+Yorick,Ziggs,24,0
+Ezreal,Zoe,24,0
+Rell,Tristana,24,0
+Taliyah,Tristana,24,0
+Hwei,Rell,24,0
+Poppy,Rell,24,0
+Annie,Tristana,24,0
+Alistar,Dr. Mundo,24,0
+Dr. Mundo,Lucian,24,0
+Dr. Mundo,Sivir,24,0
+Dr. Mundo,Varus,24,0
+Aurora,Dr. Mundo,24,0
+Dr. Mundo,Nautilus,24,0
+Senna,Zaahen,23,20
+Aphelios,Aurora,23,0
+Braum,Smolder,23,0
+Caitlyn,Gragas,23,0
+Galio,Smolder,23,0
+Kai'Sa,Malphite,23,0
+Lee Sin,Malphite,23,0
+Rek'Sai,Sion,23,0
+Rek'Sai,Wukong,23,0
+Skarner,Tristana,23,0
+Anivia,Lux,23,0
+Aphelios,Lucian,23,0
+Aphelios,Rumble,23,0
+Camille,Skarner,23,0
+Lux,Trundle,23,0
+Aatrox,Yorick,23,0
+Malphite,Sylas,23,0
+Alistar,Yone,23,0
+Ambessa,Kalista,23,0
+Braum,Leona,23,0
+Braum,Taliyah,23,0
+Ezreal,Renata Glasc,23,0
+Ezreal,Thresh,23,0
+Galio,Yone,23,0
+Gragas,Naafiri,23,0
+Gragas,Varus,23,0
+Kalista,Varus,23,0
+Vayne,Yone,23,0
+K'Sante,Rek'Sai,23,0
+Rek'Sai,Rumble,23,0
+Shen,Xayah,23,0
+Annie,Rek'Sai,23,0
+Gnar,Lux,23,0
+Lux,Naafiri,23,0
+Milio,Rek'Sai,23,0
+Irelia,Lucian,23,0
+Akali,Maokai,23,0
+Alistar,Maokai,23,0
+Lee Sin,Maokai,23,0
+Lulu,Yuumi,23,0
+Neeko,Yuumi,23,0
+Orianna,Yuumi,23,0
+Rumble,Yuumi,23,0
+Corki,Maokai,23,0
+Ezreal,Kog'Maw,23,0
+Jinx,Rell,23,0
+LeBlanc,Syndra,23,0
+LeBlanc,Zaahen,23,0
+Maokai,Nami,23,0
+Syndra,Taliyah,23,0
+Olaf,Xayah,23,0
+Pyke,Sivir,23,0
+Aphelios,Jayce,23,0
+Akali,Ziggs,23,0
+Miss Fortune,Yone,23,0
+Miss Fortune,Ziggs,23,0
+Poppy,Trundle,23,0
+Kalista,Rumble,23,0
+Mel,Syndra,23,0
+Mel,Tristana,23,0
+Jayce,Rek'Sai,23,0
+Ornn,Twisted Fate,23,0
+Gragas,Rumble,23,0
+Rakan,Tristana,23,0
+Bard,Kalista,23,0
+Jinx,Rakan,23,0
+K'Sante,Kalista,23,0
+Ambessa,Dr. Mundo,23,0
+Dr. Mundo,Lulu,23,0
+Dr. Mundo,Vi,23,0
+Aatrox,Senna,22,15
+Kalista,Nocturne,22,9
+Lux,Nocturne,22,7
+Anivia,Aphelios,22,0
+Anivia,Jinx,22,0
+Corki,Gragas,22,0
+Corki,Malphite,22,0
+Gragas,Lee Sin,22,0
+Gragas,Skarner,22,0
+Lee Sin,Sejuani,22,0
+Malphite,Skarner,22,0
+Malphite,Zaahen,22,0
+Neeko,Rek'Sai,22,0
+Ornn,Tristana,22,0
+Tristana,Zaahen,22,0
+Camille,Rakan,22,0
+Aphelios,Orianna,22,0
+Ashe,Lux,22,0
+Jax,Vayne,22,0
+Lux,Skarner,22,0
+Hwei,Xayah,22,0
+Ornn,Vayne,22,0
+Ambessa,Renata Glasc,22,0
+Ashe,Renata Glasc,22,0
+Braum,Sylas,22,0
+Jarvan IV,Renata Glasc,22,0
+Jax,Taliyah,22,0
+Kalista,Ryze,22,0
+LeBlanc,Pyke,22,0
+Leona,Sylas,22,0
+Mel,Pyke,22,0
+Nami,Pyke,22,0
+Renata Glasc,Ryze,22,0
+Renata Glasc,Seraphine,22,0
+Renata Glasc,Vi,22,0
+Kai'Sa,Shen,22,0
+Bard,Lux,22,0
+Jhin,Rek'Sai,22,0
+Lux,Pantheon,22,0
+Olaf,Vayne,22,0
+Rek'Sai,Trundle,22,0
+Shen,Yorick,22,0
+Irelia,Jarvan IV,22,0
+Irelia,Karma,22,0
+Irelia,Xin Zhao,22,0
+Annie,Smolder,22,0
+Maokai,Rell,22,0
+Alistar,Zeri,22,0
+Cassiopeia,Yuumi,22,0
+Gnar,Yuumi,22,0
+K'Sante,Yuumi,22,0
+Shen,Sylas,22,0
+Taliyah,Zeri,22,0
+Viktor,Yuumi,22,0
+Yunara,Yuumi,22,0
+Jinx,Naafiri,22,0
+Nautilus,Yuumi,22,0
+Kalista,Pantheon,22,0
+Corki,Poppy,22,0
+Ornn,Poppy,22,0
+Poppy,Xayah,22,0
+Pyke,Yorick,22,0
+Jax,Miss Fortune,22,0
+Sejuani,Trundle,22,0
+Hwei,Leona,22,0
+Azir,Yone,22,0
+Miss Fortune,Poppy,22,0
+Yone,Yorick,22,0
+Gwen,Jax,22,0
+Leona,Twisted Fate,22,0
+Tristana,Vayne,22,0
+Alistar,Tristana,22,0
+Malphite,Trundle,22,0
+Leona,Zaahen,22,0
+Sejuani,Taliyah,22,0
+Xin Zhao,Zoe,22,0
+Aphelios,Jhin,22,0
+Aphelios,Pantheon,22,0
+Jhin,Tristana,22,0
+Olaf,Senna,21,14
+Akali,Hwei,21,0
+Akali,Jinx,21,0
+Akali,Malphite,21,0
+Anivia,Gragas,21,0
+Aphelios,Sivir,21,0
+Aphelios,Skarner,21,0
+Caitlyn,Jinx,21,0
+Corki,Sejuani,21,0
+Galio,Malphite,21,0
+Gragas,Ornn,21,0
+Gragas,Yunara,21,0
+Kai'Sa,Sejuani,21,0
+Lee Sin,Rek'Sai,21,0
+Malphite,Smolder,21,0
+Nami,Rek'Sai,21,0
+Nautilus,Rek'Sai,21,0
+Rek'Sai,Sivir,21,0
+Rek'Sai,Yunara,21,0
+Smolder,Zaahen,21,0
+Anivia,Camille,21,0
+Annie,Aphelios,21,0
+Aurora,Lux,21,0
+Galio,Jax,21,0
+Karma,Lux,21,0
+Aatrox,Hwei,21,0
+Hwei,Vayne,21,0
+Anivia,Kalista,21,0
+Galio,LeBlanc,21,0
+Jax,Leona,21,0
+Jax,Sylas,21,0
+Kalista,Orianna,21,0
+Kalista,Renata Glasc,21,0
+Milio,Renata Glasc,21,0
+Pyke,Sylas,21,0
+Renata Glasc,Viktor,21,0
+Smolder,Sylas,21,0
+Thresh,Wukong,21,0
+Galio,Shen,21,0
+Azir,Olaf,21,0
+Naafiri,Rek'Sai,21,0
+Olaf,Shen,21,0
+Olaf,Yorick,21,0
+Irelia,K'Sante,21,0
+Irelia,Milio,21,0
+Irelia,Nautilus,21,0
+Irelia,Seraphine,21,0
+Annie,Maokai,21,0
+Jayce,Malphite,21,0
+Caitlyn,Yuumi,21,0
+Karma,Yuumi,21,0
+Renekton,Yuumi,21,0
+Vi,Yuumi,21,0
+Gwen,Maokai,21,0
+K'Sante,Kog'Maw,21,0
+Kog'Maw,Nautilus,21,0
+Kog'Maw,Seraphine,21,0
+Kog'Maw,Sion,21,0
+Kog'Maw,Xin Zhao,21,0
+Azir,Syndra,21,0
+Aatrox,Olaf,21,0
+K'Sante,Renata Glasc,21,0
+Olaf,Ornn,21,0
+Ahri,Irelia,21,0
+Jarvan IV,Kennen,21,0
+Kennen,Viktor,21,0
+Annie,Sejuani,21,0
+Sejuani,Vayne,21,0
+Xayah,Zeri,21,0
+Alistar,Camille,21,0
+Alistar,Poppy,21,0
+Camille,Twisted Fate,21,0
+Camille,Varus,21,0
+Maokai,Yorick,21,0
+Mel,Ziggs,21,0
+Jarvan IV,Zoe,21,0
+Cassiopeia,Kalista,21,0
+Jhin,Jinx,21,0
+Aatrox,Tristana,21,0
+Gwen,Yone,21,0
+Ahri,Rek'Sai,21,0
+Gragas,Lulu,21,0
+Rek'Sai,Renekton,21,0
+Smolder,Trundle,21,0
+Kennen,Xin Zhao,21,0
+Tristana,Xayah,21,0
+Rell,Sejuani,21,0
+Gragas,Jhin,21,0
+Corki,Dr. Mundo,21,0
+Dr. Mundo,Rell,21,0
+Camille,Rell,21,0
+Kalista,Renekton,21,0
+K'Sante,Zoe,21,0
+Aphelios,Vi,21,0
+Pyke,Twisted Fate,21,0
+Braum,Gwen,21,0
+Senna,Yone,20,15
+Azir,Senna,20,14
+Nocturne,Yuumi,20,6
+Ambessa,Rek'Sai,20,0
+Aphelios,Neeko,20,0
+Braum,Galio,20,0
+Braum,Syndra,20,0
+Cassiopeia,Gragas,20,0
+Jarvan IV,Lissandra,20,0
+Jinx,Zaahen,20,0
+Lissandra,Xin Zhao,20,0
+Ornn,Sejuani,20,0
+Ambessa,Lux,20,0
+Camille,Yorick,20,0
+Camille,Zaahen,20,0
+Lulu,Lux,20,0
+Lux,Yunara,20,0
+Syndra,Vayne,20,0
+Braum,Vayne,20,0
+Hwei,Yorick,20,0
+Aurora,Kalista,20,0
+Galio,Pyke,20,0
+Kai'Sa,Yone,20,0
+Kalista,Naafiri,20,0
+Lissandra,Seraphine,20,0
+Mel,Smolder,20,0
+Smolder,Xayah,20,0
+Rek'Sai,Varus,20,0
+Lucian,Rek'Sai,20,0
+Lulu,Rek'Sai,20,0
+Lux,Sivir,20,0
+Lux,Viktor,20,0
+Ashe,Irelia,20,0
+Irelia,Ryze,20,0
+Irelia,Sion,20,0
+Braum,Miss Fortune,20,0
+Galio,Zeri,20,0
+Nami,Yuumi,20,0
+Yuumi,Zeri,20,0
+Jayce,Jinx,20,0
+Kog'Maw,Ryze,20,0
+Kog'Maw,Wukong,20,0
+Maokai,Zaahen,20,0
+Azir,Hwei,20,0
+Maokai,Sylas,20,0
+Syndra,Xayah,20,0
+Aatrox,Pyke,20,0
+Bard,Renata Glasc,20,0
+Lulu,Renata Glasc,20,0
+Pantheon,Renata Glasc,20,0
+Poppy,Rakan,20,0
+Renata Glasc,Rumble,20,0
+Aphelios,Renekton,20,0
+Aphelios,Varus,20,0
+Bard,Kennen,20,0
+Ezreal,Kennen,20,0
+Karma,Kennen,20,0
+Kai'Sa,Zeri,20,0
+Camille,Mel,20,0
+Sejuani,Xayah,20,0
+Sejuani,Yorick,20,0
+Aurora,Zoe,20,0
+Sion,Zoe,20,0
+Gwen,Tristana,20,0
+Gwen,Hwei,20,0
+Hwei,Taliyah,20,0
+Hwei,Trundle,20,0
+Taliyah,Ziggs,20,0
+Leona,Shen,20,0
+Anivia,Dr. Mundo,20,0
+Cassiopeia,Dr. Mundo,20,0
+Dr. Mundo,Kai'Sa,20,0
+Dr. Mundo,Skarner,20,0
+Akali,Dr. Mundo,20,0
+Dr. Mundo,Sylas,20,0
+Camille,Taliyah,20,0
+Miss Fortune,Pyke,20,0
+Dr. Mundo,Syndra,20,0
+Jax,Ornn,20,0
+Dr. Mundo,Rakan,20,0
+Hwei,Senna,19,15
+Nocturne,Renata Glasc,19,7
+Irelia,Nocturne,19,4
+Akali,Aphelios,19,0
+Anivia,Malphite,19,0
+Braum,Hwei,19,0
+Braum,Jinx,19,0
+Caitlyn,Lissandra,19,0
+Galio,Syndra,19,0
+Galio,Tristana,19,0
+Jinx,Ornn,19,0
+Kai'Sa,Tristana,19,0
+Lissandra,Sion,19,0
+Jax,Zaahen,19,0
+Aatrox,Braum,19,0
+Braum,Xayah,19,0
+Braum,Yorick,19,0
+Ezreal,Shyvana,19,0
+Ashe,Lissandra,19,0
+Ezreal,Lissandra,19,0
+Gragas,Rakan,19,0
+Kalista,Wukong,19,0
+LeBlanc,Yone,19,0
+Leona,Pyke,19,0
+Leona,Yone,19,0
+Naafiri,Renata Glasc,19,0
+Nautilus,Renata Glasc,19,0
+Orianna,Renata Glasc,19,0
+Pyke,Vayne,19,0
+Renata Glasc,Varus,19,0
+Ryze,Thresh,19,0
+Jarvan IV,Yasuo,19,0
+Karma,Yasuo,19,0
+Rakan,Rek'Sai,19,0
+Xin Zhao,Yasuo,19,0
+Gwen,Shen,19,0
+Azir,Galio,19,0
+Lux,Varus,19,0
+Irelia,Pantheon,19,0
+Galio,Maokai,19,0
+Gwen,Olaf,19,0
+Jhin,Yuumi,19,0
+Mel,Zeri,19,0
+Olaf,Sylas,19,0
+Sivir,Yuumi,19,0
+Ambessa,Kog'Maw,19,0
+Bard,Kog'Maw,19,0
+Jayce,Yuumi,19,0
+Kog'Maw,Lulu,19,0
+Azir,Maokai,19,0
+Hwei,Sylas,19,0
+Kalista,Lulu,19,0
+Sylas,Syndra,19,0
+Renata Glasc,Yunara,19,0
+Caitlyn,Kennen,19,0
+Gnar,Kennen,19,0
+Irelia,Viktor,19,0
+Karma,Kog'Maw,19,0
+Kennen,Sion,19,0
+Aatrox,Zeri,19,0
+Jax,Shen,19,0
+Mel,Poppy,19,0
+Vayne,Ziggs,19,0
+Aatrox,Jax,19,0
+Leona,Tristana,19,0
+Sylas,Tristana,19,0
+Gragas,Jayce,19,0
+Gragas,Renekton,19,0
+Annie,Gragas,19,0
+Azir,Tristana,19,0
+Gnar,Renata Glasc,19,0
+Jayce,Kalista,19,0
+Kalista,Yunara,19,0
+Azir,Dr. Mundo,19,0
+Pyke,Rell,19,0
+Braum,Twisted Fate,19,0
+Caitlyn,Kalista,19,0
+Poppy,Taliyah,19,0
+Renata Glasc,Renekton,19,0
+Pyke,Zaahen,19,0
+Pyke,Ziggs,19,0
+Dr. Mundo,Leona,19,0
+LeBlanc,Senna,18,14
+Senna,Shen,18,12
+Maokai,Senna,18,11
+Camille,Senna,18,11
+Nocturne,Thresh,18,4
+Akali,Tristana,18,0
+Ambessa,Gragas,18,0
+Anivia,Lissandra,18,0
+Anivia,Rek'Sai,18,0
+Aphelios,Caitlyn,18,0
+Aphelios,Nami,18,0
+Bard,Lissandra,18,0
+Corki,Rek'Sai,18,0
+Galio,Sejuani,18,0
+Gragas,Kai'Sa,18,0
+Gragas,Sivir,18,0
+Jinx,Lee Sin,18,0
+Aphelios,Yorick,18,0
+Camille,Kai'Sa,18,0
+Camille,Vayne,18,0
+Lux,Yorick,18,0
+Alistar,Gragas,18,0
+Alistar,Kalista,18,0
+Braum,Jax,18,0
+Gragas,Xayah,18,0
+Kai'Sa,Pyke,18,0
+Nautilus,Thresh,18,0
+Smolder,Vayne,18,0
+Thresh,Xin Zhao,18,0
+Ezreal,Yasuo,18,0
+Pantheon,Yasuo,18,0
+Ryze,Yasuo,18,0
+Shyvana,Xin Zhao,18,0
+Akali,Lux,18,0
+Lissandra,Pantheon,18,0
+Rek'Sai,Twisted Fate,18,0
+Caitlyn,Irelia,18,0
+Gnar,Irelia,18,0
+Irelia,Lulu,18,0
+Irelia,Rumble,18,0
+Annie,Malphite,18,0
+Miss Fortune,Smolder,18,0
+Annie,Yuumi,18,0
+Azir,Zeri,18,0
+Yorick,Zeri,18,0
+Ashe,Kog'Maw,18,0
+Cassiopeia,Kog'Maw,18,0
+Jayce,Kog'Maw,18,0
+Kog'Maw,Lucian,18,0
+Kog'Maw,Sivir,18,0
+LeBlanc,Shen,18,0
+Azir,Smolder,18,0
+Maokai,Xayah,18,0
+Cassiopeia,Renata Glasc,18,0
+Ambessa,Irelia,18,0
+Aphelios,Twisted Fate,18,0
+Irelia,Neeko,18,0
+Kennen,Milio,18,0
+Kennen,Nautilus,18,0
+Kennen,Rell,18,0
+Kennen,Seraphine,18,0
+Alistar,Sejuani,18,0
+Jax,Olaf,18,0
+Jax,Sejuani,18,0
+Aatrox,Yone,18,0
+Qiyana,Seraphine,18,0
+Camille,Miss Fortune,18,0
+Maokai,Ziggs,18,0
+Poppy,Twisted Fate,18,0
+Pantheon,Zoe,18,0
+Akali,Kalista,18,0
+Irelia,Jhin,18,0
+Kalista,Neeko,18,0
+Ornn,Zeri,18,0
+Leona,Olaf,18,0
+Smolder,Twisted Fate,18,0
+Aurora,Kennen,18,0
+Azir,Leona,18,0
+Ornn,Yone,18,0
+Alistar,Jinx,18,0
+Camille,Ornn,18,0
+Jinx,Leona,18,0
+Aatrox,Dr. Mundo,18,0
+Dr. Mundo,LeBlanc,18,0
+Blitzcrank,Jarvan IV,18,0
+Blitzcrank,Xin Zhao,18,0
+Aphelios,Rakan,18,0
+Jinx,Trundle,18,0
+Sejuani,Sylas,18,0
+Jax,Senna,17,15
+Braum,Senna,17,13
+Malphite,Senna,17,11
+Nocturne,Zoe,17,6
+Aphelios,Lee Sin,17,0
+Braum,Malphite,17,0
+Jinx,Kai'Sa,17,0
+Jinx,Skarner,17,0
+Karma,Lissandra,17,0
+Lissandra,Nautilus,17,0
+Lissandra,Viktor,17,0
+Malphite,Syndra,17,0
+Aphelios,Trundle,17,0
+Syndra,Yorick,17,0
+Jarvan IV,Shyvana,17,0
+Malphite,Yorick,17,0
+Ahri,Thresh,17,0
+Anivia,Renata Glasc,17,0
+Ashe,Thresh,17,0
+Braum,LeBlanc,17,0
+Jarvan IV,Thresh,17,0
+Jax,LeBlanc,17,0
+Jax,Yone,17,0
+Kalista,Vayne,17,0
+LeBlanc,Smolder,17,0
+Lissandra,Lucian,17,0
+Lissandra,Ryze,17,0
+Lissandra,Vi,17,0
+Orianna,Thresh,17,0
+Seraphine,Thresh,17,0
+Sion,Thresh,17,0
+Thresh,Vi,17,0
+K'Sante,Yasuo,17,0
+Rell,Yasuo,17,0
+Seraphine,Zyra,17,0
+Lux,Neeko,17,0
+Cassiopeia,Irelia,17,0
+Irelia,Varus,17,0
+Irelia,Vi,17,0
+Akali,Yuumi,17,0
+Lee Sin,Yuumi,17,0
+Naafiri,Yuumi,17,0
+Skarner,Yuumi,17,0
+Sylas,Zeri,17,0
+Twisted Fate,Zeri,17,0
+Annie,Jinx,17,0
+Corki,Kog'Maw,17,0
+Jarvan IV,Kog'Maw,17,0
+Jinx,Taliyah,17,0
+Kog'Maw,Milio,17,0
+Kog'Maw,Pantheon,17,0
+Kog'Maw,Skarner,17,0
+Kog'Maw,Yunara,17,0
+Nautilus,Yasuo,17,0
+Ornn,Pyke,17,0
+Skarner,Yasuo,17,0
+Caitlyn,Renata Glasc,17,0
+Galio,Poppy,17,0
+Jhin,Renata Glasc,17,0
+Ashe,Kennen,17,0
+Caitlyn,Kog'Maw,17,0
+Gnar,Kog'Maw,17,0
+Irelia,Jayce,17,0
+K'Sante,Kennen,17,0
+Kennen,Lucian,17,0
+Kennen,Ryze,17,0
+Kennen,Wukong,17,0
+Renekton,Thresh,17,0
+Azir,Jax,17,0
+Jax,Maokai,17,0
+Mel,Sejuani,17,0
+Hwei,Mel,17,0
+Lux,Rakan,17,0
+Bard,Qiyana,17,0
+Hwei,Twisted Fate,17,0
+Qiyana,Sion,17,0
+Poppy,Shen,17,0
+Xayah,Ziggs,17,0
+Zaahen,Ziggs,17,0
+Nautilus,Zoe,17,0
+Wukong,Zoe,17,0
+Smolder,Yorick,17,0
+Aatrox,Maokai,17,0
+Hwei,Jax,17,0
+Kennen,Vi,17,0
+Nautilus,Shyvana,17,0
+Irelia,Rakan,17,0
+Ambessa,Blitzcrank,17,0
+Blitzcrank,Gnar,17,0
+Blitzcrank,Nautilus,17,0
+Blitzcrank,Viktor,17,0
+Annie,Kalista,17,0
+Dr. Mundo,Trundle,17,0
+Camille,Sylas,17,0
+Caitlyn,Zoe,17,0
+Kalista,Trundle,17,0
+Renekton,Zoe,17,0
+Ryze,Zoe,17,0
+Dr. Mundo,Taliyah,17,0
+Pyke,Shen,17,0
+Kennen,Orianna,17,0
+Aatrox,Jinx,17,0
+Senna,Syndra,16,12
+Kog'Maw,Nocturne,16,5
+Kennen,Nocturne,16,3
+Akali,Gragas,16,0
+Aphelios,Corki,16,0
+Aphelios,Zaahen,16,0
+Gnar,Lissandra,16,0
+Jinx,Sejuani,16,0
+Lee Sin,Lissandra,16,0
+Lissandra,Nami,16,0
+Lissandra,Neeko,16,0
+Lissandra,Sivir,16,0
+Lissandra,Wukong,16,0
+Malphite,Tristana,16,0
+Nautilus,Viego,16,0
+Rek'Sai,Skarner,16,0
+Cho'Gath,Jarvan IV,16,0
+Cho'Gath,Seraphine,16,0
+Cho'Gath,Wukong,16,0
+Bard,Shyvana,16,0
+Cho'Gath,Sion,16,0
+Pantheon,Shyvana,16,0
+Ryze,Shyvana,16,0
+Shyvana,Sion,16,0
+Shyvana,Wukong,16,0
+Gwen,Malphite,16,0
+Cho'Gath,Nautilus,16,0
+Gragas,Leona,16,0
+Kalista,Lee Sin,16,0
+Kalista,Rakan,16,0
+Kalista,Taliyah,16,0
+Leona,Malphite,16,0
+Lucian,Thresh,16,0
+Malphite,Yone,16,0
+Milio,Thresh,16,0
+Renata Glasc,Xayah,16,0
+Bard,Yasuo,16,0
+Ezreal,Zyra,16,0
+Rek'Sai,Rell,16,0
+Seraphine,Yasuo,16,0
+Shyvana,Varus,16,0
+Azir,Shen,16,0
+Lux,Nami,16,0
+Irelia,Orianna,16,0
+LeBlanc,Olaf,16,0
+Malphite,Miss Fortune,16,0
+Maokai,Ornn,16,0
+Alistar,Yuumi,16,0
+Miss Fortune,Zeri,16,0
+Anivia,Kog'Maw,16,0
+Gwen,Jinx,16,0
+Jinx,Miss Fortune,16,0
+Jinx,Vayne,16,0
+Kog'Maw,Lee Sin,16,0
+Kog'Maw,Neeko,16,0
+Kog'Maw,Renekton,16,0
+Kog'Maw,Vi,16,0
+Shen,Syndra,16,0
+Azir,Kalista,16,0
+Maokai,Rakan,16,0
+LeBlanc,Poppy,16,0
+Ahri,Kennen,16,0
+Anivia,Irelia,16,0
+Anivia,Kennen,16,0
+Aphelios,Rell,16,0
+Irelia,Skarner,16,0
+Kennen,Neeko,16,0
+Kennen,Varus,16,0
+Hwei,Yone,16,0
+Jarvan IV,Qiyana,16,0
+Karma,Qiyana,16,0
+Olaf,Zaahen,16,0
+Qiyana,Rumble,16,0
+Camille,Shen,16,0
+Camille,Yone,16,0
+Jax,Ziggs,16,0
+LeBlanc,Ziggs,16,0
+Maokai,Yone,16,0
+Sejuani,Shen,16,0
+Sejuani,Yone,16,0
+Akali,Irelia,16,0
+Zaahen,Zeri,16,0
+Tristana,Twisted Fate,16,0
+Tristana,Yone,16,0
+Tristana,Yorick,16,0
+Varus,Yuumi,16,0
+Alistar,Rek'Sai,16,0
+Gragas,Rell,16,0
+Gragas,Trundle,16,0
+Gragas,Twisted Fate,16,0
+Malphite,Shen,16,0
+Malphite,Twisted Fate,16,0
+Rek'Sai,Taliyah,16,0
+Ahri,Qiyana,16,0
+Kennen,Nami,16,0
+Leona,Poppy,16,0
+Lulu,Qiyana,16,0
+Qiyana,Xin Zhao,16,0
+Corki,Zeri,16,0
+Jinx,Xayah,16,0
+Dr. Mundo,Vayne,16,0
+Dr. Mundo,Zaahen,16,0
+Aurora,Blitzcrank,16,0
+Blitzcrank,Ezreal,16,0
+Blitzcrank,Lulu,16,0
+Blitzcrank,Yunara,16,0
+Aphelios,Naafiri,16,0
+Blitzcrank,Wukong,16,0
+Dr. Mundo,Xayah,16,0
+Sylas,Ziggs,16,0
+Gwen,Pyke,16,0
+Ambessa,Zoe,16,0
+Bard,Zoe,16,0
+Jayce,Zoe,16,0
+Braum,Poppy,16,0
+Kalista,Rell,16,0
+Karma,Zoe,16,0
+Azir,Ziggs,16,0
+Hwei,Miss Fortune,16,0
+Dr. Mundo,Lee Sin,16,0
+Senna,Smolder,15,11
+Senna,Ziggs,15,10
+Poppy,Senna,15,9
+Nocturne,Yasuo,15,6
+Lissandra,Nocturne,15,3
+Akali,Rek'Sai,15,0
+Cassiopeia,Lissandra,15,0
+Corki,Jinx,15,0
+Galio,Jinx,15,0
+Gnar,Gragas,15,0
+Hwei,Smolder,15,0
+Hwei,Syndra,15,0
+Hwei,Tristana,15,0
+Jinx,Malphite,15,0
+Jinx,Smolder,15,0
+Jinx,Syndra,15,0
+Lissandra,Skarner,15,0
+Rek'Sai,Zaahen,15,0
+Sejuani,Zaahen,15,0
+Sion,Viego,15,0
+Syndra,Tristana,15,0
+Aphelios,Vayne,15,0
+Galio,Lux,15,0
+Ahri,Shyvana,15,0
+Cho'Gath,Ezreal,15,0
+Malphite,Xayah,15,0
+Ambessa,Thresh,15,0
+Aurora,Renata Glasc,15,0
+Braum,Yone,15,0
+Corki,Kalista,15,0
+Kalista,Xayah,15,0
+Lissandra,Milio,15,0
+Thresh,Varus,15,0
+Caitlyn,Yasuo,15,0
+Gnar,Thresh,15,0
+Gnar,Yasuo,15,0
+Neeko,Thresh,15,0
+Rell,Thresh,15,0
+Varus,Yasuo,15,0
+Vi,Yasuo,15,0
+Wukong,Yasuo,15,0
+Azir,Rek'Sai,15,0
+Lissandra,Lulu,15,0
+Lissandra,Rumble,15,0
+Lux,Twisted Fate,15,0
+Irelia,Lee Sin,15,0
+Olaf,Yone,15,0
+Kai'Sa,Maokai,15,0
+Alistar,Lux,15,0
+Lissandra,Renekton,15,0
+Trundle,Yuumi,15,0
+Kog'Maw,Naafiri,15,0
+Kog'Maw,Nami,15,0
+Kog'Maw,Rumble,15,0
+LeBlanc,Maokai,15,0
+Maokai,Shen,15,0
+Syndra,Yuumi,15,0
+Hwei,Maokai,15,0
+Kalista,Ornn,15,0
+Akali,Renata Glasc,15,0
+Annie,Renata Glasc,15,0
+Kai'Sa,Poppy,15,0
+Irelia,Trundle,15,0
+Jayce,Kennen,15,0
+Kennen,Lulu,15,0
+Kennen,Renekton,15,0
+Kennen,Sivir,15,0
+Kennen,Skarner,15,0
+Kennen,Yunara,15,0
+Kog'Maw,Viktor,15,0
+Olaf,Sejuani,15,0
+Jayce,Lissandra,15,0
+Leona,Zeri,15,0
+Ezreal,Qiyana,15,0
+Jhin,Qiyana,15,0
+Qiyana,Rakan,15,0
+Qiyana,Ryze,15,0
+Qiyana,Yunara,15,0
+Camille,Xayah,15,0
+Camille,Ziggs,15,0
+Poppy,Vayne,15,0
+Sejuani,Twisted Fate,15,0
+Shen,Yone,15,0
+Shen,Ziggs,15,0
+Yone,Ziggs,15,0
+Ahri,Zoe,15,0
+Anivia,Yasuo,15,0
+Sion,Yasuo,15,0
+Syndra,Twisted Fate,15,0
+Galio,Ziggs,15,0
+Maokai,Tristana,15,0
+Kennen,Pantheon,15,0
+Neeko,Qiyana,15,0
+Nasus,Nautilus,15,0
+Nasus,Wukong,15,0
+Bard,Kha'Zix,15,0
+Camille,Leona,15,0
+Ezreal,Kha'Zix,15,0
+Jayce,Renata Glasc,15,0
+Kha'Zix,Lucian,15,0
+Kha'Zix,Ryze,15,0
+Kha'Zix,Xin Zhao,15,0
+Naafiri,Qiyana,15,0
+Orianna,Qiyana,15,0
+Rakan,Yuumi,15,0
+Dr. Mundo,Hwei,15,0
+Blitzcrank,Karma,15,0
+Blitzcrank,Seraphine,15,0
+Blitzcrank,Vi,15,0
+Dr. Mundo,Ornn,15,0
+Caitlyn,Kha'Zix,15,0
+Lucian,Zoe,15,0
+Lulu,Zoe,15,0
+Naafiri,Zoe,15,0
+Yunara,Zoe,15,0
+Aphelios,Xayah,15,0
+Jinx,Mel,15,0
+Jinx,Sylas,15,0
+Gwen,Sejuani,15,0
+Kai'Sa,Ziggs,15,0
+Dr. Mundo,Gwen,15,0
+Aatrox,Ziggs,15,0
+Senna,Zeri,14,12
+Sejuani,Senna,14,10
+Pyke,Senna,14,9
+Blitzcrank,Nocturne,14,5
+Ambessa,Lissandra,14,0
+Aphelios,Kai'Sa,14,0
+Aphelios,Ornn,14,0
+Aurora,Lissandra,14,0
+Galio,Hwei,14,0
+Galio,Rek'Sai,14,0
+Gragas,Zaahen,14,0
+Hwei,Malphite,14,0
+Jarvan IV,Viego,14,0
+Kai'Sa,Rek'Sai,14,0
+Sejuani,Tristana,14,0
+Ashe,Volibear,14,0
+Camille,Galio,14,0
+Jax,Syndra,14,0
+Lux,Zaahen,14,0
+Ahri,Cho'Gath,14,0
+Milio,Shyvana,14,0
+Gragas,Taliyah,14,0
+Kalista,Nami,14,0
+Kalista,Sylas,14,0
+Lissandra,Naafiri,14,0
+Malphite,Mel,14,0
+Malphite,Taliyah,14,0
+Pyke,Yone,14,0
+Rakan,Renata Glasc,14,0
+Renata Glasc,Wukong,14,0
+Smolder,Yone,14,0
+Ashe,Yasuo,14,0
+Karma,Zyra,14,0
+Pantheon,Thresh,14,0
+Rakan,Yasuo,14,0
+Rumble,Shyvana,14,0
+Seraphine,Shyvana,14,0
+Wukong,Zyra,14,0
+Jhin,Lissandra,14,0
+K'Sante,Lissandra,14,0
+Lissandra,Trundle,14,0
+Rek'Sai,Yorick,14,0
+Aurora,Irelia,14,0
+Gwen,Yuumi,14,0
+Jinx,LeBlanc,14,0
+Kog'Maw,Vayne,14,0
+Kog'Maw,Zaahen,14,0
+Miss Fortune,Syndra,14,0
+Ahri,Yasuo,14,0
+Azir,Pyke,14,0
+Kalista,Skarner,14,0
+Lulu,Yasuo,14,0
+Maokai,Pyke,14,0
+Pyke,Syndra,14,0
+Olaf,Pyke,14,0
+Ornn,Renata Glasc,14,0
+Renata Glasc,Sivir,14,0
+Ambessa,Kennen,14,0
+Aphelios,Taliyah,14,0
+Irelia,Kai'Sa,14,0
+Irelia,Yunara,14,0
+Kennen,Rumble,14,0
+Kennen,Trundle,14,0
+Kog'Maw,Varus,14,0
+Maokai,Sejuani,14,0
+Miss Fortune,Sejuani,14,0
+Aurora,Qiyana,14,0
+Lucian,Qiyana,14,0
+Milio,Qiyana,14,0
+Nautilus,Qiyana,14,0
+Pantheon,Qiyana,14,0
+Elise,Ezreal,14,0
+Elise,Seraphine,14,0
+Elise,Viktor,14,0
+LeBlanc,Sejuani,14,0
+Rumble,Zoe,14,0
+Nautilus,Zyra,14,0
+Aatrox,Yuumi,14,0
+Aurora,Yasuo,14,0
+LeBlanc,Tristana,14,0
+Naafiri,Yasuo,14,0
+Renekton,Yasuo,14,0
+Shen,Tristana,14,0
+Aatrox,Shen,14,0
+Ornn,Qiyana,14,0
+Qiyana,Renekton,14,0
+Qiyana,Vi,14,0
+Qiyana,Viktor,14,0
+Caitlyn,Nasus,14,0
+Ezreal,Nasus,14,0
+Gragas,Yorick,14,0
+Leona,Sejuani,14,0
+Nasus,Skarner,14,0
+Camille,Pyke,14,0
+Jinx,Yorick,14,0
+K'Sante,Kha'Zix,14,0
+Kha'Zix,Orianna,14,0
+Kha'Zix,Pantheon,14,0
+Kha'Zix,Rumble,14,0
+Kha'Zix,Yunara,14,0
+Aatrox,Sejuani,14,0
+Dr. Mundo,Smolder,14,0
+Ahri,Blitzcrank,14,0
+Ashe,Blitzcrank,14,0
+Bard,Blitzcrank,14,0
+Blitzcrank,Caitlyn,14,0
+Blitzcrank,Renekton,14,0
+Blitzcrank,Ryze,14,0
+Blitzcrank,Sion,14,0
+Blitzcrank,Varus,14,0
+Blitzcrank,Vayne,14,0
+Azir,Malphite,14,0
+Leona,Ziggs,14,0
+Ashe,Zoe,14,0
+Gnar,Zoe,14,0
+Milio,Zoe,14,0
+Orianna,Zoe,14,0
+Aphelios,Azir,14,0
+Aphelios,Sylas,14,0
+Viktor,Yasuo,14,0
+Braum,Camille,14,0
+Poppy,Sylas,14,0
+Rell,Renata Glasc,14,0
+Nami,Zoe,14,0
+Seraphine,Zoe,14,0
+Aphelios,Mel,14,0
+Alistar,Aphelios,14,0
+Aatrox,Rek'Sai,14,0
+Annie,Dr. Mundo,14,0
+Rell,Zoe,14,0
+Kalista,Sivir,14,0
+Kha'Zix,Nocturne,13,8
+Nocturne,Qiyana,13,5
+Nocturne,Shyvana,13,3
+Akali,Lissandra,13,0
+Aphelios,Galio,13,0
+Braum,Sejuani,13,0
+Braum,Tristana,13,0
+Galio,Gragas,13,0
+Gragas,Smolder,13,0
+Lissandra,Yunara,13,0
+Rek'Sai,Tristana,13,0
+Sejuani,Smolder,13,0
+Viego,Wukong,13,0
+Viego,Xin Zhao,13,0
+Aatrox,Camille,13,0
+Camille,Malphite,13,0
+Cho'Gath,Orianna,13,0
+Cho'Gath,Xin Zhao,13,0
+Ezreal,Volibear,13,0
+Seraphine,Volibear,13,0
+Volibear,Xin Zhao,13,0
+Ashe,Shyvana,13,0
+Caitlyn,Shyvana,13,0
+Cassiopeia,Shyvana,13,0
+Cho'Gath,Viktor,13,0
+K'Sante,Shyvana,13,0
+Karma,Shyvana,13,0
+Orianna,Shyvana,13,0
+Shyvana,Skarner,13,0
+Ahri,Lissandra,13,0
+Alistar,Lissandra,13,0
+Alistar,Renata Glasc,13,0
+Ezreal,Viego,13,0
+Gragas,Mel,13,0
+Gragas,Vayne,13,0
+Jax,Pyke,13,0
+Jax,Smolder,13,0
+Kalista,Mel,13,0
+LeBlanc,Malphite,13,0
+Lee Sin,Renata Glasc,13,0
+Lissandra,Orianna,13,0
+Mordekaiser,Nautilus,13,0
+Mordekaiser,Wukong,13,0
+Rakan,Thresh,13,0
+Renata Glasc,Vayne,13,0
+Ryze,Viego,13,0
+Thresh,Viktor,13,0
+Ashe,Brand,13,0
+Brand,Xin Zhao,13,0
+Caitlyn,Thresh,13,0
+Gnar,Shyvana,13,0
+K'Sante,Thresh,13,0
+Neeko,Yasuo,13,0
+Varus,Zyra,13,0
+Xin Zhao,Zyra,13,0
+Bard,Nidalee,13,0
+Jarvan IV,Nidalee,13,0
+Karma,Nidalee,13,0
+Mel,Rek'Sai,13,0
+Irelia,Yone,13,0
+Azir,Yuumi,13,0
+Galio,Yuumi,13,0
+Lux,Miss Fortune,13,0
+Olaf,Zeri,13,0
+Sylas,Yuumi,13,0
+Taliyah,Yuumi,13,0
+Yorick,Yuumi,13,0
+Annie,Kog'Maw,13,0
+Aurora,Kog'Maw,13,0
+Corki,Yuumi,13,0
+Kog'Maw,Miss Fortune,13,0
+Kog'Maw,Orianna,13,0
+Kog'Maw,Rell,13,0
+Yuumi,Zaahen,13,0
+Hwei,Pyke,13,0
+Jhin,Yasuo,13,0
+Aatrox,Poppy,13,0
+Neeko,Renata Glasc,13,0
+Poppy,Pyke,13,0
+Cassiopeia,Kennen,13,0
+Cassiopeia,Thresh,13,0
+Irelia,Rell,13,0
+Irelia,Renekton,13,0
+Irelia,Taliyah,13,0
+Kennen,Lee Sin,13,0
+Thresh,Yunara,13,0
+Azir,Sejuani,13,0
+Ashe,Qiyana,13,0
+Caitlyn,Qiyana,13,0
+Cassiopeia,Qiyana,13,0
+K'Sante,Qiyana,13,0
+Nami,Qiyana,13,0
+Caitlyn,Elise,13,0
+Elise,Gnar,13,0
+Elise,Naafiri,13,0
+Elise,Sion,13,0
+Elise,Sivir,13,0
+Elise,Wukong,13,0
+Elise,Xin Zhao,13,0
+Jhin,Kog'Maw,13,0
+Kog'Maw,Rakan,13,0
+Poppy,Ziggs,13,0
+Azir,Jinx,13,0
+Irelia,Ornn,13,0
+Sejuani,Zeri,13,0
+Viktor,Zyra,13,0
+Cassiopeia,Yasuo,13,0
+Gwen,Smolder,13,0
+Olaf,Syndra,13,0
+Olaf,Tristana,13,0
+Gwen,Ziggs,13,0
+Ornn,Ziggs,13,0
+Anivia,Qiyana,13,0
+Kennen,Leona,13,0
+Jarvan IV,Nasus,13,0
+K'Sante,Nasus,13,0
+Karma,Nasus,13,0
+Nami,Shyvana,13,0
+Nasus,Orianna,13,0
+Nasus,Seraphine,13,0
+Nasus,Xin Zhao,13,0
+Rek'Sai,Xayah,13,0
+Tristana,Zeri,13,0
+Ahri,Kha'Zix,13,0
+Jhin,Kha'Zix,13,0
+Kha'Zix,Lulu,13,0
+Kha'Zix,Sion,13,0
+Syndra,Zeri,13,0
+Ahri,Nasus,13,0
+Blitzcrank,K'Sante,13,0
+Blitzcrank,Lee Sin,13,0
+Blitzcrank,Orianna,13,0
+Blitzcrank,Sivir,13,0
+Kalista,Twisted Fate,13,0
+Kha'Zix,Milio,13,0
+Neeko,Zoe,13,0
+Azir,Camille,13,0
+Azir,Poppy,13,0
+Blitzcrank,Zaahen,13,0
+Braum,Shen,13,0
+Jax,Zeri,13,0
+Miss Fortune,Tristana,13,0
+Rek'Sai,Sylas,13,0
+Skarner,Zoe,13,0
+Viktor,Zoe,13,0
+Irelia,Vayne,13,0
+Ezreal,Fiora,13,0
+Renata Glasc,Skarner,13,0
+Cassiopeia,Zoe,13,0
+Gragas,Senna,12,9
+Kalista,Senna,12,8
+Lux,Senna,12,7
+Aphelios,Syndra,12,0
+Aurora,Viego,12,0
+Bard,Tahm Kench,12,0
+Braum,Gragas,12,0
+Corki,Lissandra,12,0
+Gragas,Syndra,12,0
+Hwei,Sejuani,12,0
+Smolder,Tristana,12,0
+Tahm Kench,Viktor,12,0
+Viego,Viktor,12,0
+Cho'Gath,Karma,12,0
+Cho'Gath,Renekton,12,0
+Jax,Lux,12,0
+Karma,Volibear,12,0
+Volibear,Yunara,12,0
+Aurora,Shyvana,12,0
+Jhin,Shyvana,12,0
+Lucian,Shyvana,12,0
+Lulu,Shyvana,12,0
+Shyvana,Sivir,12,0
+Shyvana,Vi,12,0
+Jarvan IV,Soraka,12,0
+Karma,Soraka,12,0
+Ahri,Viego,12,0
+Cho'Gath,Varus,12,0
+Corki,Renata Glasc,12,0
+Galio,Kalista,12,0
+Galio,Renata Glasc,12,0
+Kai'Sa,Kalista,12,0
+Kalista,LeBlanc,12,0
+Kalista,Leona,12,0
+Lissandra,Varus,12,0
+Lucian,Viego,12,0
+Naafiri,Thresh,12,0
+Nami,Thresh,12,0
+Renata Glasc,Taliyah,12,0
+Seraphine,Viego,12,0
+Ashe,Zyra,12,0
+Bard,Thresh,12,0
+Brand,Ezreal,12,0
+Gnar,Zyra,12,0
+Jarvan IV,Zyra,12,0
+Karma,Thresh,12,0
+Rumble,Thresh,12,0
+Rumble,Yasuo,12,0
+Rumble,Zyra,12,0
+Vi,Zyra,12,0
+Annie,Lissandra,12,0
+Ashe,Nidalee,12,0
+Caitlyn,Nidalee,12,0
+Ezreal,Nidalee,12,0
+Lissandra,Twisted Fate,12,0
+Lux,Mel,12,0
+Lux,Shen,12,0
+Nautilus,Nidalee,12,0
+Nidalee,Pantheon,12,0
+Nidalee,Ryze,12,0
+Nidalee,Seraphine,12,0
+Nidalee,Sion,12,0
+Nidalee,Xin Zhao,12,0
+Corki,Irelia,12,0
+Brand,Nautilus,12,0
+Braum,Maokai,12,0
+Maokai,Smolder,12,0
+Anivia,Yuumi,12,0
+Gwen,Lux,12,0
+Gwen,Zeri,12,0
+Mel,Yuumi,12,0
+Shen,Zeri,12,0
+Twisted Fate,Yuumi,12,0
+Kog'Maw,Taliyah,12,0
+Maokai,Syndra,12,0
+Fiora,Xin Zhao,12,0
+Vladimir,Xin Zhao,12,0
+Annie,Irelia,12,0
+Annie,Kennen,12,0
+Irelia,Sivir,12,0
+Irelia,Zaahen,12,0
+Jayce,Thresh,12,0
+Kai'Sa,Kennen,12,0
+Kennen,Taliyah,12,0
+Kog'Maw,Trundle,12,0
+Lux,Xayah,12,0
+Aatrox,Qiyana,12,0
+Annie,Qiyana,12,0
+Corki,Qiyana,12,0
+Gnar,Qiyana,12,0
+Hwei,Olaf,12,0
+Lee Sin,Qiyana,12,0
+Bard,Elise,12,0
+Camille,Maokai,12,0
+Camille,Poppy,12,0
+Elise,Jarvan IV,12,0
+Elise,Karma,12,0
+Elise,Rumble,12,0
+Jax,Poppy,12,0
+Jhin,Tahm Kench,12,0
+Jhin,Zoe,12,0
+Cassiopeia,Zyra,12,0
+Sion,Zyra,12,0
+Jax,Tristana,12,0
+Smolder,Yuumi,12,0
+Syndra,Yone,12,0
+Hwei,Shen,12,0
+Hwei,Ziggs,12,0
+Kennen,Mel,12,0
+Kennen,Ornn,12,0
+Kennen,Poppy,12,0
+Poppy,Syndra,12,0
+Rell,Viego,12,0
+Ashe,Nasus,12,0
+Bard,Nasus,12,0
+Cassiopeia,Nasus,12,0
+Leona,Rek'Sai,12,0
+Nasus,Pantheon,12,0
+Nasus,Sivir,12,0
+Shyvana,Yunara,12,0
+Akali,Kha'Zix,12,0
+Ambessa,Kha'Zix,12,0
+Irelia,Naafiri,12,0
+Jarvan IV,Kha'Zix,12,0
+Jayce,Kha'Zix,12,0
+Jinx,Yone,12,0
+Karma,Kha'Zix,12,0
+Kha'Zix,Lee Sin,12,0
+Kha'Zix,Nautilus,12,0
+Kha'Zix,Seraphine,12,0
+Kha'Zix,Vi,12,0
+Kha'Zix,Viktor,12,0
+Renekton,Shyvana,12,0
+Anivia,Blitzcrank,12,0
+Blitzcrank,Cassiopeia,12,0
+Blitzcrank,Corki,12,0
+Blitzcrank,Jayce,12,0
+Blitzcrank,Lucian,12,0
+Blitzcrank,Nami,12,0
+Blitzcrank,Milio,12,0
+Draven,Gnar,12,0
+Draven,Nautilus,12,0
+Aatrox,Kalista,12,0
+Ambessa,Yasuo,12,0
+Kha'Zix,Wukong,12,0
+Braum,Olaf,12,0
+Jax,Jinx,12,0
+Jinx,Poppy,12,0
+Jinx,Twisted Fate,12,0
+Renata Glasc,Trundle,12,0
+Renata Glasc,Twisted Fate,12,0
+Lux,Rell,12,0
+Mel,Zoe,12,0
+Vladimir,Wukong,12,0
+Jhin,Kennen,12,0
+Braum,Dr. Mundo,12,0
+Dr. Mundo,Tristana,12,0
+Fiora,Wukong,12,0
+Aatrox,Zoe,12,0
+Sivir,Zoe,12,0
+Senna,Tristana,11,8
+Jinx,Senna,11,7
+Bard,Viego,11,0
+Caitlyn,Viego,11,0
+Corki,Viego,11,0
+Gnar,Viego,11,0
+Gragas,Malphite,11,0
+Gragas,Sejuani,11,0
+Hwei,Rek'Sai,11,0
+Jarvan IV,Tahm Kench,11,0
+Karma,Tahm Kench,11,0
+Karma,Viego,11,0
+Malphite,Sejuani,11,0
+Neeko,Viego,11,0
+Ornn,Rek'Sai,11,0
+Sion,Tahm Kench,11,0
+Tahm Kench,Xin Zhao,11,0
+Ashe,Cho'Gath,11,0
+Caitlyn,Cho'Gath,11,0
+Camille,Syndra,11,0
+Aphelios,Jax,11,0
+Camille,Jax,11,0
+Kai'Sa,Lux,11,0
+Lulu,Volibear,11,0
+Lux,Vayne,11,0
+Rumble,Volibear,11,0
+Cho'Gath,Ornn,11,0
+Cho'Gath,Vi,11,0
+Malphite,Vayne,11,0
+Ornn,Shyvana,11,0
+Shyvana,Viktor,11,0
+Ahri,Soraka,11,0
+Seraphine,Soraka,11,0
+Aurora,Thresh,11,0
+Braum,Pyke,11,0
+Darius,Jarvan IV,11,0
+Darius,Viktor,11,0
+Ezreal,Mordekaiser,11,0
+Galio,Thresh,11,0
+Jarvan IV,Mordekaiser,11,0
+Kai'Sa,Thresh,11,0
+Mel,Thresh,11,0
+Milio,Viego,11,0
+Mordekaiser,Xin Zhao,11,0
+Nami,Renata Glasc,11,0
+Nautilus,Veigar,11,0
+Orianna,Viego,11,0
+Renata Glasc,Sylas,11,0
+Akali,Shyvana,11,0
+Brand,Jarvan IV,11,0
+Brand,Pantheon,11,0
+Brand,Ryze,11,0
+Brand,Seraphine,11,0
+Brand,Varus,11,0
+Caitlyn,Zyra,11,0
+K'Sante,Zyra,11,0
+Corki,Nidalee,11,0
+Jhin,Nidalee,11,0
+Nidalee,Rumble,11,0
+Nidalee,Sivir,11,0
+Galio,Irelia,11,0
+Irelia,Nami,11,0
+Brand,Sion,11,0
+Brand,Viktor,11,0
+Leona,Maokai,11,0
+Lux,Taliyah,11,0
+Akali,Kog'Maw,11,0
+Rell,Yuumi,11,0
+Azir,Yasuo,11,0
+Fiora,Pantheon,11,0
+Kindred,Nautilus,11,0
+Renata Glasc,Yorick,11,0
+Aatrox,Kog'Maw,11,0
+Kennen,Zaahen,11,0
+Maokai,Olaf,11,0
+Aatrox,Lux,11,0
+Malzahar,Nautilus,11,0
+Qiyana,Wukong,11,0
+Ashe,Elise,11,0
+Camille,LeBlanc,11,0
+Cassiopeia,Elise,11,0
+Elise,Jhin,11,0
+Elise,Nautilus,11,0
+Elise,Orianna,11,0
+Elise,Pantheon,11,0
+Elise,Renekton,11,0
+Elise,Varus,11,0
+Elise,Vi,11,0
+Jayce,Nidalee,11,0
+Maokai,Poppy,11,0
+Nidalee,Wukong,11,0
+Rakan,Zoe,11,0
+Azir,Braum,11,0
+Jhin,Zyra,11,0
+Kalista,Zaahen,11,0
+Lucian,Zyra,11,0
+Ornn,Yuumi,11,0
+LeBlanc,Yasuo,11,0
+Mel,Yasuo,11,0
+Olaf,Smolder,11,0
+Sion,Soraka,11,0
+Nautilus,Zed,11,0
+Shen,Smolder,11,0
+Kennen,Syndra,11,0
+Poppy,Smolder,11,0
+Anivia,Shyvana,11,0
+Nasus,Sion,11,0
+Shyvana,Taliyah,11,0
+Alistar,Irelia,11,0
+Ambessa,Qiyana,11,0
+Ashe,Kha'Zix,11,0
+Cassiopeia,Kha'Zix,11,0
+Gnar,Kha'Zix,11,0
+Irelia,Leona,11,0
+Irelia,Xayah,11,0
+Kalista,Yorick,11,0
+Kha'Zix,Naafiri,11,0
+Kha'Zix,Rakan,11,0
+Lee Sin,Zyra,11,0
+Malphite,Yuumi,11,0
+Naafiri,Zyra,11,0
+Qiyana,Varus,11,0
+Smolder,Zeri,11,0
+Aatrox,Gragas,11,0
+Akali,Blitzcrank,11,0
+Blitzcrank,Pantheon,11,0
+Blitzcrank,Trundle,11,0
+Kog'Maw,Ornn,11,0
+Blitzcrank,Naafiri,11,0
+Blitzcrank,Rell,11,0
+Blitzcrank,Rumble,11,0
+Draven,Jayce,11,0
+Draven,Xin Zhao,11,0
+Dr. Mundo,Galio,11,0
+Camille,Olaf,11,0
+Aurora,Kha'Zix,11,0
+Aphelios,LeBlanc,11,0
+Camille,Tristana,11,0
+Poppy,Tristana,11,0
+Akali,Zoe,11,0
+Alistar,Zoe,11,0
+Anivia,Zoe,11,0
+Aphelios,Gwen,11,0
+Irelia,Mel,11,0
+Alistar,Yasuo,11,0
+Lee Sin,Yasuo,11,0
+Yasuo,Zaahen,11,0
+Gwen,Poppy,11,0
+Dr. Mundo,Mel,11,0
+Dr. Mundo,Yone,11,0
+Gnar,Nasus,11,0
+Malphite,Olaf,11,0
+Aphelios,Shen,11,0
+Taliyah,Zoe,11,0
+Vi,Zoe,11,0
+Olaf,Ziggs,11,0
+Aurora,Fiora,11,0
+Kennen,Rakan,11,0
+Gwen,Kalista,11,0
+Ahri,Draven,11,0
+Alistar,Kennen,11,0
+Senna,Shyvana,10,10
+Kog'Maw,Senna,10,8
+Dr. Mundo,Senna,10,8
+Senna,Yuumi,10,7
+Nocturne,Zyra,10,2
+Ambessa,Tahm Kench,10,0
+Aphelios,Braum,10,0
+Aphelios,Jinx,10,0
+Aphelios,Sejuani,10,0
+Gragas,Tristana,10,0
+Lee Sin,Viego,10,0
+Lissandra,Ornn,10,0
+Nami,Viego,10,0
+Ornn,Viego,10,0
+Syndra,Viego,10,0
+Camille,Smolder,10,0
+Cho'Gath,Rakan,10,0
+Ahri,Volibear,10,0
+Caitlyn,Volibear,10,0
+Milio,Volibear,10,0
+Volibear,Wukong,10,0
+Bard,Cho'Gath,10,0
+Cho'Gath,Sivir,10,0
+Neeko,Shyvana,10,0
+Ezreal,Soraka,10,0
+Pantheon,Soraka,10,0
+Anivia,Thresh,10,0
+Ashe,Darius,10,0
+Cho'Gath,Sylas,10,0
+Gragas,LeBlanc,10,0
+Gragas,Sylas,10,0
+Jax,Malphite,10,0
+Jax,Renata Glasc,10,0
+LeBlanc,Renata Glasc,10,0
+Lee Sin,Thresh,10,0
+Lissandra,Taliyah,10,0
+Lissandra,Vayne,10,0
+Malphite,Pyke,10,0
+Mel,Renata Glasc,10,0
+Thresh,Xayah,10,0
+Varus,Viego,10,0
+Veigar,Wukong,10,0
+Vi,Viego,10,0
+Akali,Thresh,10,0
+Akali,Yasuo,10,0
+Bard,Zyra,10,0
+Brand,Gnar,10,0
+Brand,K'Sante,10,0
+Brand,Rell,10,0
+Galio,Yasuo,10,0
+Pantheon,Zyra,10,0
+Rell,Zyra,10,0
+Ryze,Zyra,10,0
+Annie,Nidalee,10,0
+Aurora,Nidalee,10,0
+Azir,Lissandra,10,0
+Corki,Lux,10,0
+Gnar,Nidalee,10,0
+Lee Sin,Nidalee,10,0
+Lissandra,Olaf,10,0
+Lissandra,Shen,10,0
+Lucian,Nidalee,10,0
+Lulu,Nidalee,10,0
+Lux,Olaf,10,0
+Naafiri,Nidalee,10,0
+Neeko,Nidalee,10,0
+Nidalee,Vi,10,0
+Olaf,Rek'Sai,10,0
+Rek'Sai,Shen,10,0
+Rek'Sai,Vayne,10,0
+Irelia,LeBlanc,10,0
+Aurora,Brand,10,0
+Brand,Cassiopeia,10,0
+Brand,Naafiri,10,0
+Malphite,Maokai,10,0
+Lux,Sylas,10,0
+Miss Fortune,Yuumi,10,0
+Jinx,Yuumi,10,0
+Kog'Maw,Shen,10,0
+Maokai,Yuumi,10,0
+Fiora,Karma,10,0
+Fiora,Rakan,10,0
+Jarvan IV,Kindred,10,0
+Orianna,Yasuo,10,0
+Smolder,Yasuo,10,0
+Sylas,Yasuo,10,0
+Syndra,Yasuo,10,0
+Vayne,Yasuo,10,0
+Xayah,Yasuo,10,0
+Aatrox,Renata Glasc,10,0
+Olaf,Poppy,10,0
+Aatrox,Aphelios,10,0
+Aatrox,Irelia,10,0
+Aatrox,Thresh,10,0
+Annie,Thresh,10,0
+Corki,Kennen,10,0
+Kog'Maw,Twisted Fate,10,0
+Lulu,Thresh,10,0
+Sivir,Thresh,10,0
+Skarner,Thresh,10,0
+Alistar,Qiyana,10,0
+Jarvan IV,Malzahar,10,0
+Malzahar,Wukong,10,0
+Nami,Volibear,10,0
+Qiyana,Xayah,10,0
+Ahri,Elise,10,0
+Ahri,Nidalee,10,0
+Anivia,Elise,10,0
+Aurora,Elise,10,0
+Elise,Ryze,10,0
+Elise,Trundle,10,0
+Kog'Maw,Xayah,10,0
+Ambessa,Zyra,10,0
+Azir,Irelia,10,0
+Braum,Zeri,10,0
+Jinx,Kalista,10,0
+Jinx,Zeri,10,0
+Milio,Zyra,10,0
+Aatrox,Yasuo,10,0
+Brand,Nami,10,0
+Jayce,Yasuo,10,0
+Leona,Yuumi,10,0
+Lucian,Yasuo,10,0
+Milio,Yasuo,10,0
+Nami,Yasuo,10,0
+Soraka,Varus,10,0
+Jarvan IV,Zed,10,0
+Rumble,Zed,10,0
+Viktor,Zed,10,0
+Xin Zhao,Zed,10,0
+Gragas,Gwen,10,0
+Gragas,Shen,10,0
+Viktor,Volibear,10,0
+Renekton,Viego,10,0
+Ambessa,Nasus,10,0
+Ezreal,Kindred,10,0
+Jayce,Shyvana,10,0
+Kindred,Rumble,10,0
+Kindred,Seraphine,10,0
+Kindred,Sion,10,0
+Kindred,Wukong,10,0
+Leona,Nasus,10,0
+Nami,Nasus,10,0
+Nasus,Rakan,10,0
+Nasus,Rumble,10,0
+Nasus,Ryze,10,0
+Nasus,Trundle,10,0
+Nasus,Yunara,10,0
+Camille,Irelia,10,0
+Camille,Kalista,10,0
+Jayce,Zyra,10,0
+Jinx,Renata Glasc,10,0
+Kha'Zix,Neeko,10,0
+Kha'Zix,Varus,10,0
+Malphite,Zeri,10,0
+Xayah,Yuumi,10,0
+Amumu,Nautilus,10,0
+Shyvana,Smolder,10,0
+Shyvana,Sylas,10,0
+Dr. Mundo,Twisted Fate,10,0
+Dr. Mundo,Yorick,10,0
+Dr. Mundo,Zeri,10,0
+Vayne,Zeri,10,0
+Cho'Gath,Rell,10,0
+Dr. Mundo,Malphite,10,0
+Dr. Mundo,Miss Fortune,10,0
+Gragas,Miss Fortune,10,0
+Blitzcrank,Jhin,10,0
+Draven,Ezreal,10,0
+Draven,Lulu,10,0
+Draven,Viktor,10,0
+Camille,Gwen,10,0
+LeBlanc,Zeri,10,0
+Lee Sin,Zoe,10,0
+Anivia,Kha'Zix,10,0
+Annie,Kha'Zix,10,0
+Azir,Renata Glasc,10,0
+Blitzcrank,Braum,10,0
+Camille,Rek'Sai,10,0
+Jax,Rek'Sai,10,0
+Kalista,Miss Fortune,10,0
+Kalista,Tristana,10,0
+Kha'Zix,Renekton,10,0
+Poppy,Zeri,10,0
+Jarvan IV,Xerath,10,0
+Nautilus,Xerath,10,0
+Seraphine,Xerath,10,0
+Sion,Xerath,10,0
+Annie,Zoe,10,0
+Miss Fortune,Zoe,10,0
+Zaahen,Zoe,10,0
+Irelia,Sylas,10,0
+Dr. Mundo,Jinx,10,0
+Braum,Ziggs,10,0
+Gwen,Kennen,10,0
+Kennen,Naafiri,10,0
+Ezreal,Vladimir,10,0
+Ezreal,Xerath,10,0
+Nasus,Rell,10,0
+Nasus,Viktor,10,0
+Qiyana,Sivir,10,0
+Corki,Zoe,10,0
+Galio,Zoe,10,0
+Qiyana,Trundle,10,0
+Bard,Fiora,10,0
+Fiora,Viktor,10,0
+Draven,Seraphine,10,0
+Fiora,K'Sante,10,0
+Aphelios,Miss Fortune,10,0
+Ashe,Fiora,10,0
+Ashe,Draven,10,0
+Renata Glasc,Senna,9,6
+Nocturne,Tahm Kench,9,3
+Cho'Gath,Nocturne,9,3
+Nasus,Nocturne,9,3
+Nocturne,Volibear,9,2
+Elise,Nocturne,9,2
+Nocturne,Viego,9,1
+Nidalee,Nocturne,9,1
+Akali,Viego,9,0
+Ambessa,Viego,9,0
+Galio,Lissandra,9,0
+Gnar,Tahm Kench,9,0
+Jinx,Tristana,9,0
+Kai'Sa,Lissandra,9,0
+Lissandra,Zaahen,9,0
+Nautilus,Tahm Kench,9,0
+Ornn,Tahm Kench,9,0
+Sejuani,Syndra,9,0
+Sivir,Tahm Kench,9,0
+Viego,Yunara,9,0
+Cho'Gath,Smolder,9,0
+Cho'Gath,Syndra,9,0
+Aurora,Volibear,9,0
+K'Sante,Volibear,9,0
+Lucian,Volibear,9,0
+Nautilus,Volibear,9,0
+Orianna,Volibear,9,0
+Ryze,Volibear,9,0
+Syndra,Volibear,9,0
+Alistar,Shyvana,9,0
+Aurora,Cho'Gath,9,0
+Cassiopeia,Cho'Gath,9,0
+Cho'Gath,Lucian,9,0
+Cho'Gath,Milio,9,0
+Cho'Gath,Ryze,9,0
+Cho'Gath,Skarner,9,0
+Cho'Gath,Xayah,9,0
+Shyvana,Vayne,9,0
+Ashe,Soraka,9,0
+Bard,Soraka,9,0
+Nautilus,Soraka,9,0
+Ryze,Soraka,9,0
+Soraka,Sylas,9,0
+Soraka,Yunara,9,0
+Ahri,Darius,9,0
+Alistar,Thresh,9,0
+Ashe,Viego,9,0
+Braum,Kalista,9,0
+Braum,Thresh,9,0
+Cho'Gath,Kai'Sa,9,0
+Cho'Gath,Leona,9,0
+Corki,Thresh,9,0
+Darius,Ezreal,9,0
+Darius,Nautilus,9,0
+Darius,Seraphine,9,0
+Darius,Xin Zhao,9,0
+Gragas,Yone,9,0
+Jax,Kalista,9,0
+Jax,Thresh,9,0
+Kai'Sa,Renata Glasc,9,0
+Kalista,Pyke,9,0
+Kalista,Smolder,9,0
+Leona,Viego,9,0
+Lissandra,Mel,9,0
+Lissandra,Rakan,9,0
+Lissandra,Xayah,9,0
+Malphite,Thresh,9,0
+Mordekaiser,Seraphine,9,0
+Mordekaiser,Varus,9,0
+Mordekaiser,Viktor,9,0
+Akali,Brand,9,0
+Bard,Brand,9,0
+Brand,Wukong,9,0
+Galio,Shyvana,9,0
+Neeko,Zyra,9,0
+Rakan,Shyvana,9,0
+Rakan,Zyra,9,0
+Rek'Sai,Yone,9,0
+Rell,Shyvana,9,0
+Anivia,Nidalee,9,0
+Azir,Lux,9,0
+Cassiopeia,Nidalee,9,0
+K'Sante,Nidalee,9,0
+Milio,Nidalee,9,0
+Nidalee,Trundle,9,0
+Brand,Jayce,9,0
+Brand,Leona,9,0
+Brand,Orianna,9,0
+Brand,Skarner,9,0
+Brand,Smolder,9,0
+Gwen,Kog'Maw,9,0
+Kog'Maw,Syndra,9,0
+Ahri,Vladimir,9,0
+Fiora,Hwei,9,0
+Fiora,Jarvan IV,9,0
+Fiora,Nautilus,9,0
+Gnar,Kindred,9,0
+Gnar,Vladimir,9,0
+Jarvan IV,Vladimir,9,0
+Karma,Vladimir,9,0
+Kindred,Xin Zhao,9,0
+Lulu,Vladimir,9,0
+Nautilus,Vladimir,9,0
+Ornn,Yasuo,9,0
+Rakan,Vladimir,9,0
+Olaf,Renata Glasc,9,0
+Aatrox,Kennen,9,0
+Galio,Kog'Maw,9,0
+Irelia,Kog'Maw,9,0
+Kai'Sa,Kog'Maw,9,0
+Thresh,Twisted Fate,9,0
+Thresh,Yorick,9,0
+Gnar,Volibear,9,0
+Jarvan IV,Volibear,9,0
+Malzahar,Seraphine,9,0
+Pantheon,Volibear,9,0
+Qiyana,Sylas,9,0
+Qiyana,Twisted Fate,9,0
+Qiyana,Zaahen,9,0
+Alistar,Kog'Maw,9,0
+Ambessa,Elise,9,0
+Ambessa,Nidalee,9,0
+Annie,Elise,9,0
+Elise,Jayce,9,0
+Elise,K'Sante,9,0
+Elise,Lee Sin,9,0
+Elise,Lucian,9,0
+Elise,Miss Fortune,9,0
+Elise,Nami,9,0
+Elise,Neeko,9,0
+Elise,Twisted Fate,9,0
+Elise,Yunara,9,0
+Lux,Poppy,9,0
+Nidalee,Renekton,9,0
+Poppy,Sejuani,9,0
+Poppy,Yone,9,0
+Ezreal,Tahm Kench,9,0
+Lucian,Tahm Kench,9,0
+Lulu,Tahm Kench,9,0
+Milio,Tahm Kench,9,0
+Leona,Zoe,9,0
+Xayah,Zoe,9,0
+Braum,Irelia,9,0
+Braum,Zyra,9,0
+Kalista,Sejuani,9,0
+Sejuani,Yuumi,9,0
+Zaahen,Zyra,9,0
+Leona,Yasuo,9,0
+Rumble,Soraka,9,0
+Soraka,Wukong,9,0
+Soraka,Xin Zhao,9,0
+Taliyah,Yasuo,9,0
+Bard,Zed,9,0
+Ezreal,Zed,9,0
+Seraphine,Zed,9,0
+Wukong,Zed,9,0
+Gwen,Rek'Sai,9,0
+Lissandra,Rell,9,0
+Rek'Sai,Ziggs,9,0
+Tristana,Ziggs,9,0
+Jayce,Qiyana,9,0
+Kai'Sa,Qiyana,9,0
+Kennen,Shen,9,0
+Mel,Qiyana,9,0
+Annie,Shyvana,9,0
+Azir,Gragas,9,0
+Azir,Shyvana,9,0
+Corki,Shyvana,9,0
+Galio,Nasus,9,0
+K'Sante,Kindred,9,0
+Kindred,Naafiri,9,0
+Lee Sin,Shyvana,9,0
+Nasus,Varus,9,0
+Shyvana,Trundle,9,0
+Akali,Qiyana,9,0
+Alistar,Kha'Zix,9,0
+Camille,Zeri,9,0
+Irelia,Syndra,9,0
+Lulu,Zyra,9,0
+Orianna,Zyra,9,0
+Yorick,Zyra,9,0
+Amumu,Jarvan IV,9,0
+Amumu,Viktor,9,0
+Miss Fortune,Shyvana,9,0
+Mordekaiser,Renekton,9,0
+Maokai,Zeri,9,0
+Anivia,Zyra,9,0
+Karma,Zed,9,0
+Orianna,Zed,9,0
+Sivir,Zyra,9,0
+Darius,Rell,9,0
+Ambessa,Draven,9,0
+Blitzcrank,Rakan,9,0
+Blitzcrank,Skarner,9,0
+Blitzcrank,Yorick,9,0
+Corki,Draven,9,0
+Draven,Jarvan IV,9,0
+Draven,Milio,9,0
+Draven,Nami,9,0
+Draven,Sion,9,0
+Draven,Wukong,9,0
+Draven,Yunara,9,0
+Gragas,Olaf,9,0
+Kalista,Olaf,9,0
+Sylas,Zoe,9,0
+Blitzcrank,Kai'Sa,9,0
+Blitzcrank,Mel,9,0
+Blitzcrank,Miss Fortune,9,0
+Corki,Kha'Zix,9,0
+Jinx,Olaf,9,0
+Kha'Zix,Trundle,9,0
+Miss Fortune,Renata Glasc,9,0
+Ashe,Xerath,9,0
+Kai'Sa,Xerath,9,0
+Rell,Xerath,9,0
+Varus,Zoe,9,0
+Aphelios,Leona,9,0
+Gwen,Irelia,9,0
+Hwei,Poppy,9,0
+Aurora,Zyra,9,0
+Irelia,Shen,9,0
+Lux,Ornn,9,0
+Pyke,Tristana,9,0
+Renekton,Zyra,9,0
+Trundle,Zyra,9,0
+Ashe,Vladimir,9,0
+Bard,Vladimir,9,0
+Kai'Sa,Yasuo,9,0
+Yasuo,Yunara,9,0
+Ornn,Zed,9,0
+Akali,Kennen,9,0
+Dr. Mundo,Shen,9,0
+Hwei,LeBlanc,9,0
+Wukong,Xerath,9,0
+Ornn,Zoe,9,0
+Azir,Kog'Maw,9,0
+Lux,Malphite,9,0
+Fiora,Lucian,9,0
+Fiora,Varus,9,0
+Nasus,Renekton,9,0
+Draven,Varus,9,0
+Aphelios,Zeri,9,0
+Malphite,Poppy,9,0
+Jhin,Thresh,9,0
+LeBlanc,Zoe,9,0
+Annie,Fiora,9,0
+Fiora,Sion,9,0
+Fiora,Leona,9,0
+Fiora,Ryze,9,0
+Kennen,Xayah,9,0
+Shyvana,Zaahen,9,0
+Fiora,Seraphine,9,0
+Draven,Karma,9,0
+Nasus,Senna,8,6
+Aphelios,Senna,8,6
+Kennen,Senna,8,6
+Irelia,Senna,8,5
+Lissandra,Senna,8,5
+Nocturne,Soraka,8,3
+Fiora,Nocturne,8,3
+Kindred,Nocturne,8,1
+Draven,Nocturne,8,1
+Akali,Tahm Kench,8,0
+Aphelios,Smolder,8,0
+Braum,Rek'Sai,8,0
+Cassiopeia,Tahm Kench,8,0
+Lee Sin,Tahm Kench,8,0
+Malphite,Rek'Sai,8,0
+Neeko,Tahm Kench,8,0
+Rek'Sai,Smolder,8,0
+Sivir,Viego,8,0
+Tahm Kench,Wukong,8,0
+Viego,Zaahen,8,0
+Aatrox,Cho'Gath,8,0
+Aphelios,Camille,8,0
+Ahri,Gangplank,8,0
+Cho'Gath,Jhin,8,0
+Cho'Gath,K'Sante,8,0
+Cho'Gath,Neeko,8,0
+Shyvana,Xayah,8,0
+Shyvana,Yorick,8,0
+Aurora,Soraka,8,0
+Naafiri,Soraka,8,0
+Nami,Soraka,8,0
+Orianna,Soraka,8,0
+Ahri,Mordekaiser,8,0
+Alistar,Viego,8,0
+Anivia,Cho'Gath,8,0
+Aurora,Darius,8,0
+Cho'Gath,Lee Sin,8,0
+Cho'Gath,Naafiri,8,0
+Darius,Naafiri,8,0
+Darius,Orianna,8,0
+Darius,Sion,8,0
+Gragas,Jax,8,0
+Gragas,Pyke,8,0
+Jarvan IV,Veigar,8,0
+LeBlanc,Thresh,8,0
+Lissandra,Sylas,8,0
+Mordekaiser,Nami,8,0
+Mordekaiser,Sylas,8,0
+Orianna,Veigar,8,0
+Pyke,Renata Glasc,8,0
+Pyke,Smolder,8,0
+Rakan,Viego,8,0
+Sylas,Thresh,8,0
+Sylas,Viego,8,0
+Taliyah,Thresh,8,0
+Thresh,Vayne,8,0
+Akali,Zyra,8,0
+Brand,Galio,8,0
+Brand,Karma,8,0
+Yasuo,Yone,8,0
+Akali,Nidalee,8,0
+Galio,Nidalee,8,0
+Lissandra,Yorick,8,0
+Nidalee,Varus,8,0
+Nidalee,Viktor,8,0
+Irelia,Twisted Fate,8,0
+Ahri,Brand,8,0
+Ambessa,Brand,8,0
+Brand,Milio,8,0
+Brand,Miss Fortune,8,0
+Lissandra,Miss Fortune,8,0
+Lissandra,Zeri,8,0
+Lux,Zeri,8,0
+Olaf,Yuumi,8,0
+Jinx,Shen,8,0
+Kog'Maw,LeBlanc,8,0
+Vayne,Yuumi,8,0
+Ahri,Fiora,8,0
+Fiora,Jhin,8,0
+Hwei,Kalista,8,0
+Jhin,Kindred,8,0
+Jhin,Vladimir,8,0
+Karma,Kindred,8,0
+Kindred,Pantheon,8,0
+Orianna,Vladimir,8,0
+Aphelios,Thresh,8,0
+Kog'Maw,Yorick,8,0
+Thresh,Trundle,8,0
+Thresh,Zaahen,8,0
+Aatrox,Lissandra,8,0
+Hwei,Lux,8,0
+Leona,Lux,8,0
+Alistar,Volibear,8,0
+Bard,Malzahar,8,0
+Bard,Volibear,8,0
+Ezreal,Malzahar,8,0
+Lee Sin,Volibear,8,0
+Malzahar,Nami,8,0
+Malzahar,Sion,8,0
+Camille,Sejuani,8,0
+Corki,Elise,8,0
+Elise,Milio,8,0
+Elise,Skarner,8,0
+Nidalee,Orianna,8,0
+Orianna,Tahm Kench,8,0
+Rumble,Tahm Kench,8,0
+Ornn,Zyra,8,0
+Akali,Soraka,8,0
+Corki,Yasuo,8,0
+Tristana,Yuumi,8,0
+Ahri,Zed,8,0
+Naafiri,Zed,8,0
+Sion,Zed,8,0
+Vi,Zed,8,0
+Malzahar,Viktor,8,0
+Rell,Volibear,8,0
+Renekton,Volibear,8,0
+Sivir,Volibear,8,0
+Aatrox,Viego,8,0
+Annie,Viego,8,0
+Kennen,Miss Fortune,8,0
+Miss Fortune,Viego,8,0
+Pantheon,Viego,8,0
+Rumble,Viego,8,0
+Ambessa,Shyvana,8,0
+Annie,Nasus,8,0
+Ashe,Kindred,8,0
+Caitlyn,Kindred,8,0
+Jayce,Nasus,8,0
+Kai'Sa,Nasus,8,0
+Kindred,Lucian,8,0
+Kindred,Milio,8,0
+Kindred,Ryze,8,0
+Lee Sin,Nasus,8,0
+Lulu,Nasus,8,0
+Naafiri,Nasus,8,0
+Naafiri,Shyvana,8,0
+Nasus,Neeko,8,0
+Nasus,Ornn,8,0
+Rek'Sai,Zeri,8,0
+Ahri,Zyra,8,0
+Alistar,Zyra,8,0
+Irelia,Pyke,8,0
+Kha'Zix,Xayah,8,0
+Ahri,Amumu,8,0
+Amumu,Ornn,8,0
+Amumu,Sion,8,0
+Amumu,Sylas,8,0
+Amumu,Wukong,8,0
+Amumu,Xin Zhao,8,0
+Bard,Mordekaiser,8,0
+Cho'Gath,Rumble,8,0
+Cho'Gath,Yunara,8,0
+Mordekaiser,Rumble,8,0
+Mordekaiser,Syndra,8,0
+Ornn,Soraka,8,0
+Soraka,Viktor,8,0
+Soraka,Xayah,8,0
+Nami,Zyra,8,0
+Aurora,Nasus,8,0
+Nasus,Smolder,8,0
+Nasus,Vayne,8,0
+Blitzcrank,Neeko,8,0
+Blitzcrank,Twisted Fate,8,0
+Kog'Maw,Smolder,8,0
+Annie,Blitzcrank,8,0
+Aurora,Draven,8,0
+Blitzcrank,Taliyah,8,0
+Draven,Lucian,8,0
+Draven,Naafiri,8,0
+Draven,Rumble,8,0
+Draven,Ryze,8,0
+Dr. Mundo,Yasuo,8,0
+Sivir,Yasuo,8,0
+Trundle,Yasuo,8,0
+Dr. Mundo,Pyke,8,0
+Elise,Pyke,8,0
+Alistar,Blitzcrank,8,0
+Azir,Kha'Zix,8,0
+Blitzcrank,Sylas,8,0
+Kai'Sa,Kha'Zix,8,0
+Kalista,Poppy,8,0
+Kha'Zix,Mel,8,0
+Kha'Zix,Miss Fortune,8,0
+Kha'Zix,Olaf,8,0
+Kha'Zix,Rell,8,0
+Kha'Zix,Twisted Fate,8,0
+Renata Glasc,Zaahen,8,0
+K'Sante,Soraka,8,0
+Karma,Xerath,8,0
+Pantheon,Xerath,8,0
+Renekton,Xerath,8,0
+Varus,Xerath,8,0
+Vayne,Zoe,8,0
+Aphelios,Yone,8,0
+Jinx,Thresh,8,0
+Kindred,Viktor,8,0
+Syndra,Thresh,8,0
+Aphelios,Ziggs,8,0
+Viktor,Vladimir,8,0
+Nami,Vladimir,8,0
+Gwen,Viego,8,0
+K'Sante,Viego,8,0
+Gwen,Nasus,8,0
+Nasus,Sylas,8,0
+Nasus,Twisted Fate,8,0
+Nasus,Zaahen,8,0
+LeBlanc,Rek'Sai,8,0
+Qiyana,Skarner,8,0
+Cassiopeia,Fiora,8,0
+Fiora,Jayce,8,0
+Fiora,Milio,8,0
+Fiora,Nami,8,0
+Fiora,Rell,8,0
+Shen,Thresh,8,0
+Kha'Zix,Skarner,8,0
+Miss Fortune,Nasus,8,0
+Caitlyn,Draven,8,0
+Morgana,Wukong,8,0
+Aphelios,Olaf,8,0
+Dr. Mundo,Jax,8,0
+Tristana,Zoe,8,0
+Caitlyn,Fiora,8,0
+Ambessa,Fiora,8,0
+Anivia,Fiora,8,0
+Pyke,Sejuani,8,0
+Alistar,Kindred,8,0
+Blitzcrank,Ziggs,8,0
+Renata Glasc,Ziggs,8,0
+Bard,Draven,8,0
+Draven,Vi,8,0
+Ornn,Thresh,8,0
+Senna,Tahm Kench,7,5
+Cho'Gath,Senna,7,5
+Senna,Thresh,7,4
+Brand,Nocturne,7,3
+Gangplank,Nocturne,7,2
+Malzahar,Nocturne,7,1
+Nocturne,Vladimir,7,1
+Anivia,Tahm Kench,7,0
+Aphelios,Gragas,7,0
+Aurora,Tahm Kench,7,0
+Braum,Viego,7,0
+Caitlyn,Tahm Kench,7,0
+Galio,Viego,7,0
+Gragas,Hwei,7,0
+Gragas,Rek'Sai,7,0
+Hwei,Jinx,7,0
+Hwei,Viego,7,0
+Jinx,Rek'Sai,7,0
+Kai'Sa,Viego,7,0
+Lissandra,Smolder,7,0
+Skarner,Viego,7,0
+Smolder,Tahm Kench,7,0
+Tahm Kench,Yunara,7,0
+Tahm Kench,Zaahen,7,0
+Cho'Gath,Malphite,7,0
+Cho'Gath,Nami,7,0
+Seraphine,Zac,7,0
+Wukong,Zac,7,0
+Aphelios,Lux,7,0
+Camille,Lux,7,0
+Cassiopeia,Volibear,7,0
+Kai'Sa,Volibear,7,0
+Alistar,Cho'Gath,7,0
+Ashe,Gangplank,7,0
+Braum,Cho'Gath,7,0
+Cassiopeia,Gangplank,7,0
+Cho'Gath,Lulu,7,0
+Ezreal,Gangplank,7,0
+Gangplank,Karma,7,0
+Gangplank,Lulu,7,0
+Gangplank,Neeko,7,0
+Gangplank,Vi,7,0
+Gangplank,Wukong,7,0
+Hwei,Shyvana,7,0
+Rell,Soraka,7,0
+Soraka,Vi,7,0
+Ahri,Veigar,7,0
+Ambessa,Mordekaiser,7,0
+Cho'Gath,Mordekaiser,7,0
+Corki,Mordekaiser,7,0
+Darius,Varus,7,0
+Darius,Wukong,7,0
+Galio,Mordekaiser,7,0
+Gragas,Kalista,7,0
+Jax,Viego,7,0
+Kalista,Lissandra,7,0
+Leona,Veigar,7,0
+Lucian,Mordekaiser,7,0
+Milio,Mordekaiser,7,0
+Mordekaiser,Orianna,7,0
+Mordekaiser,Rakan,7,0
+Mordekaiser,Sion,7,0
+Mordekaiser,Vi,7,0
+Naafiri,Viego,7,0
+Renata Glasc,Smolder,7,0
+Seraphine,Veigar,7,0
+Smolder,Veigar,7,0
+Brand,Neeko,7,0
+Brand,Rumble,7,0
+Brand,Vi,7,0
+Shyvana,Yone,7,0
+Yone,Zyra,7,0
+Azir,Nidalee,7,0
+Nami,Nidalee,7,0
+Nidalee,Skarner,7,0
+Nidalee,Twisted Fate,7,0
+Nidalee,Yorick,7,0
+Caitlyn,Kled,7,0
+Kled,Orianna,7,0
+Alistar,Brand,7,0
+Brand,Sivir,7,0
+Gwen,Lissandra,7,0
+Shen,Yuumi,7,0
+Kog'Maw,Maokai,7,0
+LeBlanc,Yuumi,7,0
+Fiora,Gnar,7,0
+Fiora,Orianna,7,0
+Fiora,Syndra,7,0
+Kalista,Maokai,7,0
+Kalista,Syndra,7,0
+Kindred,Orianna,7,0
+Syndra,Vladimir,7,0
+Brand,Lucian,7,0
+Brand,Renekton,7,0
+Jhin,Volibear,7,0
+Malzahar,Milio,7,0
+Malzahar,Pantheon,7,0
+Malzahar,Zaahen,7,0
+Rakan,Volibear,7,0
+Sion,Volibear,7,0
+Volibear,Xayah,7,0
+Volibear,Yone,7,0
+Akali,Elise,7,0
+Alistar,Elise,7,0
+Elise,LeBlanc,7,0
+Elise,Rakan,7,0
+Elise,Vayne,7,0
+Kog'Maw,Lux,7,0
+Kog'Maw,Mel,7,0
+Kog'Maw,Yone,7,0
+LeBlanc,Lux,7,0
+Nidalee,Yunara,7,0
+Sejuani,Ziggs,7,0
+Jayce,Tahm Kench,7,0
+Irelia,Zyra,7,0
+Kalista,Zeri,7,0
+Ahri,Udyr,7,0
+Cassiopeia,Soraka,7,0
+Gnar,Soraka,7,0
+Jarvan IV,Udyr,7,0
+Jax,Yuumi,7,0
+Renekton,Soraka,7,0
+Tristana,Yasuo,7,0
+Twisted Fate,Yasuo,7,0
+Aurelion Sol,Bard,7,0
+Aurelion Sol,Jhin,7,0
+Aurelion Sol,Xin Zhao,7,0
+Caitlyn,Zed,7,0
+Jhin,Zed,7,0
+Kai'Sa,Zed,7,0
+Maokai,Zed,7,0
+Pantheon,Zed,7,0
+Yunara,Zed,7,0
+Galio,Malzahar,7,0
+Gwen,Malzahar,7,0
+Gwen,Volibear,7,0
+Malphite,Ziggs,7,0
+Malzahar,Mel,7,0
+Malzahar,Orianna,7,0
+Malzahar,Ornn,7,0
+Malzahar,Syndra,7,0
+Malzahar,Xin Zhao,7,0
+Neeko,Volibear,7,0
+Ornn,Volibear,7,0
+Syndra,Ziggs,7,0
+Varus,Volibear,7,0
+Vi,Volibear,7,0
+Jayce,Viego,7,0
+Kennen,Smolder,7,0
+Leona,Qiyana,7,0
+Lulu,Viego,7,0
+Miss Fortune,Qiyana,7,0
+Shen,Viego,7,0
+Ambessa,Kindred,7,0
+Annie,Kindred,7,0
+Azir,Nasus,7,0
+Cassiopeia,Kindred,7,0
+Gragas,Zeri,7,0
+Kai'Sa,Shyvana,7,0
+Kindred,Lee Sin,7,0
+Kindred,Leona,7,0
+Kindred,Trundle,7,0
+Kindred,Varus,7,0
+Kindred,Yorick,7,0
+Milio,Nasus,7,0
+Nasus,Xayah,7,0
+Nautilus,Swain,7,0
+Swain,Xin Zhao,7,0
+Yone,Zeri,7,0
+Ashe,Tahm Kench,7,0
+Camille,Yuumi,7,0
+Galio,Kha'Zix,7,0
+Leona,Zyra,7,0
+Malphite,Zyra,7,0
+Naafiri,Tahm Kench,7,0
+Pantheon,Tahm Kench,7,0
+Ryze,Tahm Kench,7,0
+Seraphine,Tahm Kench,7,0
+Syndra,Zyra,7,0
+Tahm Kench,Varus,7,0
+Amumu,Seraphine,7,0
+Amumu,Varus,7,0
+Cho'Gath,Gnar,7,0
+Cho'Gath,Miss Fortune,7,0
+Karma,Mordekaiser,7,0
+Lee Sin,Soraka,7,0
+Mordekaiser,Ornn,7,0
+Amumu,Galio,7,0
+Amumu,Orianna,7,0
+Samira,Sion,7,0
+Dr. Mundo,Maokai,7,0
+Aatrox,Zyra,7,0
+Cho'Gath,Maokai,7,0
+Corki,Zyra,7,0
+Skarner,Zyra,7,0
+Syndra,Zed,7,0
+Darius,Karma,7,0
+Darius,Yunara,7,0
+Dr. Mundo,Gragas,7,0
+Jarvan IV,Morgana,7,0
+K'Sante,Lillia,7,0
+Karma,Lillia,7,0
+Lillia,Orianna,7,0
+Morgana,Nautilus,7,0
+Morgana,Orianna,7,0
+Aatrox,Blitzcrank,7,0
+Aatrox,Elise,7,0
+Blitzcrank,Ornn,7,0
+Blitzcrank,Shen,7,0
+Cassiopeia,Draven,7,0
+Draven,Lee Sin,7,0
+Draven,Orianna,7,0
+Draven,Rell,7,0
+Draven,Sivir,7,0
+Draven,Skarner,7,0
+Zeri,Ziggs,7,0
+Smolder,Zoe,7,0
+Aphelios,Dr. Mundo,7,0
+Sylas,Zed,7,0
+Blitzcrank,Poppy,7,0
+Blitzcrank,Xayah,7,0
+Kalista,Shen,7,0
+Kha'Zix,Zaahen,7,0
+Renata Glasc,Sejuani,7,0
+Renata Glasc,Tristana,7,0
+Ambessa,Xerath,7,0
+Aurora,Xerath,7,0
+Cho'Gath,Trundle,7,0
+Lux,Pyke,7,0
+Rakan,Xerath,7,0
+Vi,Xerath,7,0
+Viktor,Xerath,7,0
+Xerath,Yunara,7,0
+Akali,Kindred,7,0
+Kindred,Vi,7,0
+Mel,Zyra,7,0
+Miss Fortune,Zyra,7,0
+Tristana,Zyra,7,0
+Twisted Fate,Zyra,7,0
+Vayne,Zyra,7,0
+Annie,Yasuo,7,0
+K'Sante,Vladimir,7,0
+Milio,Vladimir,7,0
+Vladimir,Yunara,7,0
+Azir,Kennen,7,0
+Kennen,LeBlanc,7,0
+Renekton,Tahm Kench,7,0
+Xerath,Xin Zhao,7,0
+Cho'Gath,Nasus,7,0
+Gangplank,Seraphine,7,0
+Gwen,Qiyana,7,0
+Nasus,Shen,7,0
+Nasus,Vi,7,0
+Dr. Mundo,Rek'Sai,7,0
+Gragas,Lux,7,0
+Leona,Malzahar,7,0
+Aatrox,Fiora,7,0
+Fiora,Rumble,7,0
+Olaf,Thresh,7,0
+Shyvana,Twisted Fate,7,0
+Kha'Zix,Sivir,7,0
+Maokai,Nasus,7,0
+Kha'Zix,Nami,7,0
+Morgana,Ornn,7,0
+Morgana,Seraphine,7,0
+Aphelios,Poppy,7,0
+Braum,Malzahar,7,0
+Dr. Mundo,Olaf,7,0
+Azir,Zoe,7,0
+Gwen,Zoe,7,0
+Lillia,Renekton,7,0
+Gragas,Poppy,7,0
+Poppy,Yuumi,7,0
+Miss Fortune,Yasuo,7,0
+Blitzcrank,Hwei,7,0
+Aurora,Kindred,7,0
+Kennen,Vayne,7,0
+Kai'Sa,Zoe,7,0
+Tahm Kench,Trundle,7,0
+Gwen,Renata Glasc,7,0
+Trundle,Zoe,7,0
+Qiyana,Taliyah,7,0
+Kennen,Tristana,7,0
+Blitzcrank,LeBlanc,7,0
+Elise,Rell,7,0
+Sejuani,Thresh,7,0
+Senna,Yasuo,6,6
+Fiora,Senna,6,6
+Blitzcrank,Senna,6,6
+Qiyana,Senna,6,5
+Senna,Zyra,6,5
+Rek'Sai,Senna,6,5
+Nidalee,Senna,6,4
+Kled,Nocturne,6,2
+Kha'Zix,Senna,6,2
+Nocturne,Xerath,6,2
+Anivia,Viego,6,0
+Aphelios,Hwei,6,0
+Aphelios,Rek'Sai,6,0
+Aphelios,Tristana,6,0
+Braum,Lissandra,6,0
+Cassiopeia,Viego,6,0
+Gragas,Lissandra,6,0
+Hwei,Lissandra,6,0
+Kassadin,Nautilus,6,0
+Kassadin,Ornn,6,0
+Lissandra,Sejuani,6,0
+Lissandra,Tristana,6,0
+Rek'Sai,Sejuani,6,0
+Rek'Sai,Syndra,6,0
+Smolder,Viego,6,0
+Syndra,Tahm Kench,6,0
+Tristana,Viego,6,0
+Akali,Cho'Gath,6,0
+Jarvan IV,Zac,6,0
+Karma,Zac,6,0
+Renekton,Zac,6,0
+Smolder,Zac,6,0
+Anivia,Volibear,6,0
+Annie,Volibear,6,0
+Camille,Volibear,6,0
+Skarner,Volibear,6,0
+Aatrox,Shyvana,6,0
+Bard,Gangplank,6,0
+Braum,Shyvana,6,0
+Caitlyn,Gangplank,6,0
+Cho'Gath,Vayne,6,0
+Gangplank,Ryze,6,0
+Aatrox,Soraka,6,0
+Ambessa,Soraka,6,0
+Lucian,Soraka,6,0
+Lulu,Soraka,6,0
+Skarner,Soraka,6,0
+Ambessa,Cho'Gath,6,0
+Ashe,Veigar,6,0
+Aurora,Mordekaiser,6,0
+Cho'Gath,Galio,6,0
+Cho'Gath,Taliyah,6,0
+Darius,Leona,6,0
+Darius,Nami,6,0
+Darius,Nocturne,6,0
+Darius,Ryze,6,0
+Darius,Vi,6,0
+Hecarim,Jarvan IV,6,0
+Ivern,Nautilus,6,0
+Ivern,Rakan,6,0
+Ivern,Wukong,6,0
+Kalista,Yone,6,0
+Leona,Lissandra,6,0
+Leona,Renata Glasc,6,0
+Leona,Thresh,6,0
+Lissandra,Pyke,6,0
+Mel,Mordekaiser,6,0
+Mel,Viego,6,0
+Mordekaiser,Ryze,6,0
+Pyke,Thresh,6,0
+Renata Glasc,Yone,6,0
+Smolder,Thresh,6,0
+Sylas,Veigar,6,0
+Thresh,Yone,6,0
+Vayne,Viego,6,0
+Veigar,Viktor,6,0
+Brand,Caitlyn,6,0
+Brand,Rakan,6,0
+Galio,Zyra,6,0
+Lissandra,Lux,6,0
+Bard,Kled,6,0
+Irelia,Olaf,6,0
+Jarvan IV,Kled,6,0
+K'Sante,Kled,6,0
+Karma,Kled,6,0
+Kled,Lucian,6,0
+Kled,Milio,6,0
+Kled,Pantheon,6,0
+Kled,Wukong,6,0
+Kled,Xin Zhao,6,0
+Brand,Jhin,6,0
+Brand,Kai'Sa,6,0
+Brand,Lee Sin,6,0
+Brand,Malphite,6,0
+Jinx,Maokai,6,0
+Azir,Fiora,6,0
+Azir,Kindred,6,0
+Fiora,Skarner,6,0
+Hwei,Kindred,6,0
+Kindred,Sylas,6,0
+Pantheon,Vladimir,6,0
+Poppy,Renata Glasc,6,0
+Galio,Kennen,6,0
+Irelia,Kennen,6,0
+Irelia,Yorick,6,0
+Brand,Vayne,6,0
+Garen,Ryze,6,0
+Garen,Sion,6,0
+Garen,Wukong,6,0
+Hwei,Zeri,6,0
+Alistar,Malzahar,6,0
+Ashe,Malzahar,6,0
+Caitlyn,Malzahar,6,0
+Corki,Malzahar,6,0
+Gnar,Malzahar,6,0
+Hwei,Volibear,6,0
+K'Sante,Malzahar,6,0
+Karma,Malzahar,6,0
+Lee Sin,Malzahar,6,0
+Malzahar,Ryze,6,0
+Malzahar,Yunara,6,0
+Qiyana,Yone,6,0
+Sylas,Volibear,6,0
+Twisted Fate,Volibear,6,0
+Alistar,Nidalee,6,0
+Elise,Lulu,6,0
+Elise,Mel,6,0
+Elise,Shen,6,0
+Elise,Yorick,6,0
+Elise,Zaahen,6,0
+Elise,Ziggs,6,0
+Jax,Kog'Maw,6,0
+Kog'Maw,Poppy,6,0
+Kog'Maw,Sejuani,6,0
+Kog'Maw,Ziggs,6,0
+Lux,Maokai,6,0
+Lux,Sejuani,6,0
+Lux,Yone,6,0
+Lux,Ziggs,6,0
+Miss Fortune,Nidalee,6,0
+Nidalee,Poppy,6,0
+Nidalee,Rakan,6,0
+Nidalee,Xayah,6,0
+Yorick,Zoe,6,0
+Azir,Zyra,6,0
+Irelia,Kalista,6,0
+Irelia,Sejuani,6,0
+Irelia,Yuumi,6,0
+Anivia,Brand,6,0
+Anivia,Soraka,6,0
+Aurora,Udyr,6,0
+Brand,Corki,6,0
+Caitlyn,Udyr,6,0
+LeBlanc,Soraka,6,0
+Lucian,Udyr,6,0
+Milio,Soraka,6,0
+Milio,Udyr,6,0
+Nautilus,Udyr,6,0
+Seraphine,Udyr,6,0
+Soraka,Taliyah,6,0
+Yone,Yuumi,6,0
+Aurelion Sol,Ezreal,6,0
+Aurelion Sol,Jarvan IV,6,0
+Aurelion Sol,Naafiri,6,0
+Aurelion Sol,Nautilus,6,0
+Aurelion Sol,Neeko,6,0
+Gnar,Zed,6,0
+Mel,Zed,6,0
+Anivia,Malzahar,6,0
+Gragas,Maokai,6,0
+Graves,Neeko,6,0
+Jayce,Malzahar,6,0
+Jayce,Volibear,6,0
+Lissandra,Maokai,6,0
+Malphite,Volibear,6,0
+Malzahar,Neeko,6,0
+Malzahar,Renekton,6,0
+Poppy,Viego,6,0
+Qiyana,Rell,6,0
+Qiyana,Syndra,6,0
+Anivia,Nasus,6,0
+Bard,Kindred,6,0
+Corki,Nasus,6,0
+Corki,Swain,6,0
+Ezreal,Swain,6,0
+Gragas,Shyvana,6,0
+Kindred,Neeko,6,0
+Kindred,Sivir,6,0
+Leona,Shyvana,6,0
+Naafiri,Swain,6,0
+Nasus,Taliyah,6,0
+Ahri,Tahm Kench,6,0
+Camille,Kha'Zix,6,0
+Irelia,Smolder,6,0
+Jinx,Pyke,6,0
+K'Sante,Tahm Kench,6,0
+Kha'Zix,Leona,6,0
+Kha'Zix,Ornn,6,0
+Kha'Zix,Yone,6,0
+Kha'Zix,Yorick,6,0
+Pyke,Zyra,6,0
+Renata Glasc,Syndra,6,0
+Renata Glasc,Zeri,6,0
+Tahm Kench,Vi,6,0
+Tahm Kench,Xayah,6,0
+Yunara,Zyra,6,0
+Aatrox,Mordekaiser,6,0
+Akali,Amumu,6,0
+Alistar,Soraka,6,0
+Amumu,Bard,6,0
+Amumu,Caitlyn,6,0
+Amumu,Cho'Gath,6,0
+Amumu,Ezreal,6,0
+Amumu,Milio,6,0
+Amumu,Pantheon,6,0
+Amumu,Ryze,6,0
+Gnar,Mordekaiser,6,0
+Jhin,Soraka,6,0
+Miss Fortune,Mordekaiser,6,0
+Mordekaiser,Pantheon,6,0
+Mordekaiser,Yunara,6,0
+Rakan,Soraka,6,0
+Sivir,Soraka,6,0
+Amumu,Ashe,6,0
+Amumu,Leona,6,0
+Amumu,Rell,6,0
+Amumu,Trundle,6,0
+Aurora,Samira,6,0
+Ezreal,Samira,6,0
+Jarvan IV,Samira,6,0
+Kai'Sa,Yuumi,6,0
+Karma,Samira,6,0
+Samira,Xin Zhao,6,0
+Dr. Mundo,Sejuani,6,0
+Kai'Sa,Zyra,6,0
+Maokai,Zyra,6,0
+Rell,Zed,6,0
+Ryze,Zed,6,0
+Taliyah,Zyra,6,0
+Ahri,Morgana,6,0
+Brand,Lulu,6,0
+Brand,Yunara,6,0
+Brand,Zaahen,6,0
+Darius,Dr. Mundo,6,0
+Darius,Gnar,6,0
+Darius,Lulu,6,0
+Kai'Sa,Lillia,6,0
+Morgana,Naafiri,6,0
+Morgana,Varus,6,0
+Morgana,Viktor,6,0
+Rell,Veigar,6,0
+Aatrox,Nidalee,6,0
+Blitzcrank,Olaf,6,0
+Blitzcrank,Sejuani,6,0
+Elise,Olaf,6,0
+Annie,Draven,6,0
+Draven,Taliyah,6,0
+Viego,Yorick,6,0
+Malphite,Yasuo,6,0
+Camille,Gragas,6,0
+Ahri,Kled,6,0
+Kha'Zix,Sylas,6,0
+Aphelios,Pyke,6,0
+Azir,Blitzcrank,6,0
+Blitzcrank,Jinx,6,0
+Jax,Kha'Zix,6,0
+Kalista,Rek'Sai,6,0
+Kha'Zix,Taliyah,6,0
+Miss Fortune,Rek'Sai,6,0
+Renata Glasc,Shen,6,0
+K'Sante,Xerath,6,0
+Lee Sin,Xerath,6,0
+Lucian,Xerath,6,0
+Milio,Xerath,6,0
+Naafiri,Xerath,6,0
+Rumble,Xerath,6,0
+Skarner,Xerath,6,0
+Trundle,Xerath,6,0
+Hwei,Irelia,6,0
+Bard,Darius,6,0
+Darius,Renekton,6,0
+Kindred,Renekton,6,0
+Annie,Zyra,6,0
+Braum,Kog'Maw,6,0
+Braum,Lux,6,0
+Irelia,Jax,6,0
+Irelia,Miss Fortune,6,0
+Irelia,Poppy,6,0
+Irelia,Ziggs,6,0
+Kog'Maw,Pyke,6,0
+Kog'Maw,Sylas,6,0
+Kog'Maw,Tristana,6,0
+Sylas,Zyra,6,0
+Ambessa,Vladimir,6,0
+Annie,Vladimir,6,0
+Aurora,Vladimir,6,0
+Lee Sin,Vladimir,6,0
+Rell,Vladimir,6,0
+Seraphine,Vladimir,6,0
+Sion,Vladimir,6,0
+Twisted Fate,Vladimir,6,0
+Vladimir,Zaahen,6,0
+Dr. Mundo,Kog'Maw,6,0
+Amumu,Maokai,6,0
+Jax,Kennen,6,0
+Ahri,Xerath,6,0
+Bard,Xerath,6,0
+Lucian,Vladimir,6,0
+Orianna,Xerath,6,0
+Rumble,Vladimir,6,0
+Braum,Qiyana,6,0
+Braum,Xerath,6,0
+Caitlyn,Xerath,6,0
+Dr. Mundo,Irelia,6,0
+Gangplank,Lee Sin,6,0
+Gangplank,Nautilus,6,0
+Gangplank,Rumble,6,0
+Gangplank,Xin Zhao,6,0
+Gangplank,Zaahen,6,0
+Malphite,Nasus,6,0
+Naafiri,Volibear,6,0
+Nami,Xerath,6,0
+Ornn,Xerath,6,0
+Varus,Vladimir,6,0
+Gragas,Qiyana,6,0
+Kog'Maw,Leona,6,0
+Malzahar,Skarner,6,0
+Malzahar,Vayne,6,0
+Azir,Thresh,6,0
+Corki,Fiora,6,0
+Fiora,Galio,6,0
+Thresh,Tristana,6,0
+Jhin,Nasus,6,0
+Aatrox,Nasus,6,0
+Draven,Maokai,6,0
+Draven,Miss Fortune,6,0
+Draven,Sylas,6,0
+Draven,Trundle,6,0
+Morgana,Trundle,6,0
+Braum,Kennen,6,0
+Jinx,Zoe,6,0
+Maokai,Thresh,6,0
+Kog'Maw,Shyvana,6,0
+Akali,Volibear,6,0
+Fiora,Lee Sin,6,0
+Fiora,Naafiri,6,0
+Fiora,Trundle,6,0
+Kennen,Yone,6,0
+Ezreal,Lillia,6,0
+Leona,Xerath,6,0
+Lillia,Sion,6,0
+Lillia,Wukong,6,0
+Annie,Soraka,6,0
+Gwen,Shyvana,6,0
+Kayle,Nautilus,6,0
+Kayle,Vayne,6,0
+Kayle,Viktor,6,0
+Kayle,Wukong,6,0
+Kalista,Kennen,6,0
+Blitzcrank,Pyke,6,0
+Lissandra,Poppy,6,0
+Kennen,Olaf,6,0
+Elise,Gwen,6,0
+Elise,Taliyah,6,0
+Akali,Draven,6,0
+Draven,K'Sante,6,0
+Pyke,Rek'Sai,6,0
+Alistar,Fiora,6,0
+Fiora,Sivir,6,0
+Elise,Leona,6,0
+Morgana,Rumble,6,0
+Morgana,Sion,6,0
+Lillia,Ryze,6,0
+Camille,Hwei,6,0
+Kalista,Zoe,6,0
+Sejuani,Zoe,6,0
+Jinx,Ziggs,6,0
+Fiora,Vi,6,0
+Sejuani,Volibear,6,0
+K'Sante,Udyr,6,0
+Brand,Senna,5,4
+Aurelion Sol,Senna,5,3
+Senna,Zoe,5,2
+Lillia,Nocturne,5,1
+Aphelios,Malphite,5,0
+Aphelios,Tahm Kench,5,0
+Galio,Tahm Kench,5,0
+Gragas,Jinx,5,0
+Jinx,Tahm Kench,5,0
+Kassadin,Syndra,5,0
+Kassadin,Xin Zhao,5,0
+Lissandra,Malphite,5,0
+Lissandra,Syndra,5,0
+Malphite,Viego,5,0
+Skarner,Tahm Kench,5,0
+Aatrox,Zac,5,0
+Ashe,Zac,5,0
+Nami,Zac,5,0
+Orianna,Zac,5,0
+Rakan,Zac,5,0
+Xin Zhao,Zac,5,0
+Ambessa,Volibear,5,0
+Galio,Volibear,5,0
+Jax,Volibear,5,0
+Lux,Syndra,5,0
+Trundle,Volibear,5,0
+Volibear,Yorick,5,0
+Volibear,Zaahen,5,0
+Cho'Gath,Hwei,5,0
+Cho'Gath,Pantheon,5,0
+Cho'Gath,Yorick,5,0
+Gangplank,Jarvan IV,5,0
+Gangplank,Jhin,5,0
+Gangplank,K'Sante,5,0
+Gangplank,Lucian,5,0
+Gangplank,Milio,5,0
+Gangplank,Pantheon,5,0
+Gangplank,Sion,5,0
+Gangplank,Skarner,5,0
+Gangplank,Vayne,5,0
+Gangplank,Viktor,5,0
+Caitlyn,Soraka,5,0
+Corki,Soraka,5,0
+Kai'Sa,Soraka,5,0
+Ambessa,Hecarim,5,0
+Anivia,Darius,5,0
+Anivia,Hecarim,5,0
+Ashe,Hecarim,5,0
+Braum,Darius,5,0
+Braum,Ivern,5,0
+Braum,Mordekaiser,5,0
+Braum,Renata Glasc,5,0
+Braum,Veigar,5,0
+Cho'Gath,Corki,5,0
+Cho'Gath,Jax,5,0
+Cho'Gath,Mel,5,0
+Cho'Gath,Yone,5,0
+Darius,Kai'Sa,5,0
+Darius,Milio,5,0
+Darius,Sylas,5,0
+Darius,Taliyah,5,0
+Ezreal,Ivern,5,0
+Galio,Veigar,5,0
+Gragas,Thresh,5,0
+Hecarim,Nautilus,5,0
+Hecarim,Seraphine,5,0
+Hecarim,Viktor,5,0
+Hecarim,Xin Zhao,5,0
+Ivern,Jarvan IV,5,0
+Ivern,Lee Sin,5,0
+Ivern,Milio,5,0
+Ivern,Ryze,5,0
+Ivern,Seraphine,5,0
+Ivern,Sion,5,0
+Ivern,Varus,5,0
+Ivern,Xin Zhao,5,0
+Kai'Sa,Mordekaiser,5,0
+Kalista,Malphite,5,0
+LeBlanc,Lissandra,5,0
+LeBlanc,Viego,5,0
+Leona,Mordekaiser,5,0
+Malphite,Veigar,5,0
+Mordekaiser,Naafiri,5,0
+Naafiri,Veigar,5,0
+Nami,Veigar,5,0
+Pyke,Viego,5,0
+Varus,Veigar,5,0
+Veigar,Xin Zhao,5,0
+Viego,Xayah,5,0
+Brand,Shyvana,5,0
+Brand,Yone,5,0
+Lux,Nidalee,5,0
+Nidalee,Rek'Sai,5,0
+Nidalee,Shen,5,0
+Nidalee,Vayne,5,0
+Ashe,Kled,5,0
+Aurora,Kled,5,0
+Ezreal,Kled,5,0
+Kled,Lee Sin,5,0
+Kled,Lulu,5,0
+Kled,Nautilus,5,0
+Kled,Rumble,5,0
+Kled,Ryze,5,0
+Kled,Seraphine,5,0
+Kled,Sion,5,0
+Annie,Brand,5,0
+Brand,Braum,5,0
+Brand,Mel,5,0
+Brand,Taliyah,5,0
+Lissandra,Yuumi,5,0
+Lux,Yuumi,5,0
+Ahri,Kindred,5,0
+Bel'Veth,Ornn,5,0
+Fiora,Lulu,5,0
+Fiora,Ornn,5,0
+Fiora,Pyke,5,0
+Fiora,Sylas,5,0
+Kalista,Yasuo,5,0
+Kindred,Lulu,5,0
+Kindred,Maokai,5,0
+Kindred,Pyke,5,0
+Kindred,Skarner,5,0
+Skarner,Vladimir,5,0
+Smolder,Vladimir,5,0
+Vladimir,Xayah,5,0
+Aphelios,Irelia,5,0
+Kennen,Twisted Fate,5,0
+Kog'Maw,Thresh,5,0
+Ashe,Garen,5,0
+Brand,Jax,5,0
+Brand,Olaf,5,0
+Ezreal,Garen,5,0
+Garen,Karma,5,0
+Garen,Nautilus,5,0
+Garen,Varus,5,0
+Aatrox,Volibear,5,0
+Aurora,Malzahar,5,0
+Azir,Qiyana,5,0
+Cassiopeia,Malzahar,5,0
+Corki,Volibear,5,0
+Hwei,Qiyana,5,0
+Jhin,Malzahar,5,0
+Lucian,Malzahar,5,0
+Malzahar,Olaf,5,0
+Olaf,Volibear,5,0
+Camille,Kog'Maw,5,0
+Elise,Jax,5,0
+Elise,Lux,5,0
+Elise,Maokai,5,0
+Elise,Sejuani,5,0
+Elise,Xayah,5,0
+Jax,Nidalee,5,0
+Maokai,Nidalee,5,0
+Nidalee,Ziggs,5,0
+Irelia,Jinx,5,0
+Irelia,Zeri,5,0
+Zeri,Zyra,5,0
+Akali,Udyr,5,0
+Ashe,Udyr,5,0
+Bard,Udyr,5,0
+Brand,Twisted Fate,5,0
+Ezreal,Udyr,5,0
+Galio,Soraka,5,0
+Karma,Udyr,5,0
+Leona,Soraka,5,0
+Naafiri,Udyr,5,0
+Neeko,Soraka,5,0
+Pantheon,Udyr,5,0
+Ryze,Udyr,5,0
+Sion,Udyr,5,0
+Smolder,Soraka,5,0
+Soraka,Syndra,5,0
+Udyr,Wukong,5,0
+Udyr,Xin Zhao,5,0
+Aatrox,Zed,5,0
+Ashe,Zed,5,0
+Aurelion Sol,Aurora,5,0
+Aurelion Sol,Lucian,5,0
+Aurelion Sol,Lulu,5,0
+Aurelion Sol,Milio,5,0
+Aurelion Sol,Pantheon,5,0
+Aurelion Sol,Sion,5,0
+Aurelion Sol,Varus,5,0
+Aurelion Sol,Viktor,5,0
+Aurelion Sol,Wukong,5,0
+Gwen,Zed,5,0
+Lulu,Zed,5,0
+Neeko,Zed,5,0
+Skarner,Zed,5,0
+Varus,Zed,5,0
+Ahri,Malzahar,5,0
+Graves,Jayce,5,0
+Graves,Karma,5,0
+Graves,Seraphine,5,0
+Graves,Sivir,5,0
+Graves,Smolder,5,0
+Graves,Viktor,5,0
+Graves,Wukong,5,0
+Lulu,Malzahar,5,0
+Malzahar,Rell,5,0
+Malzahar,Sivir,5,0
+Malzahar,Smolder,5,0
+Malzahar,Trundle,5,0
+Malzahar,Varus,5,0
+Malzahar,Vi,5,0
+Maokai,Rek'Sai,5,0
+Smolder,Volibear,5,0
+Taliyah,Volibear,5,0
+Corki,Kindred,5,0
+Galio,Kindred,5,0
+Galio,Swain,5,0
+Hwei,Swain,5,0
+Jayce,Kindred,5,0
+K'Sante,Swain,5,0
+Kai'Sa,Kindred,5,0
+Karma,Swain,5,0
+Kindred,Nami,5,0
+Kindred,Taliyah,5,0
+Kindred,Yunara,5,0
+Lucian,Nasus,5,0
+Nami,Swain,5,0
+Nidalee,Taliyah,5,0
+Ornn,Swain,5,0
+Sejuani,Shyvana,5,0
+Sion,Swain,5,0
+Skarner,Swain,5,0
+Alistar,Tahm Kench,5,0
+Aurelion Sol,Lee Sin,5,0
+Aurelion Sol,Leona,5,0
+Camille,Jinx,5,0
+Camille,Renata Glasc,5,0
+Galio,Qiyana,5,0
+Irelia,Malphite,5,0
+Jarvan IV,Karthus,5,0
+Jinx,Qiyana,5,0
+Karthus,Ornn,5,0
+Karthus,Xin Zhao,5,0
+Kha'Zix,Pyke,5,0
+Kha'Zix,Zeri,5,0
+Malphite,Qiyana,5,0
+Pyke,Zeri,5,0
+Qiyana,Zeri,5,0
+Tahm Kench,Yorick,5,0
+Xayah,Zyra,5,0
+Amumu,Aurora,5,0
+Amumu,Cassiopeia,5,0
+Amumu,Karma,5,0
+Amumu,Miss Fortune,5,0
+Amumu,Mordekaiser,5,0
+Amumu,Renekton,5,0
+Amumu,Rumble,5,0
+Amumu,Syndra,5,0
+Amumu,Yuumi,5,0
+Azir,Mordekaiser,5,0
+Caitlyn,Mordekaiser,5,0
+Jhin,Mordekaiser,5,0
+Jhin,Zac,5,0
+Lulu,Mordekaiser,5,0
+Miss Fortune,Soraka,5,0
+Shyvana,Syndra,5,0
+Varus,Zac,5,0
+Ambessa,Samira,5,0
+Amumu,Neeko,5,0
+Bard,Samira,5,0
+Kai'Sa,Samira,5,0
+Nautilus,Samira,5,0
+Neeko,Samira,5,0
+Pantheon,Samira,5,0
+Rell,Samira,5,0
+Renekton,Samira,5,0
+Samira,Wukong,5,0
+Cho'Gath,Zyra,5,0
+Corki,Zed,5,0
+K'Sante,Zed,5,0
+Sivir,Zed,5,0
+Brand,Dr. Mundo,5,0
+Corki,Lillia,5,0
+Gnar,Morgana,5,0
+Jarvan IV,Lillia,5,0
+Kayn,Nautilus,5,0
+Kayn,Viktor,5,0
+Lillia,Nami,5,0
+Lillia,Nautilus,5,0
+Lillia,Smolder,5,0
+Lillia,Viktor,5,0
+Lillia,Yunara,5,0
+Miss Fortune,Morgana,5,0
+Miss Fortune,Veigar,5,0
+Veigar,Zaahen,5,0
+Blitzcrank,Smolder,5,0
+Blitzcrank,Syndra,5,0
+Draven,Rakan,5,0
+Draven,Vayne,5,0
+Draven,Yorick,5,0
+Yuumi,Ziggs,5,0
+Kled,Neeko,5,0
+Kled,Sylas,5,0
+Ahri,Garen,5,0
+Aphelios,Yasuo,5,0
+Azir,Elise,5,0
+Dr. Mundo,Elise,5,0
+Dr. Mundo,Zed,5,0
+Elise,Sylas,5,0
+Blitzcrank,Camille,5,0
+Blitzcrank,Jax,5,0
+Blitzcrank,Tristana,5,0
+Braum,Kha'Zix,5,0
+Poppy,Rek'Sai,5,0
+Rek'Sai,Renata Glasc,5,0
+Anivia,Xerath,5,0
+Cho'Gath,Zaahen,5,0
+Galio,Xerath,5,0
+Lulu,Xerath,5,0
+Soraka,Trundle,5,0
+Syndra,Xerath,5,0
+Xerath,Zaahen,5,0
+Dr. Mundo,Viego,5,0
+Shen,Shyvana,5,0
+Illaoi,Jarvan IV,5,0
+Illaoi,Nautilus,5,0
+Illaoi,Ornn,5,0
+Illaoi,Sylas,5,0
+Irelia,Maokai,5,0
+Irelia,Tristana,5,0
+LeBlanc,Zyra,5,0
+Ziggs,Zyra,5,0
+Caitlyn,Vladimir,5,0
+Gragas,Yasuo,5,0
+Jayce,Vladimir,5,0
+Naafiri,Vladimir,5,0
+Neeko,Vladimir,5,0
+Vladimir,Yone,5,0
+Yasuo,Ziggs,5,0
+Dr. Mundo,Vladimir,5,0
+Maokai,Renata Glasc,5,0
+Amumu,Shen,5,0
+Caitlyn,Darius,5,0
+Darius,Gwen,5,0
+Dr. Mundo,Ziggs,5,0
+Kennen,Pyke,5,0
+Kennen,Ziggs,5,0
+Maokai,Viego,5,0
+Bard,Fizz,5,0
+Fizz,K'Sante,5,0
+Fizz,Nautilus,5,0
+Fizz,Pantheon,5,0
+Mel,Tahm Kench,5,0
+Poppy,Tahm Kench,5,0
+Anivia,Vladimir,5,0
+Blitzcrank,Gwen,5,0
+Blitzcrank,Yone,5,0
+Braum,Nasus,5,0
+Braum,Zed,5,0
+Camille,Dr. Mundo,5,0
+Cassiopeia,Vladimir,5,0
+Cho'Gath,Gwen,5,0
+Dr. Mundo,Volibear,5,0
+Gangplank,Gnar,5,0
+Gangplank,Naafiri,5,0
+Gangplank,Varus,5,0
+Gangplank,Yunara,5,0
+Gnar,Xerath,5,0
+Jinx,Nasus,5,0
+Mel,Nasus,5,0
+Naafiri,Sett,5,0
+Nasus,Syndra,5,0
+Sett,Xin Zhao,5,0
+Shen,Vladimir,5,0
+Zaahen,Zed,5,0
+Dr. Mundo,Lux,5,0
+Gangplank,Jayce,5,0
+Qiyana,Rek'Sai,5,0
+Kalista,Shyvana,5,0
+Leona,Vladimir,5,0
+Ryze,Vladimir,5,0
+Syndra,Veigar,5,0
+Nasus,Olaf,5,0
+Hwei,Kog'Maw,5,0
+Hwei,Zyra,5,0
+Amumu,Nasus,5,0
+Caitlyn,Morgana,5,0
+Galio,Morgana,5,0
+Maokai,Morgana,5,0
+Morgana,Sivir,5,0
+Morgana,Tristana,5,0
+Nasus,Yuumi,5,0
+Ambessa,Malzahar,5,0
+Gnar,Graves,5,0
+Jhin,Viego,5,0
+Kai'Sa,Malzahar,5,0
+Malzahar,Poppy,5,0
+Gwen,Thresh,5,0
+Miss Fortune,Thresh,5,0
+Pyke,Zoe,5,0
+Aphelios,Kalista,5,0
+Aphelios,Shyvana,5,0
+Hwei,Renata Glasc,5,0
+Aatrox,Kha'Zix,5,0
+Fiora,Yunara,5,0
+Akali,Fiora,5,0
+Fiora,Jax,5,0
+Jax,Vladimir,5,0
+Annie,Xerath,5,0
+Braum,Lillia,5,0
+Leona,Lillia,5,0
+Kled,Viktor,5,0
+Mel,Shyvana,5,0
+Malzahar,Miss Fortune,5,0
+Gwen,Mordekaiser,5,0
+Mordekaiser,Zaahen,5,0
+Camille,Lissandra,5,0
+Aphelios,Maokai,5,0
+Braum,Zoe,5,0
+Hwei,Zoe,5,0
+K'Sante,Mordekaiser,5,0
+Tahm Kench,Taliyah,5,0
+Thresh,Yuumi,5,0
+Lillia,Ornn,5,0
+Lillia,Seraphine,5,0
+Morgana,Renekton,5,0
+Draven,Jax,5,0
+Draven,Jhin,5,0
+Draven,Pantheon,5,0
+Draven,Pyke,5,0
+Elise,Hwei,5,0
+Elise,Rek'Sai,5,0
+Elise,Kai'Sa,5,0
+Lillia,Xin Zhao,5,0
+Poppy,Zoe,5,0
+Anivia,Draven,5,0
+Draven,LeBlanc,5,0
+Kennen,Sejuani,5,0
+Draven,Zaahen,5,0
+Thresh,Ziggs,5,0
+Kalista,Ziggs,5,0
+Fiora,Gwen,5,0
+Lux,Thresh,5,0
+Jinx,Kennen,5,0
+Fiora,Taliyah,5,0
+Senna,Soraka,4,4
+Malzahar,Senna,4,4
+Nocturne,Udyr,4,3
+Amumu,Senna,4,3
+Senna,Xerath,4,3
+Fizz,Senna,4,2
+Mordekaiser,Nocturne,4,1
+Graves,Nocturne,4,1
+Aphelios,Viego,4,0
+Bard,Kassadin,4,0
+Braum,Kassadin,4,0
+Braum,Tahm Kench,4,0
+Gnar,Kassadin,4,0
+Gragas,Tahm Kench,4,0
+Gragas,Viego,4,0
+Jarvan IV,Kassadin,4,0
+Jinx,Viego,4,0
+Kai'Sa,Tahm Kench,4,0
+Karma,Kassadin,4,0
+Kassadin,Wukong,4,0
+Kassadin,Zaahen,4,0
+Lissandra,Rek'Sai,4,0
+Malphite,Tahm Kench,4,0
+Nami,Tahm Kench,4,0
+Akali,Zac,4,0
+Caitlyn,Zac,4,0
+Camille,Cho'Gath,4,0
+Malphite,Zac,4,0
+Lux,Volibear,4,0
+Aurora,Gangplank,4,0
+Braum,Gangplank,4,0
+Cho'Gath,Shyvana,4,0
+Gangplank,Orianna,4,0
+Gangplank,Ornn,4,0
+Gangplank,Sivir,4,0
+Gangplank,Xayah,4,0
+Gangplank,Yorick,4,0
+Ahri,Urgot,4,0
+Gwen,Soraka,4,0
+Lulu,Urgot,4,0
+Nautilus,Urgot,4,0
+Urgot,Yunara,4,0
+Ahri,Hecarim,4,0
+Ahri,Ivern,4,0
+Alistar,Ivern,4,0
+Alistar,Mordekaiser,4,0
+Alistar,Veigar,4,0
+Ambessa,Darius,4,0
+Ambessa,Ivern,4,0
+Anivia,Ivern,4,0
+Ashe,Ivern,4,0
+Ashe,Mordekaiser,4,0
+Aurora,Ivern,4,0
+Aurora,Veigar,4,0
+Cho'Gath,Darius,4,0
+Cho'Gath,Gragas,4,0
+Cho'Gath,Veigar,4,0
+Cho'Gath,Viego,4,0
+Corki,Darius,4,0
+Corki,Ivern,4,0
+Darius,Galio,4,0
+Darius,LeBlanc,4,0
+Darius,Lee Sin,4,0
+Darius,Lucian,4,0
+Darius,Mel,4,0
+Darius,Smolder,4,0
+Darius,Vayne,4,0
+Ezreal,Hecarim,4,0
+Ezreal,Veigar,4,0
+Gragas,Renata Glasc,4,0
+Hecarim,Kai'Sa,4,0
+Hecarim,Nami,4,0
+Hecarim,Rakan,4,0
+Hecarim,Ryze,4,0
+Hecarim,Varus,4,0
+Hecarim,Vayne,4,0
+Hecarim,Vi,4,0
+Hecarim,Wukong,4,0
+Ivern,Kai'Sa,4,0
+Ivern,Lucian,4,0
+Ivern,Naafiri,4,0
+Ivern,Nami,4,0
+Ivern,Orianna,4,0
+Ivern,Taliyah,4,0
+Kai'Sa,Veigar,4,0
+LeBlanc,Mordekaiser,4,0
+Lissandra,Renata Glasc,4,0
+Malphite,Mordekaiser,4,0
+Malphite,Renata Glasc,4,0
+Milio,Veigar,4,0
+Mordekaiser,Veigar,4,0
+Mordekaiser,Viego,4,0
+Mordekaiser,Xayah,4,0
+Nocturne,Veigar,4,0
+Rakan,Veigar,4,0
+Sion,Veigar,4,0
+Taliyah,Viego,4,0
+Vayne,Veigar,4,0
+Veigar,Viego,4,0
+Brand,Rek'Sai,4,0
+Rek'Sai,Shyvana,4,0
+Rek'Sai,Yasuo,4,0
+Shyvana,Yasuo,4,0
+Yasuo,Zyra,4,0
+Lux,Rek'Sai,4,0
+Mel,Nidalee,4,0
+Nidalee,Olaf,4,0
+Cassiopeia,Kled,4,0
+Gnar,Kled,4,0
+Kled,LeBlanc,4,0
+Kled,Nami,4,0
+Kled,Vi,4,0
+Kled,Yone,4,0
+Brand,Ornn,4,0
+Ahri,Bel'Veth,4,0
+Ahri,Kassadin,4,0
+Azir,Vladimir,4,0
+Bel'Veth,Nautilus,4,0
+Fiora,Smolder,4,0
+Fiora,Vayne,4,0
+Fiora,Xayah,4,0
+Hwei,Vladimir,4,0
+Kassadin,Orianna,4,0
+Kindred,Ornn,4,0
+Kindred,Rakan,4,0
+Kindred,Smolder,4,0
+Sylas,Vladimir,4,0
+Aphelios,Kennen,4,0
+Aphelios,Kog'Maw,4,0
+Irelia,Thresh,4,0
+Kennen,Kog'Maw,4,0
+Kennen,Yorick,4,0
+Annie,Garen,4,0
+Azir,Brand,4,0
+Bard,Garen,4,0
+Brand,Trundle,4,0
+Garen,Jhin,4,0
+Garen,Lucian,4,0
+Garen,Orianna,4,0
+Garen,Rakan,4,0
+Garen,Renekton,4,0
+Garen,Seraphine,4,0
+Garen,Xin Zhao,4,0
+Azir,Malzahar,4,0
+Malzahar,Rakan,4,0
+Malzahar,Rumble,4,0
+Malzahar,Sylas,4,0
+Malzahar,Twisted Fate,4,0
+Malzahar,Xayah,4,0
+Elise,Kog'Maw,4,0
+Elise,Nidalee,4,0
+Elise,Poppy,4,0
+Elise,Yone,4,0
+Nidalee,Yone,4,0
+Nidalee,Zaahen,4,0
+Sylas,Tahm Kench,4,0
+Braum,Yuumi,4,0
+Jinx,Zyra,4,0
+Kalista,Yuumi,4,0
+Kalista,Zyra,4,0
+Aatrox,Brand,4,0
+Brand,Sylas,4,0
+Brand,Syndra,4,0
+Brand,Tristana,4,0
+Corki,Udyr,4,0
+Gwen,Yasuo,4,0
+Mel,Soraka,4,0
+Nami,Udyr,4,0
+Neeko,Udyr,4,0
+Olaf,Soraka,4,0
+Olaf,Yasuo,4,0
+Orianna,Udyr,4,0
+Smolder,Udyr,4,0
+Soraka,Vayne,4,0
+Udyr,Vi,4,0
+Udyr,Yorick,4,0
+Udyr,Yuumi,4,0
+Yasuo,Yorick,4,0
+Aatrox,Aurelion Sol,4,0
+Aurelion Sol,Gnar,4,0
+Aurelion Sol,Gwen,4,0
+Aurelion Sol,Jayce,4,0
+Aurelion Sol,Mel,4,0
+Aurelion Sol,Olaf,4,0
+Aurelion Sol,Renekton,4,0
+Aurelion Sol,Rumble,4,0
+Aurelion Sol,Seraphine,4,0
+Aurelion Sol,Vi,4,0
+Aurelion Sol,Yunara,4,0
+Lucian,Zed,4,0
+Milio,Zed,4,0
+Nami,Zed,4,0
+Vayne,Zed,4,0
+Ahri,Graves,4,0
+Ashe,Graves,4,0
+Bard,Graves,4,0
+Gragas,Volibear,4,0
+Gragas,Ziggs,4,0
+Graves,Jarvan IV,4,0
+Graves,Lulu,4,0
+Graves,Nami,4,0
+Graves,Nautilus,4,0
+Graves,Orianna,4,0
+Graves,Pantheon,4,0
+Graves,Rell,4,0
+Lissandra,Ziggs,4,0
+Malphite,Malzahar,4,0
+Malzahar,Maokai,4,0
+Malzahar,Tristana,4,0
+Maokai,Volibear,4,0
+Mel,Volibear,4,0
+Smolder,Ziggs,4,0
+Tristana,Volibear,4,0
+Aurora,Vex,4,0
+Bard,Vex,4,0
+Kai'Sa,Vex,4,0
+Karma,Vex,4,0
+Kennen,Viego,4,0
+Leona,Vex,4,0
+Milio,Vex,4,0
+Nami,Vex,4,0
+Pantheon,Vex,4,0
+Qiyana,Shen,4,0
+Sion,Vex,4,0
+Vex,Viktor,4,0
+Vex,Wukong,4,0
+Vex,Xin Zhao,4,0
+Ambessa,Swain,4,0
+Anivia,Kindred,4,0
+Anivia,Swain,4,0
+Bard,Swain,4,0
+Hwei,Nasus,4,0
+Hwei,Nidalee,4,0
+Jarvan IV,Swain,4,0
+Kindred,Rek'Sai,4,0
+Kindred,Tristana,4,0
+Leona,Nidalee,4,0
+Nasus,Tristana,4,0
+Nasus,Yone,4,0
+Nasus,Zeri,4,0
+Nidalee,Zeri,4,0
+Rumble,Swain,4,0
+Seraphine,Swain,4,0
+Swain,Wukong,4,0
+Ambessa,Aurelion Sol,4,0
+Aurelion Sol,K'Sante,4,0
+Aurelion Sol,Karma,4,0
+Aurelion Sol,Ryze,4,0
+Aurelion Sol,Syndra,4,0
+Bel'Veth,Galio,4,0
+Camille,Qiyana,4,0
+Camille,Tahm Kench,4,0
+Camille,Zyra,4,0
+Ezreal,Karthus,4,0
+Irelia,Tahm Kench,4,0
+Kalista,Qiyana,4,0
+Kalista,Tahm Kench,4,0
+Karthus,Lucian,4,0
+Karthus,Lulu,4,0
+Karthus,Naafiri,4,0
+Karthus,Nautilus,4,0
+Karthus,Seraphine,4,0
+Karthus,Sion,4,0
+Kha'Zix,Qiyana,4,0
+Kha'Zix,Smolder,4,0
+Kha'Zix,Syndra,4,0
+Kha'Zix,Yuumi,4,0
+Leona,Tahm Kench,4,0
+Pyke,Tahm Kench,4,0
+Qiyana,Renata Glasc,4,0
+Qiyana,Yorick,4,0
+Rakan,Tahm Kench,4,0
+Renata Glasc,Yuumi,4,0
+Smolder,Zyra,4,0
+Akali,Mordekaiser,4,0
+Alistar,Zac,4,0
+Amumu,Lucian,4,0
+Amumu,Nami,4,0
+Amumu,Sivir,4,0
+Aurora,Taric,4,0
+Azir,Cho'Gath,4,0
+Bard,Taric,4,0
+Bard,Zac,4,0
+Ezreal,Zac,4,0
+Gnar,Taric,4,0
+Lulu,Taric,4,0
+Mordekaiser,Sivir,4,0
+Mordekaiser,Yuumi,4,0
+Nautilus,Zac,4,0
+Ornn,Zac,4,0
+Pantheon,Taric,4,0
+Pantheon,Zac,4,0
+Sion,Taric,4,0
+Sion,Zac,4,0
+Sylas,Taric,4,0
+Sylas,Zac,4,0
+Taric,Wukong,4,0
+Taric,Xin Zhao,4,0
+Taric,Yunara,4,0
+Amumu,K'Sante,4,0
+Annie,Samira,4,0
+Ashe,Samira,4,0
+Caitlyn,Samira,4,0
+Gnar,Samira,4,0
+K'Sante,Samira,4,0
+Naafiri,Samira,4,0
+Nami,Samira,4,0
+Samira,Seraphine,4,0
+Samira,Vi,4,0
+Samira,Viktor,4,0
+Samira,Yunara,4,0
+Cassiopeia,Zed,4,0
+Cho'Gath,Jayce,4,0
+Cho'Gath,Zed,4,0
+Gragas,Zed,4,0
+Xayah,Zed,4,0
+Ahri,Lillia,4,0
+Ashe,Lillia,4,0
+Ashe,Morgana,4,0
+Aurora,Lillia,4,0
+Aurora,Morgana,4,0
+Brand,Gragas,4,0
+Corki,Kayn,4,0
+Darius,K'Sante,4,0
+Darius,Zaahen,4,0
+Dr. Mundo,Lillia,4,0
+Dr. Mundo,Morgana,4,0
+K'Sante,Morgana,4,0
+Kai'Sa,Morgana,4,0
+Karma,Morgana,4,0
+Kayn,Malphite,4,0
+Kayn,Naafiri,4,0
+Kayn,Rell,4,0
+Kayn,Varus,4,0
+LeBlanc,Lillia,4,0
+Lillia,Rell,4,0
+Lillia,Zaahen,4,0
+Malphite,Morgana,4,0
+Morgana,Nocturne,4,0
+Morgana,Rell,4,0
+Morgana,Yunara,4,0
+Blitzcrank,Kog'Maw,4,0
+Elise,Ornn,4,0
+Elise,Smolder,4,0
+Elise,Syndra,4,0
+Annie,Ivern,4,0
+Aphelios,Blitzcrank,4,0
+Draven,Sejuani,4,0
+Draven,Viego,4,0
+Ivern,Jayce,4,0
+Ivern,Rell,4,0
+Ivern,Sivir,4,0
+Kled,Naafiri,4,0
+Ambessa,Quinn,4,0
+Azir,Tahm Kench,4,0
+Azir,Zed,4,0
+Bard,Quinn,4,0
+Garen,Jarvan IV,4,0
+Garen,Syndra,4,0
+Jarvan IV,Quinn,4,0
+Jhin,Quinn,4,0
+Karma,Quinn,4,0
+Nidalee,Sylas,4,0
+Pyke,Soraka,4,0
+Quinn,Sion,4,0
+Blitzcrank,Kalista,4,0
+Blitzcrank,Renata Glasc,4,0
+Kha'Zix,Shen,4,0
+Akali,Xerath,4,0
+Alistar,Xerath,4,0
+Cho'Gath,Xerath,4,0
+Hwei,Xerath,4,0
+Soraka,Zaahen,4,0
+Akali,Darius,4,0
+Amumu,Viego,4,0
+Cho'Gath,Dr. Mundo,4,0
+Cho'Gath,Jinx,4,0
+Darius,Neeko,4,0
+Darius,Syndra,4,0
+Dr. Mundo,Mordekaiser,4,0
+Dr. Mundo,Thresh,4,0
+Ahri,Illaoi,4,0
+Ambessa,Illaoi,4,0
+Aurora,Illaoi,4,0
+Braum,Illaoi,4,0
+Caitlyn,Illaoi,4,0
+Corki,Illaoi,4,0
+Illaoi,Karma,4,0
+Illaoi,Lucian,4,0
+Illaoi,Milio,4,0
+Illaoi,Naafiri,4,0
+Illaoi,Seraphine,4,0
+Illaoi,Sivir,4,0
+Illaoi,Viktor,4,0
+Illaoi,Xin Zhao,4,0
+Illaoi,Ziggs,4,0
+Irelia,Lux,4,0
+Jax,Zyra,4,0
+Kog'Maw,Zyra,4,0
+Lux,Tristana,4,0
+Poppy,Zyra,4,0
+Shen,Zyra,4,0
+Alistar,Vladimir,4,0
+Kai'Sa,Vladimir,4,0
+Vi,Vladimir,4,0
+Hecarim,K'Sante,4,0
+Smolder,Swain,4,0
+Amumu,Gwen,4,0
+Amumu,Poppy,4,0
+Amumu,Skarner,4,0
+Cassiopeia,Darius,4,0
+Darius,Shen,4,0
+Dr. Mundo,Kennen,4,0
+Kennen,Sylas,4,0
+Alistar,Fizz,4,0
+Ashe,Fizz,4,0
+Aurora,Fizz,4,0
+Corki,Fizz,4,0
+Ezreal,Fizz,4,0
+Fizz,Jarvan IV,4,0
+Fizz,Karma,4,0
+Fizz,Lee Sin,4,0
+Fizz,Lulu,4,0
+Fizz,Naafiri,4,0
+Fizz,Nami,4,0
+Fizz,Orianna,4,0
+Fizz,Ryze,4,0
+Fizz,Seraphine,4,0
+Fizz,Sion,4,0
+Fizz,Varus,4,0
+Fizz,Vi,4,0
+Gragas,Yuumi,4,0
+Rell,Tahm Kench,4,0
+Bard,Diana,4,0
+Darius,Pantheon,4,0
+Darius,Trundle,4,0
+Diana,Lulu,4,0
+Diana,Naafiri,4,0
+Diana,Orianna,4,0
+Diana,Seraphine,4,0
+Diana,Sion,4,0
+Dr. Mundo,Xerath,4,0
+Galio,Vladimir,4,0
+Gwen,Vladimir,4,0
+Gwen,Xerath,4,0
+Renekton,Vladimir,4,0
+Smolder,Xerath,4,0
+Trundle,Vladimir,4,0
+Ahri,Sett,4,0
+Bard,Sett,4,0
+Blitzcrank,Dr. Mundo,4,0
+Blitzcrank,Zyra,4,0
+Braum,Vladimir,4,0
+Braum,Volibear,4,0
+Camille,Vladimir,4,0
+Darius,Ornn,4,0
+Dr. Mundo,Qiyana,4,0
+Ezreal,Sett,4,0
+Gangplank,Nami,4,0
+Gangplank,Rakan,4,0
+Gangplank,Syndra,4,0
+Irelia,Vladimir,4,0
+Jarvan IV,Sett,4,0
+Jinx,Zed,4,0
+Kai'Sa,Sett,4,0
+Malphite,Zed,4,0
+Nautilus,Sett,4,0
+Orianna,Sett,4,0
+Rakan,Zed,4,0
+Rell,Sett,4,0
+Sett,Vi,4,0
+Sett,Yunara,4,0
+Sivir,Vladimir,4,0
+Sivir,Xerath,4,0
+Olaf,Zoe,4,0
+Corki,Gangplank,4,0
+Gragas,Kog'Maw,4,0
+Kog'Maw,Malphite,4,0
+LeBlanc,Qiyana,4,0
+Qiyana,Tristana,4,0
+Azir,Kayn,4,0
+Fiora,Renekton,4,0
+Fiora,Tristana,4,0
+Fiora,Yorick,4,0
+Jayce,Mordekaiser,4,0
+Kayn,Wukong,4,0
+Mordekaiser,Rell,4,0
+Lux,Zoe,4,0
+Aatrox,Ivern,4,0
+Caitlyn,Veigar,4,0
+Irelia,Shyvana,4,0
+Ivern,Trundle,4,0
+Alistar,Nasus,4,0
+Caitlyn,Fizz,4,0
+Gwen,Kha'Zix,4,0
+Hwei,Kha'Zix,4,0
+Dr. Mundo,Kha'Zix,4,0
+Aatrox,Draven,4,0
+Amumu,Malphite,4,0
+Amumu,Morgana,4,0
+Amumu,Tristana,4,0
+Braum,Zac,4,0
+Cho'Gath,Morgana,4,0
+Cho'Gath,Tristana,4,0
+Draven,Galio,4,0
+Draven,Shen,4,0
+Draven,Tristana,4,0
+Maokai,Mordekaiser,4,0
+Mordekaiser,Morgana,4,0
+Mordekaiser,Nasus,4,0
+Morgana,Sylas,4,0
+Nasus,Veigar,4,0
+Ornn,Veigar,4,0
+Shen,Veigar,4,0
+Trundle,Viego,4,0
+Graves,Jhin,4,0
+Graves,Kai'Sa,4,0
+Graves,Lee Sin,4,0
+Graves,Leona,4,0
+Dr. Mundo,Kalista,4,0
+Kha'Zix,Ziggs,4,0
+LeBlanc,Volibear,4,0
+Leona,Volibear,4,0
+Fiora,Neeko,4,0
+Camille,Kennen,4,0
+Caitlyn,Lillia,4,0
+Cho'Gath,Lillia,4,0
+Jinx,Yasuo,4,0
+Kled,Rakan,4,0
+Kled,Xayah,4,0
+LeBlanc,Nasus,4,0
+Nasus,Yasuo,4,0
+Blitzcrank,Galio,4,0
+Aatrox,Kayle,4,0
+Kayle,Skarner,4,0
+Kayle,Trundle,4,0
+Kayle,Xin Zhao,4,0
+Aatrox,Kindred,4,0
+Jax,Kindred,4,0
+Kindred,Malphite,4,0
+Kindred,Miss Fortune,4,0
+Kennen,Xerath,4,0
+Vayne,Xerath,4,0
+Fiora,Zaahen,4,0
+Nidalee,Rell,4,0
+Dr. Mundo,Zoe,4,0
+Ryze,Xerath,4,0
+Lux,Tahm Kench,4,0
+Aphelios,Yuumi,4,0
+Amumu,Zaahen,4,0
+Gwen,Veigar,4,0
+Lillia,Mel,4,0
+Lillia,Pantheon,4,0
+Lillia,Sylas,4,0
+Lillia,Tristana,4,0
+Lillia,Vayne,4,0
+Malzahar,Mordekaiser,4,0
+Malzahar,Nasus,4,0
+Morgana,Pantheon,4,0
+Kalista,Lux,4,0
+Alistar,Draven,4,0
+Azir,Draven,4,0
+Draven,Renata Glasc,4,0
+Draven,Renekton,4,0
+Draven,Twisted Fate,4,0
+Draven,Xayah,4,0
+Draven,Yone,4,0
+Ambessa,Morgana,4,0
+Ashe,Tryndamere,4,0
+Elise,Malphite,4,0
+Ezreal,Morgana,4,0
+Jhin,Morgana,4,0
+Morgana,Ryze,4,0
+Morgana,Skarner,4,0
+Nautilus,Tryndamere,4,0
+Shen,Tryndamere,4,0
+Tryndamere,Viktor,4,0
+Tryndamere,Wukong,4,0
+Tryndamere,Zaahen,4,0
+Lillia,Neeko,4,0
+Lillia,Skarner,4,0
+Alistar,Lillia,4,0
+Camille,Zoe,4,0
+Draven,Gwen,4,0
+Draven,Kalista,4,0
+Draven,Neeko,4,0
+Kennen,Rek'Sai,4,0
+Kennen,Zeri,4,0
+Yasuo,Zeri,4,0
+Ambessa,Zac,4,0
+Braum,Yasuo,4,0
+Elise,Galio,4,0
+Poppy,Thresh,4,0
+Rek'Sai,Zoe,4,0
+Renata Glasc,Zoe,4,0
+Lissandra,Zoe,4,0
+Zeri,Zoe,4,0
+Kennen,Zoe,4,0
+Braum,Elise,4,0
+Sett,Sion,4,0
+Renata Glasc,Yasuo,4,0
+Blitzcrank,Leona,4,0
+Draven,Leona,4,0
+Draven,Syndra,4,0
+Fiora,Kai'Sa,4,0
+Jarvan IV,Vex,4,0
+Nautilus,Vex,4,0
+Syndra,Zoe,4,0
+Morgana,Xin Zhao,4,0
+Kayle,Sylas,4,0
+Gragas,Kennen,4,0
+Camille,Thresh,4,0
+Lux,Smolder,4,0
+Ambessa,Udyr,4,0
+Kayle,Leona,4,0
+Nasus,Poppy,4,0
+Lee Sin,Udyr,4,0
+Senna,Swain,3,3
+Mordekaiser,Senna,3,3
+Quinn,Senna,3,3
+Hecarim,Senna,3,3
+Draven,Senna,3,3
+Nocturne,Sona,3,2
+Senna,Udyr,3,2
+Senna,Zed,3,2
+Nocturne,Vex,3,2
+Aurelion Sol,Nocturne,3,2
+Illaoi,Nocturne,3,2
+Kayn,Senna,3,2
+Diana,Senna,3,2
+Graves,Senna,3,2
+Nocturne,Quinn,3,2
+Gangplank,Senna,3,2
+Hecarim,Nocturne,3,1
+Kayn,Nocturne,3,1
+Senna,Viego,3,1
+Senna,Volibear,3,1
+Aurora,Kassadin,3,0
+Hwei,Kassadin,3,0
+Jinx,Kassadin,3,0
+Kassadin,Nami,3,0
+Kassadin,Skarner,3,0
+Kassadin,Smolder,3,0
+Kassadin,Viktor,3,0
+Lissandra,Tahm Kench,3,0
+Lissandra,Viego,3,0
+Rek'Sai,Tahm Kench,3,0
+Sejuani,Viego,3,0
+Cho'Gath,Zac,3,0
+Syndra,Zac,3,0
+Vayne,Volibear,3,0
+Gangplank,Hwei,3,0
+Gangplank,Malphite,3,0
+Malphite,Shyvana,3,0
+Ashe,Urgot,3,0
+Ezreal,Urgot,3,0
+Gwen,Urgot,3,0
+Jarvan IV,Urgot,3,0
+Kai'Sa,Urgot,3,0
+Karma,Urgot,3,0
+Nami,Urgot,3,0
+Nocturne,Urgot,3,0
+Orianna,Urgot,3,0
+Rell,Urgot,3,0
+Seraphine,Urgot,3,0
+Alistar,Darius,3,0
+Ambessa,Riven,3,0
+Ambessa,Veigar,3,0
+Anivia,Mordekaiser,3,0
+Anivia,Riven,3,0
+Anivia,Veigar,3,0
+Ashe,Riven,3,0
+Aurora,Riven,3,0
+Cho'Gath,Kalista,3,0
+Cho'Gath,LeBlanc,3,0
+Cho'Gath,Pyke,3,0
+Corki,Hecarim,3,0
+Corki,Veigar,3,0
+Darius,Kalista,3,0
+Darius,Malphite,3,0
+Darius,Mordekaiser,3,0
+Darius,Rakan,3,0
+Darius,Thresh,3,0
+Darius,Veigar,3,0
+Darius,Viego,3,0
+Darius,Xayah,3,0
+Darius,Yone,3,0
+Galio,Ivern,3,0
+Hecarim,Kalista,3,0
+Hecarim,Leona,3,0
+Hecarim,Lucian,3,0
+Hecarim,Milio,3,0
+Hecarim,Orianna,3,0
+Hecarim,Sion,3,0
+Hecarim,Taliyah,3,0
+Ivern,Leona,3,0
+Ivern,Malphite,3,0
+Ivern,Pyke,3,0
+Ivern,Smolder,3,0
+Ivern,Vayne,3,0
+Ivern,Veigar,3,0
+Ivern,Viego,3,0
+Ivern,Viktor,3,0
+Jarvan IV,Riven,3,0
+Kalista,Thresh,3,0
+Kalista,Viego,3,0
+Lee Sin,Mordekaiser,3,0
+Lee Sin,Riven,3,0
+Lee Sin,Veigar,3,0
+Lissandra,Thresh,3,0
+Lucian,Riven,3,0
+Lucian,Veigar,3,0
+Mordekaiser,Smolder,3,0
+Mordekaiser,Taliyah,3,0
+Mordekaiser,Thresh,3,0
+Mordekaiser,Vayne,3,0
+Mordekaiser,Yone,3,0
+Nautilus,Riven,3,0
+Orianna,Riven,3,0
+Renata Glasc,Thresh,3,0
+Riven,Ryze,3,0
+Riven,Seraphine,3,0
+Riven,Sion,3,0
+Riven,Varus,3,0
+Riven,Vayne,3,0
+Riven,Vi,3,0
+Riven,Viktor,3,0
+Riven,Xin Zhao,3,0
+Taliyah,Veigar,3,0
+Thresh,Viego,3,0
+Brand,Yasuo,3,0
+Rek'Sai,Thresh,3,0
+Kai'Sa,Nidalee,3,0
+Lissandra,Nidalee,3,0
+Corki,Kled,3,0
+Galio,Kled,3,0
+Kled,Olaf,3,0
+Kled,Twisted Fate,3,0
+Kled,Varus,3,0
+Brand,Maokai,3,0
+Jinx,Kog'Maw,3,0
+Bel'Veth,Maokai,3,0
+Bel'Veth,Orianna,3,0
+Bel'Veth,Pantheon,3,0
+Bel'Veth,Sylas,3,0
+Bel'Veth,Syndra,3,0
+Bel'Veth,Xin Zhao,3,0
+Fiora,Vladimir,3,0
+Kassadin,Rakan,3,0
+Kassadin,Sylas,3,0
+Kindred,Syndra,3,0
+Kindred,Vayne,3,0
+Kindred,Xayah,3,0
+Ornn,Vladimir,3,0
+Pyke,Yasuo,3,0
+Vayne,Vladimir,3,0
+Ambessa,Garen,3,0
+Azir,Garen,3,0
+Garen,Jax,3,0
+Garen,Pantheon,3,0
+Garen,Trundle,3,0
+Garen,Vi,3,0
+Aatrox,Malzahar,3,0
+Annie,Malzahar,3,0
+Annie,Sona,3,0
+Ashe,Sona,3,0
+Azir,Volibear,3,0
+Bard,Sona,3,0
+Caitlyn,Sona,3,0
+Cassiopeia,Sona,3,0
+Ezreal,Sona,3,0
+Hwei,Malzahar,3,0
+Jarvan IV,Sona,3,0
+Jhin,Sona,3,0
+K'Sante,Sona,3,0
+Lucian,Sona,3,0
+Malzahar,Yone,3,0
+Milio,Sona,3,0
+Pantheon,Sona,3,0
+Qiyana,Volibear,3,0
+Rumble,Sona,3,0
+Ryze,Sona,3,0
+Seraphine,Sona,3,0
+Sion,Sona,3,0
+Sona,Twisted Fate,3,0
+Sona,Wukong,3,0
+Sona,Zaahen,3,0
+Camille,Nidalee,3,0
+Kog'Maw,Nidalee,3,0
+LeBlanc,Nidalee,3,0
+Nidalee,Sejuani,3,0
+Yuumi,Zyra,3,0
+Aatrox,Udyr,3,0
+Anivia,Udyr,3,0
+Brand,Gwen,3,0
+Brand,LeBlanc,3,0
+Brand,Yorick,3,0
+Cassiopeia,Udyr,3,0
+Galio,Udyr,3,0
+Gnar,Udyr,3,0
+Jayce,Soraka,3,0
+Jayce,Udyr,3,0
+LeBlanc,Udyr,3,0
+Olaf,Udyr,3,0
+Renekton,Udyr,3,0
+Rumble,Udyr,3,0
+Skarner,Udyr,3,0
+Soraka,Yasuo,3,0
+Soraka,Yone,3,0
+Soraka,Yorick,3,0
+Sylas,Udyr,3,0
+Taliyah,Udyr,3,0
+Yasuo,Yuumi,3,0
+Ahri,Aurelion Sol,3,0
+Ashe,Aurelion Sol,3,0
+Aurelion Sol,Caitlyn,3,0
+Aurelion Sol,Kai'Sa,3,0
+Aurelion Sol,Nami,3,0
+Aurelion Sol,Skarner,3,0
+Aurora,Zed,3,0
+Hwei,Zed,3,0
+Jax,Zed,3,0
+Jayce,Zed,3,0
+Renekton,Zed,3,0
+Alistar,Graves,3,0
+Ezreal,Graves,3,0
+Gragas,Malzahar,3,0
+Graves,Gwen,3,0
+Graves,Hwei,3,0
+Graves,Lucian,3,0
+Graves,Malphite,3,0
+Graves,Mel,3,0
+Graves,Milio,3,0
+Graves,Ornn,3,0
+Graves,Rek'Sai,3,0
+Graves,Renekton,3,0
+Graves,Ryze,3,0
+Graves,Syndra,3,0
+Graves,Varus,3,0
+Graves,Vi,3,0
+Graves,Xin Zhao,3,0
+Graves,Yunara,3,0
+Malzahar,Shen,3,0
+Malzahar,Ziggs,3,0
+Shen,Volibear,3,0
+Volibear,Ziggs,3,0
+Aatrox,Vex,3,0
+Ahri,Vex,3,0
+Anivia,Vex,3,0
+Bard,Talon,3,0
+Caitlyn,Talon,3,0
+Caitlyn,Vex,3,0
+Gnar,Talon,3,0
+Gnar,Vex,3,0
+Kai'Sa,Talon,3,0
+Karma,Talon,3,0
+Kennen,Qiyana,3,0
+Lee Sin,Talon,3,0
+Lulu,Talon,3,0
+Lulu,Vex,3,0
+Mel,Talon,3,0
+Nami,Talon,3,0
+Nocturne,Talon,3,0
+Ornn,Vex,3,0
+Qiyana,Smolder,3,0
+Qiyana,Vex,3,0
+Rell,Talon,3,0
+Rell,Vex,3,0
+Renekton,Vex,3,0
+Rumble,Vex,3,0
+Ryze,Vex,3,0
+Shen,Vex,3,0
+Syndra,Talon,3,0
+Syndra,Vex,3,0
+Talon,Vi,3,0
+Talon,Wukong,3,0
+Talon,Xin Zhao,3,0
+Vex,Vi,3,0
+Vex,Yunara,3,0
+Vex,Zaahen,3,0
+Annie,Swain,3,0
+Ashe,Swain,3,0
+Cassiopeia,Swain,3,0
+Gragas,Nasus,3,0
+Gragas,Nidalee,3,0
+Lee Sin,Swain,3,0
+Leona,Swain,3,0
+Lulu,Swain,3,0
+Nasus,Sejuani,3,0
+Nasus,Shyvana,3,0
+Nidalee,Ornn,3,0
+Nidalee,Tristana,3,0
+Orianna,Swain,3,0
+Pantheon,Swain,3,0
+Ryze,Swain,3,0
+Shyvana,Swain,3,0
+Swain,Varus,3,0
+Swain,Yone,3,0
+Swain,Yorick,3,0
+Swain,Yunara,3,0
+Akali,Aurelion Sol,3,0
+Akali,Karthus,3,0
+Aurelion Sol,Cassiopeia,3,0
+Aurelion Sol,Galio,3,0
+Aurelion Sol,Jinx,3,0
+Aurelion Sol,Orianna,3,0
+Aurelion Sol,Ornn,3,0
+Aurelion Sol,Tahm Kench,3,0
+Bard,Karthus,3,0
+Bel'Veth,Seraphine,3,0
+Bel'Veth,Yone,3,0
+Cassiopeia,Karthus,3,0
+Galio,Karthus,3,0
+Irelia,Kha'Zix,3,0
+Irelia,Renata Glasc,3,0
+Jinx,Kha'Zix,3,0
+K'Sante,Karthus,3,0
+Kalista,Kha'Zix,3,0
+Karma,Karthus,3,0
+Karthus,Neeko,3,0
+Karthus,Pantheon,3,0
+Karthus,Ryze,3,0
+Karthus,Smolder,3,0
+Karthus,Varus,3,0
+Karthus,Yunara,3,0
+Kha'Zix,Malphite,3,0
+Pyke,Qiyana,3,0
+Pyke,Yuumi,3,0
+Renata Glasc,Tahm Kench,3,0
+Aatrox,Amumu,3,0
+Ahri,Taric,3,0
+Ahri,Zac,3,0
+Alistar,Amumu,3,0
+Alistar,Taric,3,0
+Amumu,Azir,3,0
+Amumu,Gnar,3,0
+Amumu,Jhin,3,0
+Amumu,Lee Sin,3,0
+Amumu,Lulu,3,0
+Amumu,Rakan,3,0
+Amumu,Shyvana,3,0
+Amumu,Smolder,3,0
+Amumu,Xayah,3,0
+Amumu,Yunara,3,0
+Aurora,Zac,3,0
+Azir,Soraka,3,0
+Caitlyn,Taric,3,0
+Cassiopeia,Mordekaiser,3,0
+Cassiopeia,Taric,3,0
+Cho'Gath,Soraka,3,0
+Cho'Gath,Yuumi,3,0
+Ezreal,Taric,3,0
+Jarvan IV,Taric,3,0
+Karma,Taric,3,0
+Lee Sin,Taric,3,0
+Lucian,Taric,3,0
+Lucian,Zac,3,0
+Lulu,Zac,3,0
+Milio,Taric,3,0
+Nami,Taric,3,0
+Nautilus,Taric,3,0
+Rakan,Taric,3,0
+Rumble,Taric,3,0
+Ryze,Taric,3,0
+Ryze,Zac,3,0
+Seraphine,Taric,3,0
+Shyvana,Soraka,3,0
+Sivir,Taric,3,0
+Sivir,Zac,3,0
+Smolder,Taric,3,0
+Taric,Varus,3,0
+Taric,Viktor,3,0
+Viktor,Zac,3,0
+Yunara,Zac,3,0
+Ahri,Samira,3,0
+Akali,Samira,3,0
+Alistar,Samira,3,0
+Ambessa,Amumu,3,0
+Amumu,Kai'Sa,3,0
+Amumu,Mel,3,0
+Amumu,Naafiri,3,0
+Amumu,Sejuani,3,0
+Amumu,Taliyah,3,0
+Amumu,Vi,3,0
+Amumu,Yorick,3,0
+Amumu,Zeri,3,0
+Cassiopeia,Samira,3,0
+Corki,Samira,3,0
+Jayce,Samira,3,0
+Lee Sin,Samira,3,0
+Leona,Samira,3,0
+Lulu,Samira,3,0
+Milio,Samira,3,0
+Orianna,Samira,3,0
+Ornn,Samira,3,0
+Rumble,Samira,3,0
+Samira,Sejuani,3,0
+Samira,Taliyah,3,0
+Dr. Mundo,Lissandra,3,0
+Dr. Mundo,Yuumi,3,0
+Anivia,Zed,3,0
+Leona,Zed,3,0
+Nocturne,Zed,3,0
+Taliyah,Zed,3,0
+Malphite,Swain,3,0
+Swain,Twisted Fate,3,0
+Swain,Vi,3,0
+Swain,Viktor,3,0
+Brand,Veigar,3,0
+Corki,Morgana,3,0
+Gnar,Kayn,3,0
+Gnar,Lillia,3,0
+Gnar,Veigar,3,0
+Gragas,Lillia,3,0
+K'Sante,Veigar,3,0
+Kai'Sa,Kayn,3,0
+Karma,Veigar,3,0
+Kayn,Nami,3,0
+Kayn,Smolder,3,0
+Kayn,Yorick,3,0
+Lillia,Lulu,3,0
+Lillia,Morgana,3,0
+Lillia,Naafiri,3,0
+Lillia,Varus,3,0
+Lulu,Veigar,3,0
+Morgana,Smolder,3,0
+Morgana,Veigar,3,0
+Morgana,Yorick,3,0
+Morgana,Zaahen,3,0
+Blitzcrank,Elise,3,0
+Elise,Lissandra,3,0
+Nidalee,Smolder,3,0
+Nidalee,Syndra,3,0
+Blitzcrank,Draven,3,0
+Cassiopeia,Ivern,3,0
+Gnar,Ivern,3,0
+Ivern,Yunara,3,0
+Azir,Karthus,3,0
+Karthus,Milio,3,0
+Karthus,Sivir,3,0
+Karthus,Wukong,3,0
+Aurelion Sol,Rell,3,0
+Aurelion Sol,Taliyah,3,0
+Ambessa,Kled,3,0
+Ashe,Taric,3,0
+Kha'Zix,Kled,3,0
+Kha'Zix,Zoe,3,0
+Kled,Yunara,3,0
+Yuumi,Zoe,3,0
+Ahri,Quinn,3,0
+Ambessa,Zed,3,0
+Aphelios,Quinn,3,0
+Aphelios,Zed,3,0
+Azir,Quinn,3,0
+Corki,Quinn,3,0
+Dr. Mundo,Garen,3,0
+Dr. Mundo,Quinn,3,0
+Dr. Mundo,Soraka,3,0
+Dr. Mundo,Tahm Kench,3,0
+Elise,Soraka,3,0
+Garen,Viktor,3,0
+LeBlanc,Tahm Kench,3,0
+Quinn,Syndra,3,0
+Quinn,Viktor,3,0
+Quinn,Wukong,3,0
+Blitzcrank,Rek'Sai,3,0
+Blitzcrank,Zeri,3,0
+Kha'Zix,Poppy,3,0
+Kha'Zix,Rek'Sai,3,0
+Kha'Zix,Tristana,3,0
+Cho'Gath,Lux,3,0
+Cho'Gath,Zeri,3,0
+Hwei,Soraka,3,0
+Lux,Xerath,3,0
+Sylas,Xerath,3,0
+Xayah,Xerath,3,0
+Shen,Zoe,3,0
+Akali,Garen,3,0
+Amumu,Darius,3,0
+Amumu,Dr. Mundo,3,0
+Darius,Jinx,3,0
+Jinx,Kindred,3,0
+Jinx,Mordekaiser,3,0
+Mordekaiser,Neeko,3,0
+Samira,Thresh,3,0
+Samira,Xayah,3,0
+Annie,Illaoi,3,0
+Ashe,Illaoi,3,0
+Bard,Illaoi,3,0
+Galio,Illaoi,3,0
+Illaoi,K'Sante,3,0
+Illaoi,Lee Sin,3,0
+Illaoi,Lulu,3,0
+Illaoi,Miss Fortune,3,0
+Illaoi,Orianna,3,0
+Illaoi,Rakan,3,0
+Illaoi,Rumble,3,0
+Illaoi,Ryze,3,0
+Illaoi,Wukong,3,0
+Illaoi,Yunara,3,0
+Lux,Zyra,3,0
+Ambessa,Vel'Koz,3,0
+Ashe,Vel'Koz,3,0
+Aurora,Vel'Koz,3,0
+Azir,Samira,3,0
+Azir,Vel'Koz,3,0
+Bard,Vel'Koz,3,0
+Caitlyn,Vel'Koz,3,0
+Gnar,Vel'Koz,3,0
+Jarvan IV,Vel'Koz,3,0
+Jayce,Vel'Koz,3,0
+Jhin,Vel'Koz,3,0
+Lee Sin,Vel'Koz,3,0
+Lulu,Vel'Koz,3,0
+Milio,Vel'Koz,3,0
+Nautilus,Vel'Koz,3,0
+Pantheon,Vel'Koz,3,0
+Rell,Vel'Koz,3,0
+Samira,Skarner,3,0
+Seraphine,Vel'Koz,3,0
+Sion,Vel'Koz,3,0
+Vel'Koz,Vi,3,0
+Vel'Koz,Viktor,3,0
+Vel'Koz,Xayah,3,0
+Vel'Koz,Xin Zhao,3,0
+Vel'Koz,Yunara,3,0
+Hecarim,Karma,3,0
+Alistar,Zed,3,0
+Rell,Swain,3,0
+Amumu,Kennen,3,0
+Amumu,Nocturne,3,0
+Azir,Viego,3,0
+Darius,Jayce,3,0
+Darius,Kennen,3,0
+Darius,Poppy,3,0
+Darius,Rumble,3,0
+Dr. Mundo,Poppy,3,0
+Hwei,Kennen,3,0
+Viego,Ziggs,3,0
+Ambessa,Fizz,3,0
+Cassiopeia,Fizz,3,0
+Fizz,Jayce,3,0
+Fizz,Jhin,3,0
+Fizz,Leona,3,0
+Fizz,Lucian,3,0
+Fizz,Maokai,3,0
+Fizz,Mel,3,0
+Fizz,Milio,3,0
+Fizz,Miss Fortune,3,0
+Fizz,Renekton,3,0
+Fizz,Rumble,3,0
+Fizz,Skarner,3,0
+Fizz,Trundle,3,0
+Fizz,Twisted Fate,3,0
+Fizz,Vayne,3,0
+Fizz,Viktor,3,0
+Fizz,Wukong,3,0
+Fizz,Xin Zhao,3,0
+Fizz,Yunara,3,0
+Aurelion Sol,Sivir,3,0
+Jax,Tahm Kench,3,0
+Kennen,Tahm Kench,3,0
+Kennen,Yasuo,3,0
+Poppy,Yasuo,3,0
+Alistar,Diana,3,0
+Aurora,Diana,3,0
+Darius,Jhin,3,0
+Darius,Vladimir,3,0
+Darius,Xerath,3,0
+Diana,Ezreal,3,0
+Diana,Galio,3,0
+Diana,Jhin,3,0
+Diana,Karma,3,0
+Diana,Lee Sin,3,0
+Diana,Pantheon,3,0
+Diana,Renekton,3,0
+Diana,Smolder,3,0
+Diana,Trundle,3,0
+Diana,Wukong,3,0
+Diana,Yunara,3,0
+Blitzcrank,Irelia,3,0
+Blitzcrank,Malphite,3,0
+Blitzcrank,Xerath,3,0
+Camille,Nasus,3,0
+Cassiopeia,Sett,3,0
+Cho'Gath,Qiyana,3,0
+Cho'Gath,Shen,3,0
+Cho'Gath,Twisted Fate,3,0
+Darius,Irelia,3,0
+Darius,Nasus,3,0
+Dr. Mundo,Gangplank,3,0
+Dr. Mundo,Nasus,3,0
+Dr. Mundo,Zyra,3,0
+Gangplank,Mel,3,0
+Gangplank,Rell,3,0
+Gangplank,Shen,3,0
+Gangplank,Twisted Fate,3,0
+Gnar,Sett,3,0
+Gwen,Zyra,3,0
+Jinx,Sett,3,0
+Jinx,Volibear,3,0
+Jinx,Xerath,3,0
+Karma,Sett,3,0
+Lee Sin,Zed,3,0
+Mel,Vladimir,3,0
+Nasus,Xerath,3,0
+Nasus,Zed,3,0
+Nasus,Zyra,3,0
+Neeko,Xerath,3,0
+Ornn,Sett,3,0
+Ornn,Urgot,3,0
+Pantheon,Sett,3,0
+Rakan,Sett,3,0
+Rumble,Sett,3,0
+Seraphine,Sett,3,0
+Sett,Sivir,3,0
+Sett,Varus,3,0
+Shen,Xerath,3,0
+Sivir,Urgot,3,0
+Syndra,Urgot,3,0
+Urgot,Wukong,3,0
+Vladimir,Volibear,3,0
+Yone,Zed,3,0
+Anivia,Gangplank,3,0
+Gangplank,Kog'Maw,3,0
+Gangplank,LeBlanc,3,0
+Gangplank,Leona,3,0
+Gangplank,Trundle,3,0
+Kog'Maw,Qiyana,3,0
+Kog'Maw,Yasuo,3,0
+LeBlanc,Malzahar,3,0
+Lux,Qiyana,3,0
+Lux,Yasuo,3,0
+Malzahar,Naafiri,3,0
+Qiyana,Vayne,3,0
+Shen,Yasuo,3,0
+Aatrox,Kayn,3,0
+Bard,Kayn,3,0
+Cassiopeia,Kayn,3,0
+Ezreal,Kayn,3,0
+Fiora,Malphite,3,0
+Fiora,Mel,3,0
+Hwei,Mordekaiser,3,0
+Kayn,Rumble,3,0
+Mordekaiser,Tristana,3,0
+Aatrox,Garen,3,0
+Aatrox,Veigar,3,0
+Aatrox,Vladimir,3,0
+Akali,Vladimir,3,0
+Bard,Ivern,3,0
+Brand,Kalista,3,0
+Camille,Shyvana,3,0
+Camille,Veigar,3,0
+Garen,Nami,3,0
+Garen,Rell,3,0
+Irelia,Veigar,3,0
+Ivern,Jhin,3,0
+Ivern,K'Sante,3,0
+Renekton,Veigar,3,0
+Trundle,Veigar,3,0
+Ahri,Fizz,3,0
+Diana,K'Sante,3,0
+Diana,Mel,3,0
+Diana,Nautilus,3,0
+Diana,Rell,3,0
+Diana,Ryze,3,0
+Diana,Sivir,3,0
+Diana,Varus,3,0
+Fizz,Rell,3,0
+Fizz,Shen,3,0
+Akali,Gangplank,3,0
+Annie,Gangplank,3,0
+Aatrox,Morgana,3,0
+Amumu,Veigar,3,0
+Braum,Draven,3,0
+Braum,Morgana,3,0
+Diana,Jarvan IV,3,0
+Draven,Ornn,3,0
+Illaoi,Rell,3,0
+Illaoi,Smolder,3,0
+Jarvan IV,Master Yi,3,0
+Maokai,Veigar,3,0
+Master Yi,Wukong,3,0
+Mordekaiser,Trundle,3,0
+Morgana,Nasus,3,0
+Morgana,Rakan,3,0
+Morgana,Viego,3,0
+Tristana,Zac,3,0
+Trundle,Zac,3,0
+Nasus,Renata Glasc,3,0
+Ambessa,Graves,3,0
+Aphelios,Malzahar,3,0
+Aurora,Graves,3,0
+Brand,Xayah,3,0
+Brand,Zeri,3,0
+Dr. Mundo,Graves,3,0
+Graves,K'Sante,3,0
+Malzahar,Viego,3,0
+Olaf,Viego,3,0
+Malphite,Zoe,3,0
+Maokai,Zoe,3,0
+Thresh,Zoe,3,0
+Yone,Zoe,3,0
+Akali,Nasus,3,0
+Aphelios,Nasus,3,0
+Aphelios,Renata Glasc,3,0
+Ashe,Quinn,3,0
+Aurora,Quinn,3,0
+Dr. Mundo,Renata Glasc,3,0
+Ezreal,Quinn,3,0
+Kog'Maw,Nasus,3,0
+Kog'Maw,Renata Glasc,3,0
+Lulu,Quinn,3,0
+Nami,Quinn,3,0
+Nautilus,Quinn,3,0
+Orianna,Quinn,3,0
+Quinn,Renekton,3,0
+Quinn,Seraphine,3,0
+Quinn,Xin Zhao,3,0
+Renata Glasc,Shyvana,3,0
+Kha'Zix,LeBlanc,3,0
+Camille,Fiora,3,0
+Fiora,Irelia,3,0
+Fiora,Shen,3,0
+Fiora,Yone,3,0
+Poppy,Vladimir,3,0
+Annie,Cho'Gath,3,0
+Lee Sin,Lillia,3,0
+Lillia,Nasus,3,0
+Samira,Smolder,3,0
+Alistar,Kled,3,0
+Anivia,Kled,3,0
+Jinx,Soraka,3,0
+Kai'Sa,Kled,3,0
+Kled,Miss Fortune,3,0
+Kled,Rell,3,0
+Kled,Skarner,3,0
+Kled,Taliyah,3,0
+Kled,Vayne,3,0
+Blitzcrank,Shyvana,3,0
+Olaf,Shyvana,3,0
+Ahri,Kayle,3,0
+Ambessa,Kayle,3,0
+Caitlyn,Kayle,3,0
+Cassiopeia,Kayle,3,0
+Ezreal,Kayle,3,0
+Jarvan IV,Kayle,3,0
+Karma,Kayle,3,0
+Kayle,Maokai,3,0
+Kayle,Nasus,3,0
+Kayle,Ryze,3,0
+Kayle,Twisted Fate,3,0
+Kayle,Yunara,3,0
+Kindred,Mel,3,0
+Kindred,Shen,3,0
+Kindred,Twisted Fate,3,0
+Kindred,Ziggs,3,0
+Akali,Kled,3,0
+Kled,Renekton,3,0
+Kled,Ziggs,3,0
+Blitzcrank,Kennen,3,0
+Corki,Xerath,3,0
+Fiora,Rek'Sai,3,0
+Malzahar,Yorick,3,0
+Akali,Fizz,3,0
+Gwen,Kassadin,3,0
+Kassadin,Renekton,3,0
+Mordekaiser,Zed,3,0
+Yuumi,Zed,3,0
+Gangplank,Taliyah,3,0
+Blitzcrank,Zoe,3,0
+Braum,Kled,3,0
+Kled,Zaahen,3,0
+Ziggs,Zoe,3,0
+Hecarim,Renekton,3,0
+Hecarim,Shen,3,0
+Hecarim,Skarner,3,0
+Jayce,Xerath,3,0
+Kennen,Nasus,3,0
+Olaf,Xerath,3,0
+Annie,Tahm Kench,3,0
+Miss Fortune,Tahm Kench,3,0
+Thresh,Zeri,3,0
+Amumu,Vayne,3,0
+Amumu,Zed,3,0
+Lillia,Zed,3,0
+Malzahar,Veigar,3,0
+Mel,Morgana,3,0
+Morgana,Vayne,3,0
+Morgana,Zed,3,0
+Pantheon,Veigar,3,0
+Tristana,Zed,3,0
+Gwen,Nidalee,3,0
+Lux,Renata Glasc,3,0
+Blitzcrank,Maokai,3,0
+Draven,Mel,3,0
+Draven,Ziggs,3,0
+Ambessa,Shaco,3,0
+Aurora,Shaco,3,0
+Ezreal,Katarina,3,0
+Gragas,Katarina,3,0
+Jarvan IV,Katarina,3,0
+Jarvan IV,Shaco,3,0
+Katarina,Varus,3,0
+Katarina,Xin Zhao,3,0
+Rell,Shaco,3,0
+Shaco,Wukong,3,0
+Shaco,Xin Zhao,3,0
+Ahri,Tryndamere,3,0
+Ambessa,Tryndamere,3,0
+Annie,Tryndamere,3,0
+Bard,Morgana,3,0
+Cassiopeia,Tryndamere,3,0
+Elise,Tristana,3,0
+Ezreal,Tryndamere,3,0
+Hwei,Morgana,3,0
+Jarvan IV,Tryndamere,3,0
+Karma,Tryndamere,3,0
+Lucian,Tryndamere,3,0
+Lulu,Tryndamere,3,0
+Milio,Morgana,3,0
+Milio,Tryndamere,3,0
+Morgana,Neeko,3,0
+Morgana,Taliyah,3,0
+Morgana,Vi,3,0
+Sivir,Tryndamere,3,0
+Trundle,Tryndamere,3,0
+Tryndamere,Varus,3,0
+Aatrox,Lillia,3,0
+Bard,Lillia,3,0
+Gragas,Irelia,3,0
+Lillia,Sivir,3,0
+Hwei,Lillia,3,0
+Lillia,Rumble,3,0
+Lillia,Vi,3,0
+Lillia,Yone,3,0
+Galio,Zilean,3,0
+Jarvan IV,Zilean,3,0
+Milio,Zilean,3,0
+Olaf,Zilean,3,0
+Viktor,Zilean,3,0
+Wukong,Zilean,3,0
+Anivia,Ekko,3,0
+Dr. Mundo,Zac,3,0
+Ekko,Ezreal,3,0
+Ekko,Pantheon,3,0
+Ekko,Renekton,3,0
+Ekko,Ryze,3,0
+Ekko,Seraphine,3,0
+Ekko,Vi,3,0
+Ekko,Yasuo,3,0
+Ekko,Zaahen,3,0
+K'Sante,Zac,3,0
+Skarner,Zac,3,0
+Vi,Zac,3,0
+Zaahen,Zac,3,0
+Cho'Gath,Poppy,3,0
+Draven,Poppy,3,0
+Gangplank,Pyke,3,0
+Draven,Hwei,3,0
+Jax,Qiyana,3,0
+Qiyana,Sejuani,3,0
+Twisted Fate,Zoe,3,0
+Aatrox,Tahm Kench,3,0
+Miss Fortune,Swain,3,0
+Aphelios,Zoe,3,0
+Braum,Kindred,3,0
+Elise,Kindred,3,0
+Kindred,Zaahen,3,0
+Aurora,Sett,3,0
+Jhin,Sett,3,0
+Miss Fortune,Sett,3,0
+Renekton,Sett,3,0
+Sejuani,Yasuo,3,0
+Corki,Vladimir,3,0
+Ashe,Vex,3,0
+Caitlyn,Kayn,3,0
+Dr. Mundo,Fiora,3,0
+Ezreal,Vex,3,0
+Fiora,Jinx,3,0
+Kayn,Seraphine,3,0
+Kayn,Sion,3,0
+Kayn,Skarner,3,0
+Kindred,Rell,3,0
+Naafiri,Vex,3,0
+Rakan,Vex,3,0
+Seraphine,Vex,3,0
+Sivir,Vex,3,0
+Sylas,Vex,3,0
+Lissandra,Qiyana,3,0
+Azir,Morgana,3,0
+Leona,Morgana,3,0
+Kennen,Lissandra,3,0
+Akali,Hecarim,3,0
+Ashe,Kayle,3,0
+Cassiopeia,Hecarim,3,0
+Hecarim,Sivir,3,0
+Hecarim,Zaahen,3,0
+Irelia,Kayle,3,0
+Kayle,Malphite,3,0
+Kayle,Seraphine,3,0
+Kayle,Shen,3,0
+Kayle,Sivir,3,0
+Kayle,Tryndamere,3,0
+Kayle,Zaahen,3,0
+Tahm Kench,Vayne,3,0
+Tryndamere,Vayne,3,0
+Cho'Gath,Kog'Maw,3,0
+Jinx,Lux,3,0
+Jax,Xerath,3,0
+Alistar,Udyr,3,0
+Braum,Udyr,3,0
+Jhin,Udyr,3,0
+Lulu,Udyr,3,0
+Malphite,Udyr,3,0
+Ornn,Udyr,3,0
+Rakan,Udyr,3,0
+Shen,Udyr,3,0
+Trundle,Udyr,3,0
+Udyr,Viktor,3,0
+Udyr,Zeri,3,0
+Jax,Shyvana,3,0
+Kindred,Lux,3,0
+Braum,Nidalee,3,0
+Gwen,Vex,3,0
+Trundle,Vex,3,0
+Mordekaiser,Skarner,3,0
+Gwen,Kayle,3,0
+Annie,Udyr,3,0

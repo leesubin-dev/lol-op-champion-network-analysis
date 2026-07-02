@@ -1,0 +1,125 @@
+﻿combo_size,opponent_combo,games_against_op,wins_against_op,example_winning_matches,faced_op_champions,win_rate_against_op,smoothed_win_rate_against_op
+2,Renekton + Ryze,4,4,"LPL/2026 Season/Split 2_Week 6_7_2, Nexus League/2026 Season/Spring Split_Week 6_8_1, CBLOL/2026 Season/Split 1 Playoffs_Round 3_1_2","Nocturne, Senna",1.0,0.7222222222222222
+2,Ahri + Varus,3,3,"TCL/2026 Season/Spring Split_Week 6_2_2, Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs_Round 2_1_3, EMEA Masters/2026 Season/Spring Main Event_Groups Day 2_2_3","Nocturne, Senna",1.0,0.6875
+2,Anivia + Wukong,3,3,"Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_3_1, EMEA Masters/2026 Season/Spring Play-In_Round 3_3_1, EMEA Masters/2026 Season/Spring Main Event_Semifinals_1_1",Nocturne,1.0,0.6875
+2,Ashe + Xin Zhao,3,3,"LPL/2026 Season/Split 2_Week 6_7_2, LFL/2026 Season/Spring Playoffs_Round 1_5_2, LPL/2026 Season/Split 2_Week 7_9_1",Senna,1.0,0.6875
+2,Varus + Wukong,3,3,"LES/2026 Season/Spring Split_Week 7_2_2, Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_3_1, EMEA Masters/2026 Season/Spring Main Event_Groups Day 2_2_3","Nocturne, Senna",1.0,0.6875
+2,Jarvan IV + Orianna,5,4,"TCL/2026 Season/Spring Split_Week 6_5_1, LCS/2026 Season/Spring Playoffs_Round 2_1_1, Esports World Cup 2026/Online Qualifiers/South America_Round 2_4_1","Nocturne, Senna",0.8,0.65
+3,Ahri + Vi + Yorick,2,2,"LCK/2026 Season/Rounds 1-2_Week 9_1_2, 2026 Asia Masters_Day 2_2_2","Nocturne, Senna",1.0,0.6428571428571429
+3,Alistar + Ezreal + Jarvan IV,2,2,"LES/2026 Season/Spring Playoffs_Semifinals_1_2, Arabian League/2026 Season/Summer Promotion_Round 1_3_1","Nocturne, Senna",1.0,0.6428571428571429
+3,Anivia + Bard + Ezreal,2,2,"TCL/2026 Season/Spring Split_Week 6_5_1, EMEA Masters/2026 Season/Spring Play-In_Round 3_6_1","Nocturne, Senna",1.0,0.6428571428571429
+3,Annie + Ashe + Seraphine,2,2,"LPL/2026 Season/Split 2_Week 7_9_1, LFL/2026 Season/Spring Playoffs_Round 2_3_2",Senna,1.0,0.6428571428571429
+3,Lucian + Milio + Renekton,2,2,"North American Challengers League/2026 Season/Spring Playoffs_Round 3_1_3, LCS/2026 Season/Spring Playoffs_Round 2_2_1","Nocturne, Senna",1.0,0.6428571428571429
+3,Orianna + Rakan + Sion,2,2,"LCS/2026 Season/Spring Playoffs_Round 2_1_1, EMEA Masters/2026 Season/Spring Play-In_Round 2_4_1",Nocturne,1.0,0.6428571428571429
+3,Renekton + Ryze + Wukong,2,2,"Nexus League/2026 Season/Spring Split_Week 6_8_1, LCS/2026 Season/Spring Playoffs_Round 2_2_1","Nocturne, Senna",1.0,0.6428571428571429
+3,Renekton + Ryze + Xin Zhao,2,2,"LPL/2026 Season/Split 2_Week 6_7_2, CBLOL/2026 Season/Split 1 Playoffs_Round 3_1_2","Nocturne, Senna",1.0,0.6428571428571429
+2,Annie + Ashe,4,3,"Rift Legends/2026 Season/Spring Split_Week 5_4_2, LPL/2026 Season/Split 2_Week 7_9_1, LFL/2026 Season/Spring Playoffs_Round 2_3_2",Senna,0.75,0.6111111111111112
+2,Ashe + Hwei,4,3,"LFL/2026 Season/Spring Playoffs_Round 1_5_2, Benelux Ascend Series/2026 Season/Spring Playoffs_Round 1_4_2, LIT/2026 Season/Summer Promotion_Semifinals_2_3",Senna,0.75,0.6111111111111112
+2,Ashe + Seraphine,4,3,"LPL/2026 Season/Split 2_Week 7_9_1, LFL/2026 Season/Spring Playoffs_Round 2_3_2, Benelux Ascend Series/2026 Season/Spring Playoffs_Round 1_4_2","Nocturne, Senna",0.75,0.6111111111111112
+2,Ezreal + Orianna,4,3,"LES/2026 Season/Spring Split_Week 5_2_1, TCL/2026 Season/Spring Split_Week 6_5_1, EMEA Masters/2026 Season/Spring Play-In_Round 2_4_1","Nocturne, Senna",0.75,0.6111111111111112
+2,Rakan + Xayah,4,3,"LCS/2026 Season/Spring Playoffs_Round 2_1_1, Esports World Cup 2026/Online Qualifiers/South America_Round 4_2_2, LCS/2026 Season/Spring Playoffs_Round 3_1_1",Nocturne,0.75,0.6111111111111112
+2,Ryze + Sion,4,3,"LIT/2026 Season/Summer Promotion_Finals_1_1, Streamers Clash/Season 4_Day 7_5_1, Liga Regional Sur/2026 Season/Split 1 Playoffs_Finals_1_1","Nocturne, Senna",0.75,0.6111111111111112
+2,Alistar + Jarvan IV,3,2,"LES/2026 Season/Spring Playoffs_Semifinals_1_2, Arabian League/2026 Season/Summer Promotion_Round 1_3_1","Nocturne, Senna",0.6666666666666666,0.5625
+2,Anivia + Ezreal,3,2,"TCL/2026 Season/Spring Split_Week 6_5_1, EMEA Masters/2026 Season/Spring Play-In_Round 3_6_1","Nocturne, Senna",0.6666666666666666,0.5625
+2,Cassiopeia + Rell,3,2,"LES/2026 Season/Spring Split_Week 7_2_2, LES/2026 Season/Spring Playoffs_Semifinals_2_4","Nocturne, Senna",0.6666666666666666,0.5625
+2,Ezreal + Rumble,3,2,"LES/2026 Season/Spring Split_Week 5_2_1, 2026 Asian Games/Qualifier_Day 2_1_1","Nocturne, Senna",0.6666666666666666,0.5625
+2,Nautilus + Senna,3,2,"NLC/2026 Season/Spring Playoffs_Finals_1_2, Esports World Cup 2026/Online Qualifiers/South America_Round 3_1_2",Nocturne,0.6666666666666666,0.5625
+2,Nautilus + Xin Zhao,3,2,"CBLOL/2026 Season/Split 1 Playoffs_Round 3_1_2, NLC/2026 Season/Spring Playoffs_Finals_1_2","Nocturne, Senna",0.6666666666666666,0.5625
+2,Orianna + Sion,3,2,"LCS/2026 Season/Spring Playoffs_Round 2_1_1, EMEA Masters/2026 Season/Spring Play-In_Round 2_4_1",Nocturne,0.6666666666666666,0.5625
+2,Renekton + Wukong,3,2,"Nexus League/2026 Season/Spring Split_Week 6_8_1, LCS/2026 Season/Spring Playoffs_Round 2_2_1","Nocturne, Senna",0.6666666666666666,0.5625
+2,Ryze + Zaahen,3,2,"LIT/2026 Season/Summer Promotion_Finals_1_1, LCS/2026 Season/Spring Playoffs_Round 3_1_1","Nocturne, Senna",0.6666666666666666,0.5625
+2,Vi + Yorick,3,2,"LCK/2026 Season/Rounds 1-2_Week 9_1_2, 2026 Asia Masters_Day 2_2_2","Nocturne, Senna",0.6666666666666666,0.5625
+2,Ezreal + Jarvan IV,5,3,"TCL/2026 Season/Spring Split_Week 6_5_1, LES/2026 Season/Spring Playoffs_Semifinals_1_2, Arabian League/2026 Season/Summer Promotion_Round 1_3_1","Nocturne, Senna",0.6,0.55
+2,Karma + Xin Zhao,5,3,"North American Challengers League/2026 Season/Spring Season_Week 7_6_2, LJL/2026 Season/Spring Series_Week 4_2_1, LCK/2026 Season/Road to MSI_Round 4_1_4","Nocturne, Senna",0.6,0.55
+2,Lucian + Wukong,4,2,"LCS/2026 Season/Spring Playoffs_Round 2_2_1, EMEA Masters/2026 Season/Spring Main Event_Semifinals_1_1","Nocturne, Senna",0.5,0.5
+2,Milio + Wukong,4,2,"LCS/2026 Season/Spring Playoffs_Round 2_2_1, EMEA Masters/2026 Season/Spring Main Event_Semifinals_1_1","Nocturne, Senna",0.5,0.5
+2,Pantheon + Ryze,4,2,"Hitpoint Masters/2026 Season/Spring Split_Week 4_4_1, LJL/2026 Season/Spring Series_Semifinals_1_2","Nocturne, Senna",0.5,0.5
+2,Rell + Wukong,4,2,"LES/2026 Season/Spring Split_Week 7_2_2, EMEA Masters/2026 Season/Spring Play-In_Round 3_3_1","Nocturne, Senna",0.5,0.5
+2,Renekton + Xin Zhao,4,2,"LPL/2026 Season/Split 2_Week 6_7_2, CBLOL/2026 Season/Split 1 Playoffs_Round 3_1_2","Nocturne, Senna",0.5,0.5
+2,Ryze + Xin Zhao,4,2,"LPL/2026 Season/Split 2_Week 6_7_2, CBLOL/2026 Season/Split 1 Playoffs_Round 3_1_2","Nocturne, Senna",0.5,0.5
+3,Lucian + Milio + Wukong,4,2,"LCS/2026 Season/Spring Playoffs_Round 2_2_1, EMEA Masters/2026 Season/Spring Main Event_Semifinals_1_1","Nocturne, Senna",0.5,0.5
+3,Ahri + Bard + Sion,2,1,TCL/2026 Season/Spring Split_Week 6_2_2,"Nocturne, Senna",0.5,0.5
+3,Ahri + Karma + Xin Zhao,2,1,LCK/2026 Season/Road to MSI_Round 4_1_4,"Nocturne, Senna",0.5,0.5
+3,Ahri + Lucian + Milio,2,1,LCK/2026 Season/Rounds 1-2_Week 9_1_2,Senna,0.5,0.5
+3,Annie + Ashe + Lulu,2,1,Rift Legends/2026 Season/Spring Split_Week 5_4_2,Senna,0.5,0.5
+3,Ashe + Aurora + Jarvan IV,2,1,Esports World Cup 2026/Online Qualifiers/South America_Round 2_1_3,"Nocturne, Senna",0.5,0.5
+3,Ashe + Hwei + Wukong,2,1,LIT/2026 Season/Summer Promotion_Semifinals_2_3,Senna,0.5,0.5
+3,Aurora + K'Sante + Lucian,2,1,Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1,"Nocturne, Senna",0.5,0.5
+3,Aurora + K'Sante + Milio,2,1,Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1,"Nocturne, Senna",0.5,0.5
+3,Aurora + Leona + Yorick,2,1,Esports World Cup 2026/Online Qualifiers/South America_Round 2_1_3,Nocturne,0.5,0.5
+3,Bard + Ezreal + Twisted Fate,2,1,EMEA Masters/2026 Season/Spring Play-In_Round 3_6_1,"Nocturne, Senna",0.5,0.5
+3,Cassiopeia + Rell + Wukong,2,1,LES/2026 Season/Spring Split_Week 7_2_2,"Nocturne, Senna",0.5,0.5
+3,Ezreal + Jarvan IV + Orianna,2,1,TCL/2026 Season/Spring Split_Week 6_5_1,"Nocturne, Senna",0.5,0.5
+3,Gnar + Lucian + Milio,2,1,VCS/2026 Season/Summer Season_Week 2_5_2,"Nocturne, Senna",0.5,0.5
+3,Gnar + Lucian + Skarner,2,1,VCS/2026 Season/Summer Season_Week 2_5_2,"Nocturne, Senna",0.5,0.5
+3,Gnar + Milio + Skarner,2,1,VCS/2026 Season/Summer Season_Week 2_5_2,"Nocturne, Senna",0.5,0.5
+3,Gragas + Karma + Xin Zhao,2,1,North American Challengers League/2026 Season/Spring Season_Week 7_6_2,Senna,0.5,0.5
+3,Hwei + Lucian + Milio,2,1,North American Challengers League/2026 Season/Spring Playoffs_Round 3_1_3,Senna,0.5,0.5
+3,Jarvan IV + Nautilus + Orianna,2,1,VCS/2026 Season/Summer Playoffs_Round 1_3_1,Nocturne,0.5,0.5
+3,Jarvan IV + Rumble + Taliyah,2,1,EMEA Masters/2026 Season/Spring Main Event_Quarterfinals_2_3,Nocturne,0.5,0.5
+3,Karma + Sion + Sivir,2,1,Liga Regional Sur/2026 Season/Split 1 Playoffs_Finals_1_1,Nocturne,0.5,0.5
+3,Lee Sin + Ryze + Zaahen,2,1,LCS/2026 Season/Spring Playoffs_Round 3_1_1,Nocturne,0.5,0.5
+3,Lucian + Milio + Nocturne,2,1,LCK/2026 Season/Rounds 1-2_Week 6_2_2,Senna,0.5,0.5
+3,Lucian + Milio + Orianna,2,1,Esports World Cup 2026/Online Qualifiers/South America_Round 2_4_1,"Nocturne, Senna",0.5,0.5
+3,Lucian + Milio + Ryze,2,1,LCS/2026 Season/Spring Playoffs_Round 2_2_1,"Nocturne, Senna",0.5,0.5
+3,Lucian + Milio + Skarner,2,1,VCS/2026 Season/Summer Season_Week 2_5_2,"Nocturne, Senna",0.5,0.5
+3,Lucian + Milio + Sylas,2,1,Esports World Cup 2026/Online Qualifiers/South America_Round 2_4_1,"Nocturne, Senna",0.5,0.5
+3,Lucian + Milio + Xin Zhao,2,1,Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1,"Nocturne, Senna",0.5,0.5
+3,Nami + Renekton + Wukong,2,1,Nexus League/2026 Season/Spring Split_Week 6_8_1,Senna,0.5,0.5
+3,Nautilus + Ryze + Shyvana,2,1,Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs_Finals_1_4,"Nocturne, Senna",0.5,0.5
+3,Nautilus + Ryze + Xin Zhao,2,1,CBLOL/2026 Season/Split 1 Playoffs_Round 3_1_2,"Nocturne, Senna",0.5,0.5
+3,Pantheon + Ryze + Vayne,2,1,Hitpoint Masters/2026 Season/Spring Split_Week 4_4_1,Senna,0.5,0.5
+3,Vi + Yorick + Yunara,2,1,2026 Asia Masters_Day 2_2_2,"Nocturne, Senna",0.5,0.5
+2,Ashe + Lulu,9,4,"Rift Legends/2026 Season/Spring Split_Week 5_4_2, LPL/2026 Season/Split 2_Week 6_7_2, CBLOL/2026 Season/Split 1 Playoffs_Round 4_1_2",Senna,0.4444444444444444,0.4642857142857143
+2,Ahri + Vi,5,2,"LCK/2026 Season/Rounds 1-2_Week 9_1_2, 2026 Asia Masters_Day 2_2_2","Nocturne, Senna",0.4,0.45
+2,Aurora + Lucian,5,2,"VCS/2026 Season/Summer Season_Week 2_5_2, Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1","Nocturne, Senna",0.4,0.45
+2,Aurora + Milio,5,2,"VCS/2026 Season/Summer Season_Week 2_5_2, Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1","Nocturne, Senna",0.4,0.45
+2,Bard + Ezreal,5,2,"TCL/2026 Season/Spring Split_Week 6_5_1, EMEA Masters/2026 Season/Spring Play-In_Round 3_6_1","Nocturne, Senna",0.4,0.45
+2,K'Sante + Lucian,5,2,"Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1, EMEA Masters/2026 Season/Spring Main Event_Groups Day 2_8_2","Nocturne, Senna",0.4,0.45
+2,Nautilus + Ryze,5,2,"CBLOL/2026 Season/Split 1 Playoffs_Round 3_1_2, Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs_Finals_1_4","Nocturne, Senna",0.4,0.45
+3,Aurora + Lucian + Milio,5,2,"VCS/2026 Season/Summer Season_Week 2_5_2, Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1","Nocturne, Senna",0.4,0.45
+2,Ambessa + Nautilus,3,1,Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_3_1,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Ashe + Jarvan IV,3,1,Esports World Cup 2026/Online Qualifiers/South America_Round 2_1_3,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Ashe + Rumble,3,1,Rift Legends/2026 Season/Spring Split_Week 5_6_2,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Aurora + Jarvan IV,3,1,Esports World Cup 2026/Online Qualifiers/South America_Round 2_1_3,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Azir + Karma,3,1,North American Challengers League/2026 Season/Spring Season_Week 7_6_2,Senna,0.3333333333333333,0.4375
+2,Corki + Nami,3,1,Nexus League/2026 Season/Spring Split_Week 6_8_1,Senna,0.3333333333333333,0.4375
+2,Ezreal + Karma,3,1,LCK/2026 Season/Road to MSI_Round 4_1_4,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Gragas + Karma,3,1,North American Challengers League/2026 Season/Spring Season_Week 7_6_2,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Jarvan IV + Nautilus,3,1,VCS/2026 Season/Summer Playoffs_Round 1_3_1,Nocturne,0.3333333333333333,0.4375
+2,Jarvan IV + Rumble,3,1,EMEA Masters/2026 Season/Spring Main Event_Quarterfinals_2_3,Nocturne,0.3333333333333333,0.4375
+2,Jarvan IV + Sion,3,1,LCS/2026 Season/Spring Playoffs_Round 2_1_1,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Jhin + Karma,3,1,LJL/2026 Season/Spring Series_Week 4_2_1,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Karma + Sivir,3,1,Liga Regional Sur/2026 Season/Split 1 Playoffs_Finals_1_1,"Nocturne, Senna",0.3333333333333333,0.4375
+2,LeBlanc + Skarner,3,1,Esports Balkan League/2026 Season/Spring Playoffs_Round 4_2_4,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Lee Sin + Rumble,3,1,2026 Asian Games/Qualifier_Day 2_1_1,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Lee Sin + Ryze,3,1,LCS/2026 Season/Spring Playoffs_Round 3_1_1,Nocturne,0.3333333333333333,0.4375
+2,Lucian + Vi,3,1,LCK/2026 Season/Rounds 1-2_Week 9_1_2,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Milio + Sion,3,1,NLC/2026 Season/Spring Split_Day 2_2_1,Senna,0.3333333333333333,0.4375
+2,Milio + Vi,3,1,LCK/2026 Season/Rounds 1-2_Week 9_1_2,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Neeko + Ryze,3,1,Rift Legends/2026 Season/Spring Split_Week 5_6_2,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Ryze + Shyvana,3,1,Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs_Finals_1_4,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Sion + Sivir,3,1,Liga Regional Sur/2026 Season/Split 1 Playoffs_Finals_1_1,Nocturne,0.3333333333333333,0.4375
+3,Ashe + Lulu + Sion,3,1,CBLOL/2026 Season/Split 1 Playoffs_Round 4_1_2,Senna,0.3333333333333333,0.4375
+3,Lucian + Milio + Vi,3,1,LCK/2026 Season/Rounds 1-2_Week 9_1_2,"Nocturne, Senna",0.3333333333333333,0.4375
+2,Ashe + Sion,6,2,"CBLOL/2026 Season/Split 1 Playoffs_Round 4_1_2, NLC/2026 Season/Spring Split_Day 2_2_1",Senna,0.3333333333333333,0.4090909090909091
+2,Lucian + Milio,21,8,"LCK/2026 Season/Rounds 1-2_Week 6_2_2, VCS/2026 Season/Summer Season_Week 2_5_2, LCK/2026 Season/Rounds 1-2_Week 9_1_2","Nocturne, Senna",0.38095238095238093,0.40384615384615385
+2,Ahri + Sion,4,1,TCL/2026 Season/Spring Split_Week 6_2_2,"Nocturne, Senna",0.25,0.3888888888888889
+2,K'Sante + Milio,4,1,Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1,"Nocturne, Senna",0.25,0.3888888888888889
+2,Lulu + Sion,4,1,CBLOL/2026 Season/Split 1 Playoffs_Round 4_1_2,Senna,0.25,0.3888888888888889
+2,Milio + Naafiri,4,1,NLC/2026 Season/Spring Split_Day 2_2_1,Senna,0.25,0.3888888888888889
+3,K'Sante + Lucian + Milio,4,1,Circuito Desafiante/2026 Season/Split 2 Promotion_Round 1_2_1,"Nocturne, Senna",0.25,0.3888888888888889
+3,Akali + Lucian + Milio,2,0,,"Nocturne, Senna",0.0,0.35714285714285715
+3,Ambessa + Azir + Skarner,2,0,,Senna,0.0,0.35714285714285715
+3,Ashe + Jarvan IV + Sion,2,0,,Senna,0.0,0.35714285714285715
+3,Ashe + Lulu + Skarner,2,0,,Senna,0.0,0.35714285714285715
+3,Aurora + Lucian + Vi,2,0,,"Nocturne, Senna",0.0,0.35714285714285715
+3,Aurora + Milio + Vi,2,0,,"Nocturne, Senna",0.0,0.35714285714285715
+3,Azir + Lulu + Skarner,2,0,,"Nocturne, Senna",0.0,0.35714285714285715
+3,Lucian + Milio + Sion,2,0,,Senna,0.0,0.35714285714285715
+2,Azir + Skarner,3,0,,"Nocturne, Senna",0.0,0.3125
+2,K'Sante + Wukong,3,0,,"Nocturne, Senna",0.0,0.3125
+2,Lucian + Naafiri,3,0,,Senna,0.0,0.3125
+2,Lulu + Yunara,3,0,,Senna,0.0,0.3125
+3,Lucian + Milio + Naafiri,3,0,,Senna,0.0,0.3125
+2,Lulu + Skarner,4,0,,"Nocturne, Senna",0.0,0.2777777777777778

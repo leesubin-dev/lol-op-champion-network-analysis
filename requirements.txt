@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+networkx
+matplotlib
+scikit-learn
+nbformat
+ipykernel
+
+# Optional packages for future extensions
+# xgboost
+# lightgbm
+# pyvis
